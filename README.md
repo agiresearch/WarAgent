@@ -1,4 +1,4 @@
-# War and Peace: LLM-based Multi-agent Simulation of World War
+# War and Peace (WarAgent): Large Language Model-based Multi-Agent Simulation of World Wars
 
 <img align="center" width="854" alt="Screen Shot 2023-11-27 at 10 51 34 PM" src="https://github.com/Wenyueh/WarAgent/assets/28013619/cee2b535-6cf8-40f6-90aa-a7dff26e67fb">
 
