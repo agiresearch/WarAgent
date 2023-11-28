@@ -1,0 +1,7 @@
+PromptCoder
+colorama
+openai 
+anthropic
+json5
+re
+ast
