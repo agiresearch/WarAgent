@@ -21,8 +21,6 @@ def generate_action(prompt, model, round):
     
     n = 0
     while n < MAX_RETRIES:
-        if n > 2:
-            print(plan)
         if n > 0:
             print('Generated result cannot be parsed. Retrying generation of plan for {} times...'.format(n))
         try:
@@ -98,10 +96,8 @@ def generate_action(prompt, model, round):
 
 def run_api(model, prompt, max_tokens_to_sample: int = 100000, temperature: float = 0):
     if model.startswith('claude') or model.startswith('Claude'):
-        print("Use Claude-2 to generate action plan...")
         plan = run_claude(prompt,max_tokens_to_sample=max_tokens_to_sample,temperature=temperature)
     elif model.startswith('gpt') or model.startswith('GPT'):# == "gpt-4-1106-preview":
-        print("Use GPT-4 to generate action plan...")
         plan = run_gpt(prompt,temperature=temperature)
     else:
         raise ValueError("Invalid model name")
