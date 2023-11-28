@@ -7,9 +7,9 @@ This question has been pursued by individuals, scholars, policymakers, and organ
 
 ## WarAgent Architecture
 ![architecture](fig/board_and_stick.jpeg)
-- Country Agent & Country Agent Interction: Each country agent is defined by its corresponding country profile. In each round, the agent reacts to the current situation by generating actions available from the action space
+- Country Agent & Country Agent Interction: Each country agent is defined by its corresponding country profile. In each round, the agent reacts to the current situation by generating actions available from the action space.
 - Country Agent & Secretary Agent Interaction: Each country agent employs a designated “secretary agent” to verify the appropriateness and basic logical consistency of their actions.
-- Board and Stick: The Board is designed to manage international relationships and the Stick functions as an internal record-keeping system for each country that represents the domestic statutes 
+- Board and Stick: The Board is designed to manage international relationships and the Stick functions as an internal record-keeping system for each country that represents the domestic statutes.
 
 
 ## QuickStart
@@ -32,7 +32,7 @@ If you want to use Claude model as base:
 export CLAUDE_API_KEY=your_claude_api_key
 ```
 ### Run WarAgent simulation
-Currently WarAgent supports GPT-4 and Claude-2, two of the strongest large language models. However, we strongly recommend to use GPT-4 over Claude-2.
+Currently, WarAgent supports GPT-4 and Claude-2, two of the strongest large language models. The default choice is GPT-4.
 
 To run the default setting (historically accurate setting):
 ```
