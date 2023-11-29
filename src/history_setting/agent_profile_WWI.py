@@ -15,7 +15,7 @@ Copyright 2023 Wenyue Hua
 
 """
 
-__author__ = "Wenyue Hua"
+__author__ = "Wenyue Hua, Lizhou Fan"
 __copyright__ = "Copyright 2023, WarAgent"
 __date__ = "2023/11/28"
 __license__ = "Apache 2.0"
