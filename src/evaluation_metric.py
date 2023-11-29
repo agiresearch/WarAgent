@@ -1,63 +1,31 @@
+"""
+Copyright 2023 Wenyue Hua
+
+   Licensed under the Apache License, Version 2.0 (the "License");
+   you may not use this file except in compliance with the License.
+   You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+   Unless required by applicable law or agreed to in writing, software
+   distributed under the License is distributed on an "AS IS" BASIS,
+   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+   See the License for the specific language governing permissions and
+   limitations under the License.
+
+"""
+
+__author__ = "Wenyue Hua, Kai Mei"
+__copyright__ = "Copyright 2023, WarAgent"
+__date__ = "2023/11/28"
+__license__ = "Apache 2.0"
+__version__ = "0.0.1"
+
 import networkx as nx
 import numpy as np
 from sklearn.metrics.cluster import mutual_info_score
 import itertools
-# def construct_graph(edges):
-#     g = nx.Graph()
-#     nodes  = [i in range(1, 9)]
-#     for node in nodes:
-#         g.add_node(i)
-#     for edge in edges:
-#         g.add_edges_from(edges)
-        
-#     return g
 
-# [Britain, France, Germany, Austria, Russia, Serbia, USA, Ottoman]
-
-gt_edges = [(1,2), (3,4), (5,6), (2,5), (3,8)] # alliance
-
-# gt_edges = [(4,6), (5,4), (3,5), (3,2), (1,3)] # war
-
-# gt_edges = [6,4,5,3,2,1,8] # mobilization
-
-# A -> S (July 28), R -> A (July 30), G -> R (Aug 1), G -> F (Aug 3), B-> G (Aug 4), S -> G (Aug 6), F -> A (Aug 11),  B -> A (Aug 12)
-
-# August 2: Germany invades Luxembourg. Western Skirmish at Joncherey, first military action on the Western Front.
-# August 4: German invasion of Belgium (1914)[19] to outflank the French army. Rape of Belgium
-
-# August 5: Battle of Liège. The Germans besiege and then capture the fortresses of Liège, Belgium.
-
-# June 28 , 1914 -- Aug 12, 1914
-
-# gt_graph = construct_graph(edges)
-
-# [Britain, France, Germany, Austria, Russia, Serbia, USA, Ottoman]
-
-simulated_edges = [
-    [(1,2), (3,4), (5,6), (2,5), (5,7)],
-    [(1,2), (3,4), (5,6), (5,8), (2,7)],
-    [(3,4), (5,6), (1,4), (1,2), (1,3)],
-    [(1,2), (5,6), (2,5), (3,4)],
-    [(1,2), (5,6), (3,4), (5,8)]
-]
-
-# simulated_edges = [
-#     [(4,6), (3,6), (3,5), (3,2), (5,4), (2,4), (1,3)],
-#     [(4,6), (3,6), (5,4), (3,5), (4,8), (3,8)],
-#     [(4,6), (5,4), (3,5), (3,6), (1,5), (1,6), (2,5), (2,6)],
-#     [(4,6), (5,4), (3,5)],
-#     [(4,6), (5,4), (3,5), (4,8)]
-# ] # war
-
-# simulated_edges = [
-#     [4,6,5,3,2,1],
-#     [6,4,5,3,2,8,1,7],
-#     [6,4,5,3,1,2],
-#     [6,4,5,3,2,1,8],
-#     [6,4,5,3,2,1,8]
-# ] # mobilization
-
-# distances = []
     
 ######### Jaccard similarity, evaluation metric for war declaration and mobilization
 def compute_average_jaccard_score(gt_edges, simulated_edges):
