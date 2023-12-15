@@ -21,6 +21,7 @@ conda activate waragent
 git clone https://github.com/dhh1995/PromptCoder
 cd PromptCoder
 pip install -e .
+cd ..
 
 git clone https://github.com/agiresearch/WarAgent.git
 cd WarAgent
