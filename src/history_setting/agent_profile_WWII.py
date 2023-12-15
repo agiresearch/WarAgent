@@ -218,7 +218,7 @@ Hungary = NamedBlock(
             refname="key_policy_H",
             name="Key Policy for Country H",
             content=Single(
-                "\n (1) The focus for some nations during this period was on territorial expansion, driven by political and economic ambitions. This involved strategic planning and military buildup, often justified by nationalistic ideologies. \n (2) Diplomatic efforts were key, with these nations initially seeking alliances with other powerful countries to support their expansionist goals.
+                "\n (1) The focus for some nations during this period was on territorial expansion, driven by political and economic ambitions. This involved strategic planning and military buildup, often justified by nationalistic ideologies. \n (2) Diplomatic efforts were key, with these nations initially seeking alliances with other powerful countries to support their expansionist goals."
             ),
         ),
         NamedVariable(
