@@ -17,6 +17,11 @@ This question has been pursued by individuals, scholars, policymakers, and organ
 ```
 conda create --name waragent python=3.9
 conda activate waragent
+
+git clone https://github.com/dhh1995/PromptCoder
+cd PromptCoder
+pip install -e .
+
 git clone https://github.com/agiresearch/WarAgent.git
 cd WarAgent
 pip install -r requirements.txt
