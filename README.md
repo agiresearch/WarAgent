@@ -1,5 +1,9 @@
 # War and Peace (WarAgent): Large Language Model-based Multi-Agent Simulation of World Wars
 
+<a href='https://arxiv.org/abs/2311.17227'><img src='https://img.shields.io/badge/Paper-PDF-red'></a> 
+[![Code License](https://img.shields.io/badge/Code%20License-Apache_2.0-green.svg)](https://github.com/tatsu-lab/stanford_alpaca/blob/main/LICENSE)
+
+
 <img align="center" width="854" alt="WWI" src="fig/WWI.png">
 
 **Can we avoid wars at the crossroads of history?**
