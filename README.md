@@ -61,7 +61,17 @@ python main.py --model 'your model choice: {claude-2, gpt-4}' --scenario WWI --p
 ## License
 The source code of WarAgent is licensed under [Apache 2.0](https://github.com/tatsu-lab/stanford_alpaca/blob/main/LICENSE). The intended purpose is solely for research use.
 
-
+## Reference
+```
+@article{hua2023war,
+      title={War and Peace (WarAgent): Large Language Model-based Multi-Agent Simulation of World Wars}, 
+      author={Wenyue Hua and Lizhou Fan and Lingyao Li and Kai Mei and Jianchao Ji and Yingqiang Ge and Libby Hemphill and Yongfeng Zhang},
+      year={2023},
+      eprint={2311.17227},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI}
+}
+```
 
 
 
