@@ -56,6 +56,12 @@ new_trigger = 'your trigger event'
 python main.py --model 'your model choice: {claude-2, gpt-4}' --scenario WWI --present_thought_process --trigger new_trigger
 ```
 
+## Demo
+```
+python main.py --model gpt-4 --scenario WWI --present_thought_process
+```
+link to [video](https://drive.google.com/file/d/1-0dh0Un72LhswMTiPsYn1xTb12xwjy08/view?usp=sharing) with a 5-minute demo using the above command
+
 
 ## News
 
@@ -76,6 +82,3 @@ The source code of WarAgent is licensed under [Apache 2.0](https://github.com/ta
       primaryClass={cs.AI}
 }
 ```
-
-
-
