@@ -56,7 +56,7 @@ new_trigger = 'your trigger event'
 python main.py --model 'your model choice: {claude-2, gpt-4}' --scenario WWI --present_thought_process --trigger new_trigger
 ```
 
-## Demo
+### Demo
 ```
 python main.py --model gpt-4 --scenario WWI --present_thought_process
 ```
