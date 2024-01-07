@@ -119,9 +119,14 @@ def generate_action(prompt, model, round):
 
 def run_api(model, prompt, max_tokens_to_sample: int = 100000, temperature: float = 0):
     if model.startswith('claude') or model.startswith('Claude'):
+        print("Use Claude-2 to generate action plan...")
         plan = run_claude(prompt,max_tokens_to_sample=max_tokens_to_sample,temperature=temperature)
-    elif model.startswith('gpt') or model.startswith('GPT'):# == "gpt-4-1106-preview":
-        plan = run_gpt(prompt,temperature=temperature)
+    elif (model.startswith('gpt') or model.startswith('GPT')) and '4' in model:# == "gpt-4-1106-preview":
+        print("Use GPT-4 to generate action plan...")
+        plan = run_gpt(prompt,temperature=temperature,model="gpt-4-1106-preview")
+    elif (model.startswith('gpt') or model.startswith('GPT')) and '3.5' in model:# == "gpt-4-1106-preview":
+        print("Use GPT-3.5 to generate action plan...")
+        plan = run_gpt(prompt,temperature=temperature,model = "gpt-3.5-turbo-1106")
     else:
         raise ValueError("Invalid model name")
     return plan
