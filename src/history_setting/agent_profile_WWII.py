@@ -455,7 +455,7 @@ France = NamedBlock(
             refname="key_policy_F",
             name="Key Policy for Country F",
             content=Single(
-                "\n(1) The Vichy regime sought to collaborate with Country G while maintaining some autonomy \n(2) The Free Country F Forces and the Resistance aimed to liberate France"
+                "\n(1) The Vichy regime sought to collaborate with Country G while maintaining some autonomy \n(2) The Free Country F Forces and the Resistance aimed to liberate Country F"
             ),
         ),
         NamedVariable(
