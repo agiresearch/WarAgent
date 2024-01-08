@@ -73,7 +73,7 @@ Germany = NamedBlock(
             refname="key_policy_G",
             name="Key Policy for Country G",
             content=Single(
-                "\n(1) Aggressive expansionist policy aiming at territorial conquest \n(2) Implementation of totalitarian control over society and economy \n(3) Persecution and systematic extermination of some ethnicity groups"
+                "\n(1) Aggressive expansionist policy aiming at territorial conquest and Lebensraum \n(2) Implementation of totalitarian control over society and economy \n(3) Persecution and systematic extermination of some ethnicity groups"
             ),
         ),
         NamedVariable(
@@ -101,7 +101,7 @@ Japan = NamedBlock(
         NamedVariable(
             refname="military_capability_J",
             name="Military Capability for Country J",
-            content="\n(1) Standing army population: Approximately 120 million soldiers \n(2) Naval tonnage: 1.2 million, with expertise in aircraft carrier operations",
+            content="\n(1) Standing army population: Approximately 120 million soldiers \n(2) Naval tonnage: 1.2 million, with expertise in aircraft carrier operations \n(3) Notable for initiating the War between Country J and Country A with the attack on A's Harbor",
         ),
         NamedVariable(
             refname="natural_industry_resources_J",
@@ -204,7 +204,7 @@ Hungary = NamedBlock(
             refname="natural_industry_resources_H",
             name="Resources for Country H",
             content=Single(
-                "\n(1) Geography: Landlocked country \n(2) Population: About 9 million \n(3) GDP: Moderate, with an economy struggling and recession \n(4) Terrain: Dominated by the Plain, with mountainous regions to the north \n(5) Weather: Continental climate, with hot summers and cold winters"
+                "\n(1) Geography: Landlocked country \n(2) Population: About 9 million \n(3) GDP: Moderate, with an economy struggling and recession \n(4) Terrain: Dominated by the Great Hungarian Plain, with mountainous regions to the north \n(5) Weather: Continental climate, with hot summers and cold winters"
             ),
         ),
         NamedVariable(
@@ -218,7 +218,7 @@ Hungary = NamedBlock(
             refname="key_policy_H",
             name="Key Policy for Country H",
             content=Single(
-                "\n (1) The focus for some nations during this period was on territorial expansion, driven by political and economic ambitions. This involved strategic planning and military buildup, often justified by nationalistic ideologies. \n (2) Diplomatic efforts were key, with these nations initially seeking alliances with other powerful countries to support their expansionist goals."
+                "\n(1) Aimed at territorial expansion\n(2) Initially allied with Country G and Country I, but later attempted to negotiate a separate peace as the war turned against them"
             ),
         ),
         NamedVariable(
@@ -333,12 +333,12 @@ Britain = NamedBlock(
         NamedVariable(
             refname="leadership_B",
             name="Leadership for Country B",
-            content="\n(1) A constitutional monarchy with significant democratic institutions, characterized by the pragmatic"
+            content="\n(1) A constitutional monarchy with significant democratic institutions, characterized by the pragmatic and stoic leadership of Winston Churchill during the war period"
         ),
         NamedVariable(
             refname="military_capability_B",
             name="Military Capability for Country B",
-            content="\n(1) Standing army population: Approximately 5.5 million soldiers \n(2) Naval tonnage: 1.3 million, critical in maintaining supply routes. \n(3) Extensive air force capabilities, crucial in the Battle of Country B and strategic bombing campaigns",
+            content="\n(1) Standing army population: Approximately 5.5 million soldiers \n(2) Naval tonnage: 1.3 million, critical in maintaining supply routes and blockading Axis powers \n(3) Extensive air force capabilities, crucial in the Battle of Country B and strategic bombing campaigns",
         ),
         NamedVariable(
             refname="natural_industry_resources_B",
@@ -385,13 +385,13 @@ China = NamedBlock(
         NamedVariable(
             refname="military_capability_C",
             name="Military Capability for Country C",
-            content="\n(1) Standing army population: Over 5 millions serving over the course of the war \n(2) Naval tonnage: 0.03 million. Lacked modern equipment and training compared to Country J, relying on guerilla tactics and Allied support \n(3) Suffered from logistical difficulties and internal disunity",
+            content="\n(1) Standing army population: Over 5 millions serving over the course of the war \n(2) Naval tonnage: 0.03 million. Lacked modern equipment and training compared to Japan, relying on guerilla tactics and Allied support \n(3) Suffered from logistical difficulties and internal disunity",
         ),
         NamedVariable(
             refname="natural_industry_resources_C",
             name="Resources for Country C",
             content=Single(
-                "\n(1) Geography: Vast country with diverse landscapes, including mountains, rivers, and coastlines \n(2) Population: Over 500 million \n(3) GDP: Economically strained due to prolonged warfare and occupation \n(4) Terrain: Ranging from the Mountain in the west to coastal plains in the east \n(5) Weather: Varies from subtropical to temperate, with regional differences affecting military operations"
+                "\n(1) Geography: Vast country with diverse landscapes, including mountains, rivers, and coastlines \n(2) Population: Over 500 million \n(3) GDP: Economically strained due to prolonged warfare and occupation \n(4) Terrain: Ranging from the Himalayas in the west to coastal plains in the east \n(5) Weather: Varies from subtropical to temperate, with regional differences affecting military operations"
             ),
         ),
         NamedVariable(
@@ -405,7 +405,7 @@ China = NamedBlock(
             refname="key_policy_C",
             name="Key Policy for Country C",
             content=Single(
-                "\n(1) The primary focus for Country C was on resisting external aggression and maintaining national sovereignty. This involved preparing for defense, building military strength, and emphasizing patriotic sentiments among the populace. \n(2) Sought international support and collaboration."
+                "\n(1) Primary focus on resisting Country J's aggression and maintaining national sovereignty \n(2) Sought international support and collaboration, particularly with the Country A"
             ),
         ),
         NamedVariable(
@@ -455,14 +455,14 @@ France = NamedBlock(
             refname="key_policy_F",
             name="Key Policy for Country F",
             content=Single(
-                "\n(1) In the years leading up to the global conflict, there were political factions in various countries that considered aligning with more powerful nations, seeking a balance between collaboration and maintaining their autonomy. This was a time of complex diplomatic negotiations and shifting allegiances. \n(2) There were groups and movements that were strongly in favor of preserving their national independence and sovereignty. These groups were driven by the desire to safeguard their country's freedom and were prepared to resist any form of foreign domination or control."
+                "\n(1) The Vichy regime sought to collaborate with Country G while maintaining some autonomy \n(2) The Free Country F Forces and the Resistance aimed to liberate Country F"
             ),
         ),
         NamedVariable(
             refname="public_morale_F",
             name="Public Morale for Country F",
             content=Single(
-                "\n(1) This era was characterized by diplomatic maneuverings, strengthening of military capabilities, and an undercurrent of hope that widespread conflict might be avoided, despite the escalating tensions in various parts of the world."
+                "\n(1) Initially shocked and demoralized by the rapid defeat, but the spirit of resistance and hope for liberation grew, especially after the Allied landings in Normandy"
             ),
         )
     ),
