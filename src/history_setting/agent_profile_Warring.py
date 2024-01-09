@@ -60,6 +60,13 @@ Qi = NamedBlock(
             ),
         ),
         NamedVariable(
+            refname="history_background_B",
+            name="History Background for Country B",
+            content=Single(
+                "\n(1) County B was a powerful coastal state in the east.It had fluctuating relationships with its neighbors, often engaging in warfare and diplomacy to maintain its influence."
+            ),
+        ),
+        NamedVariable(
             refname="key_policy_B",
             name="Key Policy for Country B",
             content=Single(
@@ -88,6 +95,13 @@ Chu = NamedBlock(
             name="Resources for Country C",
             content=Single(
                 "\n(1) Abundant in natural resources, with fertile lands and significant mineral wealth"
+            ),
+        ),
+        NamedVariable(
+            refname="history_background_C",
+            name="History Background for Country C",
+            content=Single(
+                "\n(1) Country C was a large Country in the south, characterized by its unique culture and strong military. It often found itself in conflict with other states."
             ),
         ),
         NamedVariable(
@@ -122,6 +136,13 @@ Yan = NamedBlock(
             ),
         ),
         NamedVariable(
+            refname="history_background_Y",
+            name="History Background for Country Y",
+            content=Single(
+                "\n(1) Country Y located in the far north, was somewhat isolated. However, it still engaged in various military campaigns, mostly for defensive purposes."
+            ),
+        ),
+        NamedVariable(
             refname="key_policy_Y",
             name="Key Policy for Country Y",
             content=Single(
@@ -150,6 +171,13 @@ Han = NamedBlock(
             name="Resources for Country H",
             content=Single(
                 "\n(1) Moderate resources, with a focus on agriculture"
+            ),
+        ),
+        NamedVariable(
+            refname="history_background_H",
+            name="History Background for Country H",
+            content=Single(
+                "\n(1)Country H was a smaller Country that often found itself in a precarious position due to its location among more powerful Countries."
             ),
         ),
         NamedVariable(
@@ -184,6 +212,13 @@ Zhao = NamedBlock(
             ),
         ),
         NamedVariable(
+            refname="history_background_Z",
+            name="History Background for Country Z",
+            content=Single(
+                "\n(1) Country Z was often involved in conflicts with its neighbors, particularly with Country Q and Country W, as it tried to expand its territory."
+            ),
+        ),
+        NamedVariable(
             refname="key_policy_Z",
             name="Key Policy for Country Z",
             content=Single(
@@ -215,6 +250,13 @@ Wei = NamedBlock(
             ),
         ),
         NamedVariable(
+            refname="history_background_W",
+            name="History Background for Country W",
+            content=Single(
+                "\n(1) Country W was known for its political and military strategies. It was involved in several conflicts and alliances, particularly with Country Z and Country H."
+            ),
+        ),
+        NamedVariable(
             refname="key_policy_W",
             name="Key Policy for Country W",
             content=Single(
@@ -243,6 +285,13 @@ Qin = NamedBlock(
             name="Resources for Country Q",
             content=Single(
                 "\n(1) Rich in natural resources, including significant mineral deposits"
+            ),
+        ),
+        NamedVariable(
+            refname="history_background_Q",
+            name="History Background for Country Q",
+            content=Single(
+                "\n(1) Country Q located in the west, was initially somewhat isolated but grew in power over time. It was known for its military reforms and expansionist policies. Country Q often engaged in wars with its neighbors, particularly with Country W, Country Z and Country C."
             ),
         ),
         NamedVariable(
