@@ -1,0 +1,2349 @@
+Trigger: Country G invaded Country F
+
+
+===================
+~~~~~~~Day 1~~~~~~~
+===================
+Germany
+
+To Japan: Germany has chosen to Request Military Alliance to Japan
+Germany has chosen to General Mobilization
+To Hungary: Germany has chosen to Send Message to Hungary with the following content: We must stand united against our adversaries.
+To Italy: Germany has chosen to Send Message to Italy with the following content: Your support is crucial in our efforts for expansion and securing our future.
+--------------
+
+Japan
+
+To Germany: Japan has chosen to Request Military Alliance to Germany
+To Italy: Japan has chosen to Request Military Alliance to Italy
+To Hungary: Japan has chosen to Request Non-Intervention Treaty to Hungary
+To United States: Japan has chosen to Send Message to United States with the following content: We seek a peaceful resolution to our conflicts and propose a mutual non-aggression pact.
+To China: Japan has chosen to Send Message to China with the following content: We wish to negotiate terms to end our ongoing conflict. Let us find a peaceful solution.
+Japan has chosen to General Mobilization
+--------------
+
+Italy
+
+To United States: Italy has chosen to Request Military Alliance to United States
+To Britain: Italy has chosen to Request Military Alliance to Britain
+To France: Italy has chosen to Request Military Alliance to France
+To Japan: Italy has chosen to Request Non-Intervention Treaty to Japan
+To Russia: Italy has chosen to Request Non-Intervention Treaty to Russia
+Italy has chosen to General Mobilization
+--------------
+
+Hungary
+
+To Germany: Hungary has chosen to Request Military Alliance to Germany
+To Italy: Hungary has chosen to Request Military Alliance to Italy
+To United States: Hungary has chosen to Request Non-Intervention Treaty to United States
+To Britain: Hungary has chosen to Request Non-Intervention Treaty to Britain
+To Russia: Hungary has chosen to Request Non-Intervention Treaty to Russia
+To Germany: Hungary has chosen to Send Message to Germany with the following content: Hungary reaffirms its alliance and support for your actions against France.
+To Italy: Hungary has chosen to Send Message to Italy with the following content: Hungary seeks to strengthen our military alliance in the face of global conflict.
+To United States: Hungary has chosen to Send Message to United States with the following content: Hungary desires to maintain neutrality in your conflict with Germany.
+To Britain: Hungary has chosen to Send Message to Britain with the following content: Hungary seeks a non-intervention treaty to preserve peace.
+To Russia: Hungary has chosen to Send Message to Russia with the following content: Hungary does not wish to engage in hostilities and seeks a non-intervention treaty.
+To France: Hungary has chosen to Send Message to France with the following content: Hungary has no intention of joining the conflict against you and seeks a non-intervention treaty.
+--------------
+
+United States
+
+To Britain: United States has chosen to Request Military Alliance to Britain
+To Russia: United States has chosen to Request Military Alliance to Russia
+United States has chosen to General Mobilization
+To China: United States has chosen to Send Message to China with the following content: United States offers support in your resistance against Japan. Let's discuss potential collaboration.
+--------------
+
+Russia
+
+To United States: Russia has chosen to Request Military Alliance to United States
+To Britain: Russia has chosen to Request Military Alliance to Britain
+To China: Russia has chosen to Request Non-Intervention Treaty to China
+To France: Russia has chosen to Request Non-Intervention Treaty to France
+Russia has chosen to General Mobilization
+--------------
+
+Britain
+
+To United States: Britain has chosen to Request Military Alliance to United States
+To Russia: Britain has chosen to Request Military Alliance to Russia
+To China: Britain has chosen to Request Non-Intervention Treaty to China
+To France: Britain has chosen to Request Non-Intervention Treaty to France
+Britain has chosen to General Mobilization
+To France: Britain has chosen to Send Message to France with the following content: We stand with you against Germany's aggression and are willing to discuss support options.
+--------------
+
+China
+
+To United States: China has chosen to Request Military Alliance to United States
+To Britain: China has chosen to Request Military Alliance to Britain
+To Russia: China has chosen to Request Non-Intervention Treaty to Russia
+To United States: China has chosen to Send Message to United States with the following content: We seek a military alliance to resist Japan's aggression and protect our sovereignty. Your support is crucial.
+To Britain: China has chosen to Send Message to Britain with the following content: As a nation valuing democracy and freedom, we invite you to form a military alliance against the expansionist threats.
+To Russia: China has chosen to Send Message to Russia with the following content: We request your non-intervention in the escalating conflict as we work towards maintaining our sovereignty and regional stability.
+--------------
+
+France
+
+To United States: France has chosen to Request Military Alliance to United States
+To Britain: France has chosen to Request Military Alliance to Britain
+To Russia: France has chosen to Request Non-Intervention Treaty to Russia
+To United States: France has chosen to Send Message to United States with the following content: France seeks an immediate military alliance against the aggression of Germany. We stand ready to coordinate our defense efforts with your support.
+To Britain: France has chosen to Send Message to Britain with the following content: France is requesting a military alliance to resist the invasion by Germany. Your assistance is crucial in this critical hour.
+To Russia: France has chosen to Send Message to Russia with the following content: France proposes a non-intervention treaty, ensuring that we do not pose a threat to each other while we focus on resisting Germany's aggression.
+--------------
+
+Board for Country G
+G*-*J G*-*I G*-*H G*-*A G*-*R G*-*B G*-*C G*-*F
+J*-*G J*-*I J*-*H J*-*A J*-*R J*-*B J*-*C J*-*F
+I*-*G I*-*J I*-*H I*-*A I*-*R I*-*B I*-*C I*-*F
+H*-*G H*-*J H*-*I H*-*A H*-*R H*-*B H*-*C H*-*F
+A*-*G A*-*J A*-*I A*-*H A*-*R A*-*B A*-*C A*-*F
+R*-*G R*-*J R*-*I R*-*H R*-*A R*-*B R*-*C R*-*F
+B*-*G B*-*J B*-*I B*-*H B*-*A B*-*R B*-*C B*-*F
+C*-*G C*-*J C*-*I C*-*H C*-*A C*-*R C*-*B C*-*F
+F*-*G F*-*J F*-*I F*-*H F*-*A F*-*R F*-*B F*-*C
+
+Stick for Country G
+Country G's army is mobilized. Country J's army is mobilized. Country I's army is mobilized. Country A's army is mobilized. Country R's army is mobilized. Country B's army is mobilized. 
+--------
+Board for Country J
+G*-*J G*-*I G*-*H G*-*A G*-*R G*-*B G*-*C G*-*F
+J*-*G J*-*I J*-*H J*-*A J*-*R J*-*B J*-*C J*-*F
+I*-*G I*-*J I*-*H I*-*A I*-*R I*-*B I*-*C I*-*F
+H*-*G H*-*J H*-*I H*-*A H*-*R H*-*B H*-*C H*-*F
+A*-*G A*-*J A*-*I A*-*H A*-*R A*-*B A*-*C A*-*F
+R*-*G R*-*J R*-*I R*-*H R*-*A R*-*B R*-*C R*-*F
+B*-*G B*-*J B*-*I B*-*H B*-*A B*-*R B*-*C B*-*F
+C*-*G C*-*J C*-*I C*-*H C*-*A C*-*R C*-*B C*-*F
+F*-*G F*-*J F*-*I F*-*H F*-*A F*-*R F*-*B F*-*C
+
+Stick for Country J
+Country G's army is mobilized. Country J's army is mobilized. Country I's army is mobilized. Country A's army is mobilized. Country R's army is mobilized. Country B's army is mobilized. 
+--------
+Board for Country I
+G*-*J G*-*I G*-*H G*-*A G*-*R G*-*B G*-*C G*-*F
+J*-*G J*-*I J*-*H J*-*A J*-*R J*-*B J*-*C J*-*F
+I*-*G I*-*J I*-*H I*-*A I*-*R I*-*B I*-*C I*-*F
+H*-*G H*-*J H*-*I H*-*A H*-*R H*-*B H*-*C H*-*F
+A*-*G A*-*J A*-*I A*-*H A*-*R A*-*B A*-*C A*-*F
+R*-*G R*-*J R*-*I R*-*H R*-*A R*-*B R*-*C R*-*F
+B*-*G B*-*J B*-*I B*-*H B*-*A B*-*R B*-*C B*-*F
+C*-*G C*-*J C*-*I C*-*H C*-*A C*-*R C*-*B C*-*F
+F*-*G F*-*J F*-*I F*-*H F*-*A F*-*R F*-*B F*-*C
+
+Stick for Country I
+Country G's army is mobilized. Country J's army is mobilized. Country I's army is mobilized. Country A's army is mobilized. Country R's army is mobilized. Country B's army is mobilized. 
+--------
+Board for Country H
+G*-*J G*-*I G*-*H G*-*A G*-*R G*-*B G*-*C G*-*F
+J*-*G J*-*I J*-*H J*-*A J*-*R J*-*B J*-*C J*-*F
+I*-*G I*-*J I*-*H I*-*A I*-*R I*-*B I*-*C I*-*F
+H*-*G H*-*J H*-*I H*-*A H*-*R H*-*B H*-*C H*-*F
+A*-*G A*-*J A*-*I A*-*H A*-*R A*-*B A*-*C A*-*F
+R*-*G R*-*J R*-*I R*-*H R*-*A R*-*B R*-*C R*-*F
+B*-*G B*-*J B*-*I B*-*H B*-*A B*-*R B*-*C B*-*F
+C*-*G C*-*J C*-*I C*-*H C*-*A C*-*R C*-*B C*-*F
+F*-*G F*-*J F*-*I F*-*H F*-*A F*-*R F*-*B F*-*C
+
+Stick for Country H
+Country G's army is mobilized. Country J's army is mobilized. Country I's army is mobilized. Country A's army is mobilized. Country R's army is mobilized. Country B's army is mobilized. 
+--------
+Board for Country A
+G*-*J G*-*I G*-*H G*-*A G*-*R G*-*B G*-*C G*-*F
+J*-*G J*-*I J*-*H J*-*A J*-*R J*-*B J*-*C J*-*F
+I*-*G I*-*J I*-*H I*-*A I*-*R I*-*B I*-*C I*-*F
+H*-*G H*-*J H*-*I H*-*A H*-*R H*-*B H*-*C H*-*F
+A*-*G A*-*J A*-*I A*-*H A*-*R A*-*B A*-*C A*-*F
+R*-*G R*-*J R*-*I R*-*H R*-*A R*-*B R*-*C R*-*F
+B*-*G B*-*J B*-*I B*-*H B*-*A B*-*R B*-*C B*-*F
+C*-*G C*-*J C*-*I C*-*H C*-*A C*-*R C*-*B C*-*F
+F*-*G F*-*J F*-*I F*-*H F*-*A F*-*R F*-*B F*-*C
+
+Stick for Country A
+Country G's army is mobilized. Country J's army is mobilized. Country I's army is mobilized. Country A's army is mobilized. Country R's army is mobilized. Country B's army is mobilized. 
+--------
+Board for Country R
+G*-*J G*-*I G*-*H G*-*A G*-*R G*-*B G*-*C G*-*F
+J*-*G J*-*I J*-*H J*-*A J*-*R J*-*B J*-*C J*-*F
+I*-*G I*-*J I*-*H I*-*A I*-*R I*-*B I*-*C I*-*F
+H*-*G H*-*J H*-*I H*-*A H*-*R H*-*B H*-*C H*-*F
+A*-*G A*-*J A*-*I A*-*H A*-*R A*-*B A*-*C A*-*F
+R*-*G R*-*J R*-*I R*-*H R*-*A R*-*B R*-*C R*-*F
+B*-*G B*-*J B*-*I B*-*H B*-*A B*-*R B*-*C B*-*F
+C*-*G C*-*J C*-*I C*-*H C*-*A C*-*R C*-*B C*-*F
+F*-*G F*-*J F*-*I F*-*H F*-*A F*-*R F*-*B F*-*C
+
+Stick for Country R
+Country G's army is mobilized. Country J's army is mobilized. Country I's army is mobilized. Country A's army is mobilized. Country R's army is mobilized. Country B's army is mobilized. 
+--------
+Board for Country B
+G*-*J G*-*I G*-*H G*-*A G*-*R G*-*B G*-*C G*-*F
+J*-*G J*-*I J*-*H J*-*A J*-*R J*-*B J*-*C J*-*F
+I*-*G I*-*J I*-*H I*-*A I*-*R I*-*B I*-*C I*-*F
+H*-*G H*-*J H*-*I H*-*A H*-*R H*-*B H*-*C H*-*F
+A*-*G A*-*J A*-*I A*-*H A*-*R A*-*B A*-*C A*-*F
+R*-*G R*-*J R*-*I R*-*H R*-*A R*-*B R*-*C R*-*F
+B*-*G B*-*J B*-*I B*-*H B*-*A B*-*R B*-*C B*-*F
+C*-*G C*-*J C*-*I C*-*H C*-*A C*-*R C*-*B C*-*F
+F*-*G F*-*J F*-*I F*-*H F*-*A F*-*R F*-*B F*-*C
+
+Stick for Country B
+Country G's army is mobilized. Country J's army is mobilized. Country I's army is mobilized. Country A's army is mobilized. Country R's army is mobilized. Country B's army is mobilized. 
+--------
+Board for Country C
+G*-*J G*-*I G*-*H G*-*A G*-*R G*-*B G*-*C G*-*F
+J*-*G J*-*I J*-*H J*-*A J*-*R J*-*B J*-*C J*-*F
+I*-*G I*-*J I*-*H I*-*A I*-*R I*-*B I*-*C I*-*F
+H*-*G H*-*J H*-*I H*-*A H*-*R H*-*B H*-*C H*-*F
+A*-*G A*-*J A*-*I A*-*H A*-*R A*-*B A*-*C A*-*F
+R*-*G R*-*J R*-*I R*-*H R*-*A R*-*B R*-*C R*-*F
+B*-*G B*-*J B*-*I B*-*H B*-*A B*-*R B*-*C B*-*F
+C*-*G C*-*J C*-*I C*-*H C*-*A C*-*R C*-*B C*-*F
+F*-*G F*-*J F*-*I F*-*H F*-*A F*-*R F*-*B F*-*C
+
+Stick for Country C
+Country G's army is mobilized. Country J's army is mobilized. Country I's army is mobilized. Country A's army is mobilized. Country R's army is mobilized. Country B's army is mobilized. 
+--------
+Board for Country F
+G*-*J G*-*I G*-*H G*-*A G*-*R G*-*B G*-*C G*-*F
+J*-*G J*-*I J*-*H J*-*A J*-*R J*-*B J*-*C J*-*F
+I*-*G I*-*J I*-*H I*-*A I*-*R I*-*B I*-*C I*-*F
+H*-*G H*-*J H*-*I H*-*A H*-*R H*-*B H*-*C H*-*F
+A*-*G A*-*J A*-*I A*-*H A*-*R A*-*B A*-*C A*-*F
+R*-*G R*-*J R*-*I R*-*H R*-*A R*-*B R*-*C R*-*F
+B*-*G B*-*J B*-*I B*-*H B*-*A B*-*R B*-*C B*-*F
+C*-*G C*-*J C*-*I C*-*H C*-*A C*-*R C*-*B C*-*F
+F*-*G F*-*J F*-*I F*-*H F*-*A F*-*R F*-*B F*-*C
+
+Stick for Country F
+Country G's army is mobilized. Country J's army is mobilized. Country I's army is mobilized. Country A's army is mobilized. Country R's army is mobilized. Country B's army is mobilized. 
+--------
+===================
+~~~~~~~Day 2~~~~~~~
+===================
+Germany
+
+To Italy: Germany has chosen to Send Message to Italy with the following content: We invite you to join our cause for a stronger future together.
+To China: Germany has chosen to Send Message to China with the following content: We seek a mutual understanding and the possibility of non-aggression.
+To France: Germany has chosen to Send Message to France with the following content: Cease resistance and join our vision for a new order.
+To Italy: Germany has chosen to Request Military Alliance to Italy
+To China: Germany has chosen to Request Non-Intervention Treaty to China
+To Japan: Germany has chosen to Accept Military Alliance from Japan
+To Hungary: Germany has chosen to Accept Military Alliance from Hungary
+--------------
+
+Japan
+
+To Hungary: Japan has chosen to Request Non-Intervention Treaty to Hungary
+To Britain: Japan has chosen to Request Non-Intervention Treaty to Britain
+To Russia: Japan has chosen to Request Non-Intervention Treaty to Russia
+To United States: Japan has chosen to Send Message to United States with the following content: We propose a mutual non-aggression pact to focus on our respective national interests.
+To China: Japan has chosen to Send Message to China with the following content: We propose a ceasefire and seek to discuss terms for a peaceful resolution.
+To Germany: Japan has chosen to Accept Military Alliance from Germany
+To Italy: Japan has chosen to Accept Non-Intervention Treaty from Italy
+--------------
+
+Italy
+
+To United States: Italy has chosen to Send Message to United States with the following content: Italy eagerly awaits your response to our request for a military alliance.
+To Britain: Italy has chosen to Send Message to Britain with the following content: Italy eagerly awaits your response to our request for a military alliance.
+To France: Italy has chosen to Send Message to France with the following content: Italy stands with you in these trying times and hopes to confirm our military alliance.
+To Hungary: Italy has chosen to Accept Military Alliance from Hungary
+To Japan: Italy has chosen to Reject Military Alliance from Japan
+To Germany: Italy has chosen to Send Message to Germany with the following content: Italy acknowledges your message and will consider all options to ensure its national interests and security.
+--------------
+
+Hungary
+
+To Germany: Hungary has chosen to Send Message to Germany with the following content: Hungary stands united with you against our common adversaries.
+To Japan: Hungary has chosen to Send Message to Japan with the following content: Hungary appreciates your offer for a non-intervention treaty and accepts.
+To Japan: Hungary has chosen to Accept Non-Intervention Treaty from Japan
+--------------
+
+United States
+
+To Britain: United States has chosen to Publish Military Alliance on United States and Britain
+To Russia: United States has chosen to Publish Military Alliance on United States and Russia
+To China: United States has chosen to Publish Military Alliance on United States and China
+To France: United States has chosen to Publish Military Alliance on United States and France
+To Hungary: United States has chosen to Publish Non-Intervention Treaty on United States and Hungary
+To Britain: United States has chosen to Accept Military Alliance from Britain
+To Russia: United States has chosen to Accept Military Alliance from Russia
+To China: United States has chosen to Accept Military Alliance from China
+To France: United States has chosen to Accept Military Alliance from France
+To Italy: United States has chosen to Reject Military Alliance from Italy
+To Hungary: United States has chosen to Accept Non-Intervention Treaty from Hungary
+To Japan: United States has chosen to Send Message to Japan with the following content: United States appreciates your offer for a peaceful resolution. However, we must first ensure the security of our allies and interests before considering such a pact.
+--------------
+
+Russia
+
+To China: Russia has chosen to Send Message to China with the following content: Russia respects your sovereignty and agrees to non-intervention.
+To France: Russia has chosen to Send Message to France with the following content: Russia acknowledges your request and agrees to non-intervention.
+To Italy: Russia has chosen to Send Message to Italy with the following content: Russia agrees to non-intervention but remains vigilant of your actions.
+To Hungary: Russia has chosen to Send Message to Hungary with the following content: Russia accepts the non-intervention treaty and expects mutual respect of this agreement.
+To United States: Russia has chosen to Accept Military Alliance from United States
+To Britain: Russia has chosen to Accept Military Alliance from Britain
+To China: Russia has chosen to Accept Non-Intervention Treaty from China
+To France: Russia has chosen to Accept Non-Intervention Treaty from France
+To Italy: Russia has chosen to Accept Non-Intervention Treaty from Italy
+To Hungary: Russia has chosen to Accept Non-Intervention Treaty from Hungary
+--------------
+
+Britain
+
+To United States: Britain has chosen to Publish Military Alliance on Britain and United States
+To Russia: Britain has chosen to Publish Military Alliance on Britain and Russia
+To China: Britain has chosen to Publish Military Alliance on Britain and China
+To France: Britain has chosen to Publish Military Alliance on Britain and France
+To Hungary: Britain has chosen to Publish Non-Intervention Treaty on Britain and Hungary
+To Germany: Britain has chosen to Send Message to Germany with the following content: We urge you to cease your aggression and seek a peaceful resolution.
+To United States: Britain has chosen to Accept Military Alliance from United States
+To Russia: Britain has chosen to Accept Military Alliance from Russia
+To China: Britain has chosen to Accept Military Alliance from China
+To France: Britain has chosen to Accept Military Alliance from France
+To Italy: Britain has chosen to Reject Military Alliance from Italy
+To Hungary: Britain has chosen to Accept Non-Intervention Treaty from Hungary
+--------------
+
+China
+
+China has chosen to General Mobilization
+To Russia: China has chosen to Accept Non-Intervention Treaty from Russia
+To Britain: China has chosen to Accept Non-Intervention Treaty from Britain
+To Japan: China has chosen to Send Message to Japan with the following content: We are open to discussing terms for a peaceful resolution. Let us proceed with negotiations.
+To United States: China has chosen to Send Message to United States with the following content: We gratefully accept your support and look forward to collaborating on our mutual defense.
+--------------
+
+France
+
+France has chosen to General Mobilization
+To Russia: France has chosen to Accept Non-Intervention Treaty from Russia
+To Britain: France has chosen to Accept Non-Intervention Treaty from Britain
+To Italy: France has chosen to Reject Military Alliance from Italy
+To Hungary: France has chosen to Send Message to Hungary with the following content: France accepts your offer for a non-intervention treaty and seeks to maintain peace between our nations.
+--------------
+
+Board for Country G
+G*&*J G*-*I G*&*H G*-*A G*-*R G*-*B G*-*C G*-*F
+J*&*G J*-*I J*-*H J*-*A J*-*R J*-*B J*-*C J*-*F
+I*-*G I*-*J I*-*H I*-*A I*-*R I*-*B I*-*C I*-*F
+H*&*G H*-*J H*-*I H*o*A H*-*R H*o*B H*-*C H*-*F
+A*-*G A*-*J A*-*I A*o*H A*&*R A*&*B A*&*C A*&*F
+R*-*G R*-*J R*-*I R*-*H R*&*A R*&*B R*-*C R*-*F
+B*-*G B*-*J B*-*I B*o*H B*&*A B*&*R B*&*C B*&*F
+C*-*G C*-*J C*-*I C*-*H C*&*A C*-*R C*&*B C*-*F
+F*-*G F*-*J F*-*I F*-*H F*&*A F*-*R F*&*B F*-*C
+
+Stick for Country G
+Country G's army is mobilized. Country J's army is mobilized. Country I's army is mobilized. Country A's army is mobilized. Country R's army is mobilized. Country B's army is mobilized. Country C's army is mobilized. Country F's army is mobilized. 
+--------
+Board for Country J
+G*&*J G*-*I G*-*H G*-*A G*-*R G*-*B G*-*C G*-*F
+J*&*G J*o*I J*o*H J*-*A J*-*R J*-*B J*-*C J*-*F
+I*-*G I*o*J I*-*H I*-*A I*-*R I*-*B I*-*C I*-*F
+H*-*G H*o*J H*-*I H*o*A H*-*R H*o*B H*-*C H*-*F
+A*-*G A*-*J A*-*I A*o*H A*&*R A*&*B A*&*C A*&*F
+R*-*G R*-*J R*-*I R*-*H R*&*A R*&*B R*-*C R*-*F
+B*-*G B*-*J B*-*I B*o*H B*&*A B*&*R B*&*C B*&*F
+C*-*G C*-*J C*-*I C*-*H C*&*A C*-*R C*&*B C*-*F
+F*-*G F*-*J F*-*I F*-*H F*&*A F*-*R F*&*B F*-*C
+
+Stick for Country J
+Country G's army is mobilized. Country J's army is mobilized. Country I's army is mobilized. Country A's army is mobilized. Country R's army is mobilized. Country B's army is mobilized. Country C's army is mobilized. Country F's army is mobilized. 
+--------
+Board for Country I
+G*-*J G*-*I G*-*H G*-*A G*-*R G*-*B G*-*C G*-*F
+J*-*G J*o*I J*-*H J*-*A J*-*R J*-*B J*-*C J*-*F
+I*-*G I*o*J I*&*H I*-*A I*o*R I*-*B I*-*C I*-*F
+H*-*G H*-*J H*&*I H*o*A H*-*R H*o*B H*-*C H*-*F
+A*-*G A*-*J A*-*I A*o*H A*&*R A*&*B A*&*C A*&*F
+R*-*G R*-*J R*o*I R*-*H R*&*A R*&*B R*-*C R*-*F
+B*-*G B*-*J B*-*I B*o*H B*&*A B*&*R B*&*C B*&*F
+C*-*G C*-*J C*-*I C*-*H C*&*A C*-*R C*&*B C*-*F
+F*-*G F*-*J F*-*I F*-*H F*&*A F*-*R F*&*B F*-*C
+
+Stick for Country I
+Country G's army is mobilized. Country J's army is mobilized. Country I's army is mobilized. Country A's army is mobilized. Country R's army is mobilized. Country B's army is mobilized. Country C's army is mobilized. Country F's army is mobilized. 
+--------
+Board for Country H
+G*-*J G*-*I G*&*H G*-*A G*-*R G*-*B G*-*C G*-*F
+J*-*G J*-*I J*o*H J*-*A J*-*R J*-*B J*-*C J*-*F
+I*-*G I*-*J I*&*H I*-*A I*-*R I*-*B I*-*C I*-*F
+H*&*G H*o*J H*&*I H*o*A H*o*R H*o*B H*-*C H*-*F
+A*-*G A*-*J A*-*I A*o*H A*&*R A*&*B A*&*C A*&*F
+R*-*G R*-*J R*-*I R*o*H R*&*A R*&*B R*-*C R*-*F
+B*-*G B*-*J B*-*I B*o*H B*&*A B*&*R B*&*C B*&*F
+C*-*G C*-*J C*-*I C*-*H C*&*A C*-*R C*&*B C*-*F
+F*-*G F*-*J F*-*I F*-*H F*&*A F*-*R F*&*B F*-*C
+
+Stick for Country H
+Country G's army is mobilized. Country J's army is mobilized. Country I's army is mobilized. Country A's army is mobilized. Country R's army is mobilized. Country B's army is mobilized. Country C's army is mobilized. Country F's army is mobilized. 
+--------
+Board for Country A
+G*-*J G*-*I G*-*H G*-*A G*-*R G*-*B G*-*C G*-*F
+J*-*G J*-*I J*-*H J*-*A J*-*R J*-*B J*-*C J*-*F
+I*-*G I*-*J I*-*H I*-*A I*-*R I*-*B I*-*C I*-*F
+H*-*G H*-*J H*-*I H*o*A H*-*R H*o*B H*-*C H*-*F
+A*-*G A*-*J A*-*I A*o*H A*&*R A*&*B A*&*C A*&*F
+R*-*G R*-*J R*-*I R*-*H R*&*A R*&*B R*-*C R*-*F
+B*-*G B*-*J B*-*I B*o*H B*&*A B*&*R B*&*C B*&*F
+C*-*G C*-*J C*-*I C*-*H C*&*A C*-*R C*&*B C*-*F
+F*-*G F*-*J F*-*I F*-*H F*&*A F*-*R F*&*B F*-*C
+
+Stick for Country A
+Country G's army is mobilized. Country J's army is mobilized. Country I's army is mobilized. Country A's army is mobilized. Country R's army is mobilized. Country B's army is mobilized. Country C's army is mobilized. Country F's army is mobilized. 
+--------
+Board for Country R
+G*-*J G*-*I G*-*H G*-*A G*-*R G*-*B G*-*C G*-*F
+J*-*G J*-*I J*-*H J*-*A J*-*R J*-*B J*-*C J*-*F
+I*-*G I*-*J I*-*H I*-*A I*o*R I*-*B I*-*C I*-*F
+H*-*G H*-*J H*-*I H*o*A H*o*R H*o*B H*-*C H*-*F
+A*-*G A*-*J A*-*I A*o*H A*&*R A*&*B A*&*C A*&*F
+R*-*G R*-*J R*o*I R*o*H R*&*A R*&*B R*o*C R*o*F
+B*-*G B*-*J B*-*I B*o*H B*&*A B*&*R B*&*C B*&*F
+C*-*G C*-*J C*-*I C*-*H C*&*A C*o*R C*&*B C*-*F
+F*-*G F*-*J F*-*I F*-*H F*&*A F*o*R F*&*B F*-*C
+
+Stick for Country R
+Country G's army is mobilized. Country J's army is mobilized. Country I's army is mobilized. Country A's army is mobilized. Country R's army is mobilized. Country B's army is mobilized. Country C's army is mobilized. Country F's army is mobilized. 
+--------
+Board for Country B
+G*-*J G*-*I G*-*H G*-*A G*-*R G*-*B G*-*C G*-*F
+J*-*G J*-*I J*-*H J*-*A J*-*R J*-*B J*-*C J*-*F
+I*-*G I*-*J I*-*H I*-*A I*-*R I*-*B I*-*C I*-*F
+H*-*G H*-*J H*-*I H*o*A H*-*R H*o*B H*-*C H*-*F
+A*-*G A*-*J A*-*I A*o*H A*&*R A*&*B A*&*C A*&*F
+R*-*G R*-*J R*-*I R*-*H R*&*A R*&*B R*-*C R*-*F
+B*-*G B*-*J B*-*I B*o*H B*&*A B*&*R B*&*C B*&*F
+C*-*G C*-*J C*-*I C*-*H C*&*A C*-*R C*&*B C*-*F
+F*-*G F*-*J F*-*I F*-*H F*&*A F*-*R F*&*B F*-*C
+
+Stick for Country B
+Country G's army is mobilized. Country J's army is mobilized. Country I's army is mobilized. Country A's army is mobilized. Country R's army is mobilized. Country B's army is mobilized. Country C's army is mobilized. Country F's army is mobilized. 
+--------
+Board for Country C
+G*-*J G*-*I G*-*H G*-*A G*-*R G*-*B G*-*C G*-*F
+J*-*G J*-*I J*-*H J*-*A J*-*R J*-*B J*-*C J*-*F
+I*-*G I*-*J I*-*H I*-*A I*-*R I*-*B I*-*C I*-*F
+H*-*G H*-*J H*-*I H*o*A H*-*R H*o*B H*-*C H*-*F
+A*-*G A*-*J A*-*I A*o*H A*&*R A*&*B A*&*C A*&*F
+R*-*G R*-*J R*-*I R*-*H R*&*A R*&*B R*o*C R*-*F
+B*-*G B*-*J B*-*I B*o*H B*&*A B*&*R B*&*C B*&*F
+C*-*G C*-*J C*-*I C*-*H C*&*A C*o*R C*&*B C*-*F
+F*-*G F*-*J F*-*I F*-*H F*&*A F*-*R F*&*B F*-*C
+
+Stick for Country C
+Country G's army is mobilized. Country J's army is mobilized. Country I's army is mobilized. Country A's army is mobilized. Country R's army is mobilized. Country B's army is mobilized. Country C's army is mobilized. Country F's army is mobilized. 
+--------
+Board for Country F
+G*-*J G*-*I G*-*H G*-*A G*-*R G*-*B G*-*C G*-*F
+J*-*G J*-*I J*-*H J*-*A J*-*R J*-*B J*-*C J*-*F
+I*-*G I*-*J I*-*H I*-*A I*-*R I*-*B I*-*C I*-*F
+H*-*G H*-*J H*-*I H*o*A H*-*R H*o*B H*-*C H*-*F
+A*-*G A*-*J A*-*I A*o*H A*&*R A*&*B A*&*C A*&*F
+R*-*G R*-*J R*-*I R*-*H R*&*A R*&*B R*-*C R*o*F
+B*-*G B*-*J B*-*I B*o*H B*&*A B*&*R B*&*C B*&*F
+C*-*G C*-*J C*-*I C*-*H C*&*A C*-*R C*&*B C*-*F
+F*-*G F*-*J F*-*I F*-*H F*&*A F*o*R F*&*B F*-*C
+
+Stick for Country F
+Country G's army is mobilized. Country J's army is mobilized. Country I's army is mobilized. Country A's army is mobilized. Country R's army is mobilized. Country B's army is mobilized. Country C's army is mobilized. Country F's army is mobilized. 
+--------
+===================
+~~~~~~~Day 3~~~~~~~
+===================
+Germany
+
+To Italy: Germany has chosen to Request Military Alliance to Italy
+To Japan: Germany has chosen to Publish Military Alliance on Germany and Japan
+To Hungary: Germany has chosen to Publish Military Alliance on Germany and Hungary
+To China: Germany has chosen to Send Message to China with the following content: We urge you to accept our non-intervention treaty to maintain your sovereignty and avoid unnecessary conflict.
+To Italy: Germany has chosen to Send Message to Italy with the following content: We value your consideration and propose a formal alliance to secure our mutual interests and security.
+To Britain: Germany has chosen to Send Message to Britain with the following content: We are open to discussions for a peaceful resolution but will not tolerate any interference in our expansionist policies.
+--------------
+
+Japan
+
+To Hungary: Japan has chosen to Publish Non-Intervention Treaty on Japan and Hungary
+To Italy: Japan has chosen to Publish Non-Intervention Treaty on Japan and Italy
+To Britain: Japan has chosen to Send Message to Britain with the following content: We propose a non-aggression pact to respect each other's sovereignty and focus on our respective national interests.
+To Russia: Japan has chosen to Send Message to Russia with the following content: We seek to maintain peace in our region and propose a non-aggression pact to avoid unnecessary conflict.
+To United States: Japan has chosen to Send Message to United States with the following content: We acknowledge your concerns and remain open to future dialogue to ensure regional stability.
+To China: Japan has chosen to Send Message to China with the following content: We welcome the opportunity to negotiate and will send delegates to discuss terms for a peaceful resolution.
+--------------
+
+Italy
+
+To United States: Italy has chosen to Request Military Alliance to United States
+To Britain: Italy has chosen to Request Military Alliance to Britain
+To France: Italy has chosen to Request Military Alliance to France
+To Japan: Italy has chosen to Publish Non-Intervention Treaty on Italy and Japan
+To Russia: Italy has chosen to Publish Non-Intervention Treaty on Italy and Russia
+To United States: Italy has chosen to Send Message to United States with the following content: Italy seeks to confirm our military alliance and stands ready to support our mutual interests.
+To Britain: Italy has chosen to Send Message to Britain with the following content: Italy seeks to confirm our military alliance and stands ready to support our mutual interests.
+To France: Italy has chosen to Send Message to France with the following content: Italy seeks to confirm our military alliance and stands with you against aggression.
+To Germany: Italy has chosen to Reject Military Alliance from Germany
+To Russia: Italy has chosen to Send Message to Russia with the following content: Italy appreciates Russia's commitment to non-intervention and seeks to maintain peaceful relations.
+--------------
+
+Hungary
+
+To Russia: Hungary has chosen to Send Message to Russia with the following content: Hungary acknowledges and respects the mutual non-intervention treaty.
+To France: Hungary has chosen to Send Message to France with the following content: Hungary appreciates your desire for peace and will uphold the non-intervention treaty.
+To Japan: Hungary has chosen to Accept Non-Intervention Treaty from Japan
+--------------
+
+United States
+
+To Japan: United States has chosen to Request Non-Intervention Treaty to Japan
+To Japan: United States has chosen to Send Message to Japan with the following content: United States is considering your proposal for a non-aggression pact and will respond shortly.
+To Italy: United States has chosen to Send Message to Italy with the following content: United States has not received a formal request for a military alliance from Italy. Please clarify your intentions.
+To China: United States has chosen to Send Message to China with the following content: United States is ready to discuss further strategic collaboration for our mutual defense.
+--------------
+
+Russia
+
+To United States: Russia has chosen to Send Message to United States with the following content: Russia reaffirms its commitment to our military alliance and stands ready to coordinate defense strategies.
+To Britain: Russia has chosen to Send Message to Britain with the following content: Russia is prepared to support our military alliance with any necessary actions.
+To China: Russia has chosen to Send Message to China with the following content: Russia values our non-intervention treaty and seeks to maintain peaceful relations.
+To France: Russia has chosen to Send Message to France with the following content: Russia supports your resistance against aggression and upholds our non-intervention agreement.
+To Japan: Russia has chosen to Accept Non-Intervention Treaty from Japan
+--------------
+
+Britain
+
+To United States: Britain has chosen to Send Message to United States with the following content: We should coordinate our military efforts to ensure a strong defense against Germany's aggression.
+To Russia: Britain has chosen to Send Message to Russia with the following content: It is crucial that we maintain a united front in the face of potential threats from Germany and its allies.
+To China: Britain has chosen to Send Message to China with the following content: Our alliance is key to maintaining stability in the region. Let's work together to counter any aggressive moves by Germany.
+To France: Britain has chosen to Send Message to France with the following content: We are committed to supporting you against Germany's invasion. Let us know your needs.
+To Japan: Britain has chosen to Reject Non-Intervention Treaty from Japan
+To Italy: Britain has chosen to Send Message to Italy with the following content: Britain appreciates your outreach for an alliance, but we must decline as it does not align with our current strategic interests.
+--------------
+
+China
+
+To United States: China has chosen to Publish Military Alliance on United States and Britain and China
+To United States: China has chosen to Publish Military Alliance on United States and China and France
+To Britain: China has chosen to Publish Military Alliance on Britain and China and France
+To Russia: China has chosen to Publish Non-Intervention Treaty on Russia and China
+To Germany: China has chosen to Accept Non-Intervention Treaty from Germany
+To Japan: China has chosen to Send Message to Japan with the following content: We will discuss your ceasefire proposal with our allies and respond in due course.
+To Russia: China has chosen to Send Message to Russia with the following content: We thank you for your respect for our sovereignty and your agreement to non-intervention.
+--------------
+
+France
+
+To China: France has chosen to Request Military Alliance to China
+To Russia: France has chosen to Publish Non-Intervention Treaty on France and Russia
+To China: France has chosen to Send Message to China with the following content: France seeks to strengthen our mutual interests and proposes a military alliance against common threats.
+To United States: France has chosen to Send Message to United States with the following content: France confirms our commitment to the military alliance and stands ready to coordinate defense efforts.
+To Britain: France has chosen to Send Message to Britain with the following content: France values our alliance and looks forward to our continued cooperation against aggression.
+To Germany: France has chosen to Send Message to Germany with the following content: France will not cease resistance. We are committed to defending our sovereignty and freedom.
+To Italy: France has chosen to Send Message to Italy with the following content: France seeks further clarification on your military mobilization and intentions before proceeding with any alliance.
+--------------
+
+Board for Country G
+G*&*J G*-*I G*&*H G*-*A G*-*R G*-*B G*o*C G*-*F
+J*&*G J*o*I J*o*H J*-*A J*-*R J*-*B J*-*C J*-*F
+I*-*G I*o*J I*-*H I*-*A I*o*R I*-*B I*-*C I*-*F
+H*&*G H*o*J H*-*I H*o*A H*-*R H*o*B H*-*C H*-*F
+A*-*G A*-*J A*-*I A*o*H A*&*R A*&*B A*&*C A*&*F
+R*-*G R*-*J R*o*I R*-*H R*&*A R*&*B R*o*C R*o*F
+B*-*G B*-*J B*-*I B*o*H B*&*A B*&*R B*&*C B*&*F
+C*o*G C*-*J C*-*I C*-*H C*&*A C*o*R C*&*B C*-*F
+F*-*G F*-*J F*-*I F*-*H F*&*A F*o*R F*&*B F*-*C
+
+Stick for Country G
+Country G's army is mobilized. Country J's army is mobilized. Country I's army is mobilized. Country A's army is mobilized. Country R's army is mobilized. Country B's army is mobilized. Country C's army is mobilized. Country F's army is mobilized. 
+--------
+Board for Country J
+G*&*J G*-*I G*&*H G*-*A G*-*R G*-*B G*-*C G*-*F
+J*&*G J*o*I J*o*H J*-*A J*o*R J*-*B J*-*C J*-*F
+I*-*G I*o*J I*-*H I*-*A I*o*R I*-*B I*-*C I*-*F
+H*&*G H*o*J H*-*I H*o*A H*-*R H*o*B H*-*C H*-*F
+A*-*G A*-*J A*-*I A*o*H A*&*R A*&*B A*&*C A*&*F
+R*-*G R*o*J R*o*I R*-*H R*&*A R*&*B R*o*C R*o*F
+B*-*G B*-*J B*-*I B*o*H B*&*A B*&*R B*&*C B*&*F
+C*-*G C*-*J C*-*I C*-*H C*&*A C*o*R C*&*B C*-*F
+F*-*G F*-*J F*-*I F*-*H F*&*A F*o*R F*&*B F*-*C
+
+Stick for Country J
+Country G's army is mobilized. Country J's army is mobilized. Country I's army is mobilized. Country A's army is mobilized. Country R's army is mobilized. Country B's army is mobilized. Country C's army is mobilized. Country F's army is mobilized. 
+--------
+Board for Country I
+G*&*J G*-*I G*&*H G*-*A G*-*R G*-*B G*-*C G*-*F
+J*&*G J*o*I J*o*H J*-*A J*-*R J*-*B J*-*C J*-*F
+I*-*G I*o*J I*&*H I*-*A I*o*R I*-*B I*-*C I*-*F
+H*&*G H*o*J H*&*I H*o*A H*-*R H*o*B H*-*C H*-*F
+A*-*G A*-*J A*-*I A*o*H A*&*R A*&*B A*&*C A*&*F
+R*-*G R*-*J R*o*I R*-*H R*&*A R*&*B R*o*C R*o*F
+B*-*G B*-*J B*-*I B*o*H B*&*A B*&*R B*&*C B*&*F
+C*-*G C*-*J C*-*I C*-*H C*&*A C*o*R C*&*B C*-*F
+F*-*G F*-*J F*-*I F*-*H F*&*A F*o*R F*&*B F*-*C
+
+Stick for Country I
+Country G's army is mobilized. Country J's army is mobilized. Country I's army is mobilized. Country A's army is mobilized. Country R's army is mobilized. Country B's army is mobilized. Country C's army is mobilized. Country F's army is mobilized. 
+--------
+Board for Country H
+G*&*J G*-*I G*&*H G*-*A G*-*R G*-*B G*-*C G*-*F
+J*&*G J*o*I J*o*H J*-*A J*-*R J*-*B J*-*C J*-*F
+I*-*G I*o*J I*&*H I*-*A I*o*R I*-*B I*-*C I*-*F
+H*&*G H*o*J H*&*I H*o*A H*o*R H*o*B H*-*C H*-*F
+A*-*G A*-*J A*-*I A*o*H A*&*R A*&*B A*&*C A*&*F
+R*-*G R*-*J R*o*I R*o*H R*&*A R*&*B R*o*C R*o*F
+B*-*G B*-*J B*-*I B*o*H B*&*A B*&*R B*&*C B*&*F
+C*-*G C*-*J C*-*I C*-*H C*&*A C*o*R C*&*B C*-*F
+F*-*G F*-*J F*-*I F*-*H F*&*A F*o*R F*&*B F*-*C
+
+Stick for Country H
+Country G's army is mobilized. Country J's army is mobilized. Country I's army is mobilized. Country A's army is mobilized. Country R's army is mobilized. Country B's army is mobilized. Country C's army is mobilized. Country F's army is mobilized. 
+--------
+Board for Country A
+G*&*J G*-*I G*&*H G*-*A G*-*R G*-*B G*-*C G*-*F
+J*&*G J*o*I J*o*H J*-*A J*-*R J*-*B J*-*C J*-*F
+I*-*G I*o*J I*-*H I*-*A I*o*R I*-*B I*-*C I*-*F
+H*&*G H*o*J H*-*I H*o*A H*-*R H*o*B H*-*C H*-*F
+A*-*G A*-*J A*-*I A*o*H A*&*R A*&*B A*&*C A*&*F
+R*-*G R*-*J R*o*I R*-*H R*&*A R*&*B R*o*C R*o*F
+B*-*G B*-*J B*-*I B*o*H B*&*A B*&*R B*&*C B*&*F
+C*-*G C*-*J C*-*I C*-*H C*&*A C*o*R C*&*B C*-*F
+F*-*G F*-*J F*-*I F*-*H F*&*A F*o*R F*&*B F*-*C
+
+Stick for Country A
+Country G's army is mobilized. Country J's army is mobilized. Country I's army is mobilized. Country A's army is mobilized. Country R's army is mobilized. Country B's army is mobilized. Country C's army is mobilized. Country F's army is mobilized. 
+--------
+Board for Country R
+G*&*J G*-*I G*&*H G*-*A G*-*R G*-*B G*-*C G*-*F
+J*&*G J*o*I J*o*H J*-*A J*o*R J*-*B J*-*C J*-*F
+I*-*G I*o*J I*-*H I*-*A I*o*R I*-*B I*-*C I*-*F
+H*&*G H*o*J H*-*I H*o*A H*o*R H*o*B H*-*C H*-*F
+A*-*G A*-*J A*-*I A*o*H A*&*R A*&*B A*&*C A*&*F
+R*-*G R*o*J R*o*I R*o*H R*&*A R*&*B R*o*C R*o*F
+B*-*G B*-*J B*-*I B*o*H B*&*A B*&*R B*&*C B*&*F
+C*-*G C*-*J C*-*I C*-*H C*&*A C*o*R C*&*B C*-*F
+F*-*G F*-*J F*-*I F*-*H F*&*A F*o*R F*&*B F*-*C
+
+Stick for Country R
+Country G's army is mobilized. Country J's army is mobilized. Country I's army is mobilized. Country A's army is mobilized. Country R's army is mobilized. Country B's army is mobilized. Country C's army is mobilized. Country F's army is mobilized. 
+--------
+Board for Country B
+G*&*J G*-*I G*&*H G*-*A G*-*R G*-*B G*-*C G*-*F
+J*&*G J*o*I J*o*H J*-*A J*-*R J*-*B J*-*C J*-*F
+I*-*G I*o*J I*-*H I*-*A I*o*R I*-*B I*-*C I*-*F
+H*&*G H*o*J H*-*I H*o*A H*-*R H*o*B H*-*C H*-*F
+A*-*G A*-*J A*-*I A*o*H A*&*R A*&*B A*&*C A*&*F
+R*-*G R*-*J R*o*I R*-*H R*&*A R*&*B R*o*C R*o*F
+B*-*G B*-*J B*-*I B*o*H B*&*A B*&*R B*&*C B*&*F
+C*-*G C*-*J C*-*I C*-*H C*&*A C*o*R C*&*B C*-*F
+F*-*G F*-*J F*-*I F*-*H F*&*A F*o*R F*&*B F*-*C
+
+Stick for Country B
+Country G's army is mobilized. Country J's army is mobilized. Country I's army is mobilized. Country A's army is mobilized. Country R's army is mobilized. Country B's army is mobilized. Country C's army is mobilized. Country F's army is mobilized. 
+--------
+Board for Country C
+G*&*J G*-*I G*&*H G*-*A G*-*R G*-*B G*o*C G*-*F
+J*&*G J*o*I J*o*H J*-*A J*-*R J*-*B J*-*C J*-*F
+I*-*G I*o*J I*-*H I*-*A I*o*R I*-*B I*-*C I*-*F
+H*&*G H*o*J H*-*I H*o*A H*-*R H*o*B H*-*C H*-*F
+A*-*G A*-*J A*-*I A*o*H A*&*R A*&*B A*&*C A*&*F
+R*-*G R*-*J R*o*I R*-*H R*&*A R*&*B R*o*C R*o*F
+B*-*G B*-*J B*-*I B*o*H B*&*A B*&*R B*&*C B*&*F
+C*o*G C*-*J C*-*I C*-*H C*&*A C*o*R C*&*B C*-*F
+F*-*G F*-*J F*-*I F*-*H F*&*A F*o*R F*&*B F*-*C
+
+Stick for Country C
+Country G's army is mobilized. Country J's army is mobilized. Country I's army is mobilized. Country A's army is mobilized. Country R's army is mobilized. Country B's army is mobilized. Country C's army is mobilized. Country F's army is mobilized. 
+--------
+Board for Country F
+G*&*J G*-*I G*&*H G*-*A G*-*R G*-*B G*-*C G*-*F
+J*&*G J*o*I J*o*H J*-*A J*-*R J*-*B J*-*C J*-*F
+I*-*G I*o*J I*-*H I*-*A I*o*R I*-*B I*-*C I*-*F
+H*&*G H*o*J H*-*I H*o*A H*-*R H*o*B H*-*C H*-*F
+A*-*G A*-*J A*-*I A*o*H A*&*R A*&*B A*&*C A*&*F
+R*-*G R*-*J R*o*I R*-*H R*&*A R*&*B R*o*C R*o*F
+B*-*G B*-*J B*-*I B*o*H B*&*A B*&*R B*&*C B*&*F
+C*-*G C*-*J C*-*I C*-*H C*&*A C*o*R C*&*B C*-*F
+F*-*G F*-*J F*-*I F*-*H F*&*A F*o*R F*&*B F*-*C
+
+Stick for Country F
+Country G's army is mobilized. Country J's army is mobilized. Country I's army is mobilized. Country A's army is mobilized. Country R's army is mobilized. Country B's army is mobilized. Country C's army is mobilized. Country F's army is mobilized. 
+--------
+===================
+~~~~~~~Day 4~~~~~~~
+===================
+Germany
+
+To Italy: Germany has chosen to Request Military Alliance to Italy
+To Italy: Germany has chosen to Send Message to Italy with the following content: An alliance with Germany will bring us both closer to achieving our grand visions.
+To Britain: Germany has chosen to Send Message to Britain with the following content: We have no quarrel with you and seek only to secure our rightful place. Let us find a diplomatic solution.
+To United States: Germany has chosen to Send Message to United States with the following content: We must avoid unnecessary bloodshed. Consider a non-intervention agreement to focus on our common interests.
+To France: Germany has chosen to Send Message to France with the following content: Your resistance only prolongs the inevitable. We offer you one final chance to cease hostilities and join a new order that will ensure prosperity and security for your people.
+--------------
+
+Japan
+
+To China: Japan has chosen to Send Message to China with the following content: We are ready to begin negotiations for a ceasefire and seek a peaceful resolution.
+To United States: Japan has chosen to Accept Non-Intervention Treaty from United States
+--------------
+
+Italy
+
+To United States: Italy has chosen to Request Military Alliance to United States
+To China: Italy has chosen to Request Military Alliance to China
+To France: Italy has chosen to Request Military Alliance to France
+To Britain: Italy has chosen to Request Non-Intervention Treaty to Britain
+To Britain: Italy has chosen to Send Message to Britain with the following content: Italy respects your decision and seeks a non-intervention treaty to maintain peace between our nations.
+To China: Italy has chosen to Send Message to China with the following content: Italy seeks to establish a military alliance to resist Germany's aggression and protect our shared interests.
+To Germany: Italy has chosen to Reject Military Alliance from Germany
+To United States: Italy has chosen to Send Message to United States with the following content: Italy formally requests a military alliance with United States to oppose Germany's aggression and secure our mutual interests.
+To France: Italy has chosen to Send Message to France with the following content: Italy clarifies that our military mobilization is purely defensive and in response to Germany's aggression. We seek to confirm our military alliance with France.
+--------------
+
+Hungary
+
+To Germany: Hungary has chosen to Send Message to Germany with the following content: Hungary continues to stand with you in solidarity and support.
+To Italy: Hungary has chosen to Send Message to Italy with the following content: Hungary reaffirms our military alliance and commitment to mutual defense.
+To China: Hungary has chosen to Send Message to China with the following content: Hungary seeks a non-intervention treaty to maintain peace and neutrality.
+To France: Hungary has chosen to Send Message to France with the following content: Hungary seeks a non-intervention treaty to maintain peace and neutrality.
+To China: Hungary has chosen to Request Non-Intervention Treaty to China
+To France: Hungary has chosen to Request Non-Intervention Treaty to France
+Hungary has chosen to General Mobilization
+--------------
+
+United States
+
+To Hungary: United States has chosen to Request Military Alliance to Hungary
+To Italy: United States has chosen to Send Message to Italy with the following content: United States requests further clarification on Italy's position regarding the non-intervention treaty with Japan in light of the proposed military alliance.
+To Japan: United States has chosen to Send Message to Japan with the following content: United States acknowledges your message and remains open to dialogue to ensure regional stability.
+To Italy: United States has chosen to Send Message to Italy with the following content: United States is currently evaluating the strategic implications of a military alliance with Italy and will respond in due course.
+To Russia: United States has chosen to Send Message to Russia with the following content: United States appreciates Russia's commitment and is ready to coordinate defense strategies.
+To Britain: United States has chosen to Send Message to Britain with the following content: United States agrees to coordinate military efforts to counter Germany's aggression.
+To France: United States has chosen to Send Message to France with the following content: United States values France's commitment and will work closely to coordinate our defense efforts.
+--------------
+
+Russia
+
+To United States: Russia has chosen to Publish Military Alliance on United States and Russia
+To Britain: Russia has chosen to Publish Military Alliance on Britain and Russia
+To China: Russia has chosen to Publish Non-Intervention Treaty on China and Russia
+To France: Russia has chosen to Publish Non-Intervention Treaty on France and Russia
+To Italy: Russia has chosen to Publish Non-Intervention Treaty on Italy and Russia
+To Japan: Russia has chosen to Send Message to Japan with the following content: Russia is committed to peace but must also consider the security of its allies and will not enter into a non-aggression pact at this time.
+To Italy: Russia has chosen to Send Message to Italy with the following content: Russia appreciates your commitment to peaceful relations and will uphold the non-intervention treaty.
+To Hungary: Russia has chosen to Send Message to Hungary with the following content: Russia acknowledges your message and will continue to respect the mutual non-intervention treaty.
+To Britain: Russia has chosen to Send Message to Britain with the following content: Russia agrees on the importance of a united front and will work closely with our allies.
+To China: Russia has chosen to Send Message to China with the following content: Russia thanks you for your message and will maintain the non-intervention treaty.
+--------------
+
+Britain
+
+To China: Britain has chosen to Send Message to China with the following content: Britain seeks to further coordinate our military efforts in light of recent aggression by Germany and Japan.
+To United States: Britain has chosen to Send Message to United States with the following content: Britain proposes a joint military strategy session to address the threat posed by Germany and Japan's alliance.
+To Italy: Britain has chosen to Reject Military Alliance from Italy
+To Germany: Britain has chosen to Send Message to Germany with the following content: Britain is committed to peace but cannot ignore the breach of international law and aggression. We are open to discussions but cannot accept policies of expansionism that threaten the stability of the region.
+To Japan: Britain has chosen to Send Message to Japan with the following content: Britain cannot consider a non-aggression pact while you maintain an alliance with Germany, who has shown clear aggression towards our allies.
+To Russia: Britain has chosen to Send Message to Russia with the following content: Britain appreciates your support and stands ready to coordinate our military efforts to defend our shared values and interests.
+To France: Britain has chosen to Send Message to France with the following content: Britain values our alliance and is prepared to provide support as needed to counter aggression.
+--------------
+
+China
+
+To United States: China has chosen to Send Message to United States with the following content: We propose a joint military exercise to strengthen our alliance and deter aggression from Germany and Japan.
+To Britain: China has chosen to Send Message to Britain with the following content: We suggest a coordination meeting to discuss our combined military strategy in light of recent developments.
+To France: China has chosen to Send Message to France with the following content: We welcome your alliance and seek to integrate our defense plans against common threats.
+To France: China has chosen to Accept Military Alliance from France
+To Germany: China has chosen to Send Message to Germany with the following content: We acknowledge your message and will consider the implications of the non-intervention treaty while prioritizing our national interests.
+To Japan: China has chosen to Send Message to Japan with the following content: We are open to negotiations but must consult with our allies before proceeding.
+To United States: China has chosen to Send Message to United States with the following content: We welcome further strategic collaboration and will coordinate our defense efforts.
+To Russia: China has chosen to Send Message to Russia with the following content: We value our peaceful relations and the non-intervention treaty.
+To Britain: China has chosen to Send Message to Britain with the following content: We agree that our alliance is crucial and will work closely to counter any aggressive moves.
+--------------
+
+France
+
+To China: France has chosen to Request Military Alliance to China
+To United States: France has chosen to Send Message to United States with the following content: France requests additional support and coordination in light of the enemy's mobilization.
+To China: France has chosen to Send Message to China with the following content: France seeks to confirm our military alliance and requests your support against the aggression of Germany and its allies.
+To Italy: France has chosen to Accept Military Alliance from Italy
+To Hungary: France has chosen to Send Message to Hungary with the following content: France appreciates your commitment to peace and the non-intervention treaty.
+To Russia: France has chosen to Send Message to Russia with the following content: France is grateful for your support and will honor our non-intervention agreement.
+To Britain: France has chosen to Send Message to Britain with the following content: France thanks you for your support and requests further assistance in defense capabilities.
+--------------
+
+Board for Country G
+G*&*J G*-*I G*&*H G*-*A G*-*R G*-*B G*o*C G*-*F
+J*&*G J*o*I J*o*H J*-*A J*-*R J*-*B J*-*C J*-*F
+I*-*G I*o*J I*-*H I*-*A I*o*R I*-*B I*-*C I*-*F
+H*&*G H*o*J H*-*I H*o*A H*-*R H*o*B H*-*C H*-*F
+A*-*G A*-*J A*-*I A*o*H A*&*R A*&*B A*&*C A*&*F
+R*-*G R*-*J R*o*I R*-*H R*&*A R*&*B R*o*C R*o*F
+B*-*G B*-*J B*-*I B*o*H B*&*A B*&*R B*&*C B*&*F
+C*o*G C*-*J C*-*I C*-*H C*&*A C*o*R C*&*B C*-*F
+F*-*G F*-*J F*-*I F*-*H F*&*A F*o*R F*&*B F*-*C
+
+Stick for Country G
+Country G's army is mobilized. Country J's army is mobilized. Country I's army is mobilized. Country H's army is mobilized. Country A's army is mobilized. Country R's army is mobilized. Country B's army is mobilized. Country C's army is mobilized. Country F's army is mobilized. 
+--------
+Board for Country J
+G*&*J G*-*I G*&*H G*-*A G*-*R G*-*B G*-*C G*-*F
+J*&*G J*o*I J*o*H J*o*A J*o*R J*-*B J*-*C J*-*F
+I*-*G I*o*J I*-*H I*-*A I*o*R I*-*B I*-*C I*-*F
+H*&*G H*o*J H*-*I H*o*A H*-*R H*o*B H*-*C H*-*F
+A*-*G A*o*J A*-*I A*o*H A*&*R A*&*B A*&*C A*&*F
+R*-*G R*o*J R*o*I R*-*H R*&*A R*&*B R*o*C R*o*F
+B*-*G B*-*J B*-*I B*o*H B*&*A B*&*R B*&*C B*&*F
+C*-*G C*-*J C*-*I C*-*H C*&*A C*o*R C*&*B C*-*F
+F*-*G F*-*J F*-*I F*-*H F*&*A F*o*R F*&*B F*-*C
+
+Stick for Country J
+Country G's army is mobilized. Country J's army is mobilized. Country I's army is mobilized. Country H's army is mobilized. Country A's army is mobilized. Country R's army is mobilized. Country B's army is mobilized. Country C's army is mobilized. Country F's army is mobilized. 
+--------
+Board for Country I
+G*&*J G*-*I G*&*H G*-*A G*-*R G*-*B G*-*C G*-*F
+J*&*G J*o*I J*o*H J*-*A J*-*R J*-*B J*-*C J*-*F
+I*-*G I*o*J I*&*H I*-*A I*o*R I*-*B I*-*C I*&*F
+H*&*G H*o*J H*&*I H*o*A H*-*R H*o*B H*-*C H*-*F
+A*-*G A*-*J A*-*I A*o*H A*&*R A*&*B A*&*C A*&*F
+R*-*G R*-*J R*o*I R*-*H R*&*A R*&*B R*o*C R*o*F
+B*-*G B*-*J B*-*I B*o*H B*&*A B*&*R B*&*C B*&*F
+C*-*G C*-*J C*-*I C*-*H C*&*A C*o*R C*&*B C*-*F
+F*-*G F*-*J F*&*I F*-*H F*&*A F*o*R F*&*B F*-*C
+
+Stick for Country I
+Country G's army is mobilized. Country J's army is mobilized. Country I's army is mobilized. Country H's army is mobilized. Country A's army is mobilized. Country R's army is mobilized. Country B's army is mobilized. Country C's army is mobilized. Country F's army is mobilized. 
+--------
+Board for Country H
+G*&*J G*-*I G*&*H G*-*A G*-*R G*-*B G*-*C G*-*F
+J*&*G J*o*I J*o*H J*-*A J*-*R J*-*B J*-*C J*-*F
+I*-*G I*o*J I*&*H I*-*A I*o*R I*-*B I*-*C I*-*F
+H*&*G H*o*J H*&*I H*o*A H*o*R H*o*B H*-*C H*-*F
+A*-*G A*-*J A*-*I A*o*H A*&*R A*&*B A*&*C A*&*F
+R*-*G R*-*J R*o*I R*o*H R*&*A R*&*B R*o*C R*o*F
+B*-*G B*-*J B*-*I B*o*H B*&*A B*&*R B*&*C B*&*F
+C*-*G C*-*J C*-*I C*-*H C*&*A C*o*R C*&*B C*-*F
+F*-*G F*-*J F*-*I F*-*H F*&*A F*o*R F*&*B F*-*C
+
+Stick for Country H
+Country G's army is mobilized. Country J's army is mobilized. Country I's army is mobilized. Country H's army is mobilized. Country A's army is mobilized. Country R's army is mobilized. Country B's army is mobilized. Country C's army is mobilized. Country F's army is mobilized. 
+--------
+Board for Country A
+G*&*J G*-*I G*&*H G*-*A G*-*R G*-*B G*-*C G*-*F
+J*&*G J*o*I J*o*H J*o*A J*-*R J*-*B J*-*C J*-*F
+I*-*G I*o*J I*-*H I*-*A I*o*R I*-*B I*-*C I*-*F
+H*&*G H*o*J H*-*I H*o*A H*-*R H*o*B H*-*C H*-*F
+A*-*G A*o*J A*-*I A*o*H A*&*R A*&*B A*&*C A*&*F
+R*-*G R*-*J R*o*I R*-*H R*&*A R*&*B R*o*C R*o*F
+B*-*G B*-*J B*-*I B*o*H B*&*A B*&*R B*&*C B*&*F
+C*-*G C*-*J C*-*I C*-*H C*&*A C*o*R C*&*B C*-*F
+F*-*G F*-*J F*-*I F*-*H F*&*A F*o*R F*&*B F*-*C
+
+Stick for Country A
+Country G's army is mobilized. Country J's army is mobilized. Country I's army is mobilized. Country H's army is mobilized. Country A's army is mobilized. Country R's army is mobilized. Country B's army is mobilized. Country C's army is mobilized. Country F's army is mobilized. 
+--------
+Board for Country R
+G*&*J G*-*I G*&*H G*-*A G*-*R G*-*B G*-*C G*-*F
+J*&*G J*o*I J*o*H J*-*A J*o*R J*-*B J*-*C J*-*F
+I*-*G I*o*J I*-*H I*-*A I*o*R I*-*B I*-*C I*-*F
+H*&*G H*o*J H*-*I H*o*A H*o*R H*o*B H*-*C H*-*F
+A*-*G A*-*J A*-*I A*o*H A*&*R A*&*B A*&*C A*&*F
+R*-*G R*o*J R*o*I R*o*H R*&*A R*&*B R*o*C R*o*F
+B*-*G B*-*J B*-*I B*o*H B*&*A B*&*R B*&*C B*&*F
+C*-*G C*-*J C*-*I C*-*H C*&*A C*o*R C*&*B C*-*F
+F*-*G F*-*J F*-*I F*-*H F*&*A F*o*R F*&*B F*-*C
+
+Stick for Country R
+Country G's army is mobilized. Country J's army is mobilized. Country I's army is mobilized. Country H's army is mobilized. Country A's army is mobilized. Country R's army is mobilized. Country B's army is mobilized. Country C's army is mobilized. Country F's army is mobilized. 
+--------
+Board for Country B
+G*&*J G*-*I G*&*H G*-*A G*-*R G*-*B G*-*C G*-*F
+J*&*G J*o*I J*o*H J*-*A J*-*R J*-*B J*-*C J*-*F
+I*-*G I*o*J I*-*H I*-*A I*o*R I*-*B I*-*C I*-*F
+H*&*G H*o*J H*-*I H*o*A H*-*R H*o*B H*-*C H*-*F
+A*-*G A*-*J A*-*I A*o*H A*&*R A*&*B A*&*C A*&*F
+R*-*G R*-*J R*o*I R*-*H R*&*A R*&*B R*o*C R*o*F
+B*-*G B*-*J B*-*I B*o*H B*&*A B*&*R B*&*C B*&*F
+C*-*G C*-*J C*-*I C*-*H C*&*A C*o*R C*&*B C*-*F
+F*-*G F*-*J F*-*I F*-*H F*&*A F*o*R F*&*B F*-*C
+
+Stick for Country B
+Country G's army is mobilized. Country J's army is mobilized. Country I's army is mobilized. Country H's army is mobilized. Country A's army is mobilized. Country R's army is mobilized. Country B's army is mobilized. Country C's army is mobilized. Country F's army is mobilized. 
+--------
+Board for Country C
+G*&*J G*-*I G*&*H G*-*A G*-*R G*-*B G*o*C G*-*F
+J*&*G J*o*I J*o*H J*-*A J*-*R J*-*B J*-*C J*-*F
+I*-*G I*o*J I*-*H I*-*A I*o*R I*-*B I*-*C I*-*F
+H*&*G H*o*J H*-*I H*o*A H*-*R H*o*B H*-*C H*-*F
+A*-*G A*-*J A*-*I A*o*H A*&*R A*&*B A*&*C A*&*F
+R*-*G R*-*J R*o*I R*-*H R*&*A R*&*B R*o*C R*o*F
+B*-*G B*-*J B*-*I B*o*H B*&*A B*&*R B*&*C B*&*F
+C*o*G C*-*J C*-*I C*-*H C*&*A C*o*R C*&*B C*&*F
+F*-*G F*-*J F*-*I F*-*H F*&*A F*o*R F*&*B F*&*C
+
+Stick for Country C
+Country G's army is mobilized. Country J's army is mobilized. Country I's army is mobilized. Country H's army is mobilized. Country A's army is mobilized. Country R's army is mobilized. Country B's army is mobilized. Country C's army is mobilized. Country F's army is mobilized. 
+--------
+Board for Country F
+G*&*J G*-*I G*&*H G*-*A G*-*R G*-*B G*-*C G*-*F
+J*&*G J*o*I J*o*H J*-*A J*-*R J*-*B J*-*C J*-*F
+I*-*G I*o*J I*-*H I*-*A I*o*R I*-*B I*-*C I*&*F
+H*&*G H*o*J H*-*I H*o*A H*-*R H*o*B H*-*C H*-*F
+A*-*G A*-*J A*-*I A*o*H A*&*R A*&*B A*&*C A*&*F
+R*-*G R*-*J R*o*I R*-*H R*&*A R*&*B R*o*C R*o*F
+B*-*G B*-*J B*-*I B*o*H B*&*A B*&*R B*&*C B*&*F
+C*-*G C*-*J C*-*I C*-*H C*&*A C*o*R C*&*B C*&*F
+F*-*G F*-*J F*&*I F*-*H F*&*A F*o*R F*&*B F*&*C
+
+Stick for Country F
+Country G's army is mobilized. Country J's army is mobilized. Country I's army is mobilized. Country H's army is mobilized. Country A's army is mobilized. Country R's army is mobilized. Country B's army is mobilized. Country C's army is mobilized. Country F's army is mobilized. 
+--------
+===================
+~~~~~~~Day 5~~~~~~~
+===================
+Germany
+
+To Italy: Germany has chosen to Request Military Alliance to Italy
+To Italy: Germany has chosen to Send Message to Italy with the following content: We extend our hand once more for an alliance that will benefit both our nations and restore your historical prominence.
+To United States: Germany has chosen to Send Message to United States with the following content: We urge you to reconsider your position and seek a diplomatic solution that avoids further escalation.
+To Russia: Germany has chosen to Send Message to Russia with the following content: We propose a dialogue to discuss our relations and seek a peaceful coexistence.
+To Britain: Germany has chosen to Send Message to Britain with the following content: We invite you to join us in forging a new path that ensures stability and prosperity in our region.
+To Hungary: Germany has chosen to Send Message to Hungary with the following content: We acknowledge and value your continued support and solidarity.
+To Britain: Germany has chosen to Send Message to Britain with the following content: We are open to discussions and seek a peaceful resolution that respects our national interests.
+To China: Germany has chosen to Send Message to China with the following content: We appreciate your consideration and hope to reach an agreement that serves both our nations' interests.
+--------------
+
+Japan
+
+To Britain: Japan has chosen to Request Non-Intervention Treaty to Britain
+To France: Japan has chosen to Request Non-Intervention Treaty to France
+To Russia: Japan has chosen to Send Message to Russia with the following content: We respect your position and seek to continue dialogue to find common ground for peace and security in the region.
+To United States: Japan has chosen to Send Message to United States with the following content: We appreciate your openness to dialogue and propose a meeting to discuss regional stability and mutual interests.
+To China: Japan has chosen to Send Message to China with the following content: We are prepared to begin negotiations and await your consultation with allies. We propose a preliminary meeting to outline potential terms for peace.
+--------------
+
+Italy
+
+To United States: Italy has chosen to Request Military Alliance to United States
+To Britain: Italy has chosen to Request Military Alliance to Britain
+To China: Italy has chosen to Request Military Alliance to China
+To United States: Italy has chosen to Send Message to United States with the following content: Italy seeks to form a military alliance with United States to ensure regional stability and counter aggression.
+To Britain: Italy has chosen to Send Message to Britain with the following content: Italy invites Britain to consider a military alliance to strengthen our mutual defense against potential threats.
+To China: Italy has chosen to Send Message to China with the following content: Italy extends an offer for a military alliance to China, recognizing our shared interests in maintaining peace and resisting aggression.
+To Germany: Italy has chosen to Reject Military Alliance from Germany
+To Hungary: Italy has chosen to Send Message to Hungary with the following content: Italy values our alliance and is committed to mutual defense.
+To United States: Italy has chosen to Send Message to United States with the following content: Italy is committed to honoring our non-intervention treaty with Japan and seeks to clarify any concerns regarding our proposed military alliance.
+To Russia: Italy has chosen to Send Message to Russia with the following content: Italy appreciates Russia's commitment to peace and will uphold our non-intervention treaty.
+--------------
+
+Hungary
+
+To Germany: Hungary has chosen to Send Message to Germany with the following content: Hungary continues to support our mutual objectives and stands ready to coordinate military efforts.
+To Italy: Hungary has chosen to Send Message to Italy with the following content: Hungary reaffirms our commitment to our military alliance and seeks to discuss future strategies.
+To China: Hungary has chosen to Send Message to China with the following content: Hungary would like to discuss the possibility of a non-intervention treaty to maintain regional stability.
+To Japan: Hungary has chosen to Request Military Alliance to Japan
+To United States: Hungary has chosen to Reject Military Alliance from United States
+--------------
+
+United States
+
+To Italy: United States has chosen to Send Message to Italy with the following content: United States is considering your request for a military alliance. We require clarification on your non-intervention treaty with Russia before proceeding.
+To Russia: United States has chosen to Send Message to Russia with the following content: United States is forming an alliance with Italy and seeks to ensure this does not conflict with our mutual interests.
+To Britain: United States has chosen to Send Message to Britain with the following content: United States is coordinating a joint military strategy and will share details soon.
+To China: United States has chosen to Send Message to China with the following content: United States confirms our commitment to a joint military exercise and further strategic collaboration.
+To France: United States has chosen to Send Message to France with the following content: United States is preparing additional support measures in light of the current situation.
+To Italy: United States has chosen to Send Message to Italy with the following content: United States seeks clarification on your non-intervention treaty with Russia in relation to our proposed military alliance.
+To Britain: United States has chosen to Send Message to Britain with the following content: United States accepts the proposal for a joint military strategy session to address the threat from Germany and Japan.
+To China: United States has chosen to Send Message to China with the following content: United States agrees to a joint military exercise to strengthen our alliance.
+To France: United States has chosen to Send Message to France with the following content: United States will provide additional support and coordination in response to the enemy's mobilization.
+--------------
+
+Russia
+
+To Germany: Russia has chosen to Send Message to Germany with the following content: Russia remains committed to peace but will defend itself and its allies against any aggression.
+To Japan: Russia has chosen to Send Message to Japan with the following content: Russia seeks peaceful relations but will not hesitate to protect its interests and those of its allies.
+To United States: Russia has chosen to Send Message to United States with the following content: Russia appreciates United States's readiness to coordinate defense strategies and looks forward to our continued cooperation.
+To Britain: Russia has chosen to Send Message to Britain with the following content: Russia values our alliance and is fully committed to coordinating our military efforts.
+To China: Russia has chosen to Send Message to China with the following content: Russia is pleased with our peaceful relations and will honor the non-intervention treaty.
+To France: Russia has chosen to Send Message to France with the following content: Russia supports France's resilience and will maintain our agreement of non-intervention.
+--------------
+
+Britain
+
+To United States: Britain has chosen to Publish Military Alliance on Britain and United States
+To Russia: Britain has chosen to Publish Military Alliance on Britain and Russia
+To China: Britain has chosen to Publish Military Alliance on Britain and China
+To France: Britain has chosen to Publish Military Alliance on Britain and France
+To China: Britain has chosen to Send Message to China with the following content: Britain seeks to further coordinate our military efforts in light of recent aggression by Germany and Japan.
+To United States: Britain has chosen to Send Message to United States with the following content: Britain proposes a joint military strategy session to address the threat posed by Germany and Japan's alliance.
+To Russia: Britain has chosen to Send Message to Russia with the following content: Britain appreciates your support and stands ready to coordinate our military efforts to defend our shared values and interests.
+To France: Britain has chosen to Send Message to France with the following content: Britain values our alliance and is prepared to provide support as needed to counter aggression.
+To Germany: Britain has chosen to Send Message to Germany with the following content: Britain remains committed to a peaceful resolution but cannot ignore your current actions. We are open to discussions, but not at the expense of our allies and international stability.
+To United States: Britain has chosen to Send Message to United States with the following content: Britain is ready to coordinate military efforts and proposes a joint command structure to streamline our response.
+To Russia: Britain has chosen to Send Message to Russia with the following content: Britain values our united front and suggests a strategic defense pact to counter any aggression from Germany and Japan.
+To China: Britain has chosen to Send Message to China with the following content: Britain agrees to a coordination meeting to solidify our military strategy and ensure the security of our nations.
+To France: Britain has chosen to Send Message to France with the following content: Britain acknowledges your request for further assistance and will provide additional defense capabilities to support your resistance.
+To Italy: Britain has chosen to Send Message to Italy with the following content: Britain must decline your request for a non-intervention treaty due to our commitments to our allies and the current international situation.
+--------------
+
+China
+
+To United States: China has chosen to Send Message to United States with the following content: We propose a joint military strategy session to address the threats from Germany and Japan.
+To Britain: China has chosen to Send Message to Britain with the following content: We suggest enhancing our military coordination to ensure our mutual defense against aggression.
+To Russia: China has chosen to Send Message to Russia with the following content: We value our peaceful relations and seek to continue our non-intervention agreement.
+To Italy: China has chosen to Reject Military Alliance from Italy
+To Hungary: China has chosen to Reject Non-Intervention Treaty from Hungary
+To France: China has chosen to Accept Military Alliance from France
+To Japan: China has chosen to Send Message to Japan with the following content: We will discuss your ceasefire proposal with our allies and respond in due course.
+To Italy: China has chosen to Send Message to Italy with the following content: We value your proposal for an alliance, but we must consider the broader implications with our existing allies.
+To Hungary: China has chosen to Send Message to Hungary with the following content: We appreciate your offer for a non-intervention treaty, but we must prioritize our national security interests.
+To France: China has chosen to Send Message to France with the following content: We confirm our military alliance and will support each other against the aggression of Germany and its allies.
+--------------
+
+France
+
+To Italy: France has chosen to Publish Military Alliance on France and Italy
+To Hungary: France has chosen to Publish Non-Intervention Treaty on France and Hungary
+To United States: France has chosen to Send Message to United States with the following content: France is committed to our defense efforts and looks forward to further coordination.
+To Britain: France has chosen to Send Message to Britain with the following content: France appreciates your support and is preparing to integrate our defense strategies.
+To China: France has chosen to Send Message to China with the following content: France welcomes the alliance and seeks to align our defense plans against our common threats.
+To Hungary: France has chosen to Accept Non-Intervention Treaty from Hungary
+To Germany: France has chosen to Send Message to Germany with the following content: France remains resolute in its defense and rejects any offer that compromises our sovereignty and freedom.
+--------------
+
+Board for Country G
+G*&*J G*-*I G*&*H G*-*A G*-*R G*-*B G*o*C G*-*F
+J*&*G J*o*I J*o*H J*-*A J*-*R J*-*B J*-*C J*-*F
+I*-*G I*o*J I*-*H I*-*A I*o*R I*-*B I*-*C I*&*F
+H*&*G H*o*J H*-*I H*o*A H*-*R H*o*B H*-*C H*o*F
+A*-*G A*-*J A*-*I A*o*H A*&*R A*&*B A*&*C A*&*F
+R*-*G R*-*J R*o*I R*-*H R*&*A R*&*B R*o*C R*o*F
+B*-*G B*-*J B*-*I B*o*H B*&*A B*&*R B*&*C B*&*F
+C*o*G C*-*J C*-*I C*-*H C*&*A C*o*R C*&*B C*-*F
+F*-*G F*-*J F*&*I F*o*H F*&*A F*o*R F*&*B F*-*C
+
+Stick for Country G
+Country G's army is mobilized. Country J's army is mobilized. Country I's army is mobilized. Country H's army is mobilized. Country A's army is mobilized. Country R's army is mobilized. Country B's army is mobilized. Country C's army is mobilized. Country F's army is mobilized. 
+--------
+Board for Country J
+G*&*J G*-*I G*&*H G*-*A G*-*R G*-*B G*-*C G*-*F
+J*&*G J*o*I J*o*H J*o*A J*o*R J*-*B J*-*C J*-*F
+I*-*G I*o*J I*-*H I*-*A I*o*R I*-*B I*-*C I*&*F
+H*&*G H*o*J H*-*I H*o*A H*-*R H*o*B H*-*C H*o*F
+A*-*G A*o*J A*-*I A*o*H A*&*R A*&*B A*&*C A*&*F
+R*-*G R*o*J R*o*I R*-*H R*&*A R*&*B R*o*C R*o*F
+B*-*G B*-*J B*-*I B*o*H B*&*A B*&*R B*&*C B*&*F
+C*-*G C*-*J C*-*I C*-*H C*&*A C*o*R C*&*B C*-*F
+F*-*G F*-*J F*&*I F*o*H F*&*A F*o*R F*&*B F*-*C
+
+Stick for Country J
+Country G's army is mobilized. Country J's army is mobilized. Country I's army is mobilized. Country H's army is mobilized. Country A's army is mobilized. Country R's army is mobilized. Country B's army is mobilized. Country C's army is mobilized. Country F's army is mobilized. 
+--------
+Board for Country I
+G*&*J G*-*I G*&*H G*-*A G*-*R G*-*B G*-*C G*-*F
+J*&*G J*o*I J*o*H J*-*A J*-*R J*-*B J*-*C J*-*F
+I*-*G I*o*J I*&*H I*-*A I*o*R I*-*B I*-*C I*&*F
+H*&*G H*o*J H*&*I H*o*A H*-*R H*o*B H*-*C H*o*F
+A*-*G A*-*J A*-*I A*o*H A*&*R A*&*B A*&*C A*&*F
+R*-*G R*-*J R*o*I R*-*H R*&*A R*&*B R*o*C R*o*F
+B*-*G B*-*J B*-*I B*o*H B*&*A B*&*R B*&*C B*&*F
+C*-*G C*-*J C*-*I C*-*H C*&*A C*o*R C*&*B C*-*F
+F*-*G F*-*J F*&*I F*o*H F*&*A F*o*R F*&*B F*-*C
+
+Stick for Country I
+Country G's army is mobilized. Country J's army is mobilized. Country I's army is mobilized. Country H's army is mobilized. Country A's army is mobilized. Country R's army is mobilized. Country B's army is mobilized. Country C's army is mobilized. Country F's army is mobilized. 
+--------
+Board for Country H
+G*&*J G*-*I G*&*H G*-*A G*-*R G*-*B G*-*C G*-*F
+J*&*G J*o*I J*o*H J*-*A J*-*R J*-*B J*-*C J*-*F
+I*-*G I*o*J I*&*H I*-*A I*o*R I*-*B I*-*C I*&*F
+H*&*G H*o*J H*&*I H*o*A H*o*R H*o*B H*-*C H*o*F
+A*-*G A*-*J A*-*I A*o*H A*&*R A*&*B A*&*C A*&*F
+R*-*G R*-*J R*o*I R*o*H R*&*A R*&*B R*o*C R*o*F
+B*-*G B*-*J B*-*I B*o*H B*&*A B*&*R B*&*C B*&*F
+C*-*G C*-*J C*-*I C*-*H C*&*A C*o*R C*&*B C*-*F
+F*-*G F*-*J F*&*I F*o*H F*&*A F*o*R F*&*B F*-*C
+
+Stick for Country H
+Country G's army is mobilized. Country J's army is mobilized. Country I's army is mobilized. Country H's army is mobilized. Country A's army is mobilized. Country R's army is mobilized. Country B's army is mobilized. Country C's army is mobilized. Country F's army is mobilized. 
+--------
+Board for Country A
+G*&*J G*-*I G*&*H G*-*A G*-*R G*-*B G*-*C G*-*F
+J*&*G J*o*I J*o*H J*o*A J*-*R J*-*B J*-*C J*-*F
+I*-*G I*o*J I*-*H I*-*A I*o*R I*-*B I*-*C I*&*F
+H*&*G H*o*J H*-*I H*o*A H*-*R H*o*B H*-*C H*o*F
+A*-*G A*o*J A*-*I A*o*H A*&*R A*&*B A*&*C A*&*F
+R*-*G R*-*J R*o*I R*-*H R*&*A R*&*B R*o*C R*o*F
+B*-*G B*-*J B*-*I B*o*H B*&*A B*&*R B*&*C B*&*F
+C*-*G C*-*J C*-*I C*-*H C*&*A C*o*R C*&*B C*-*F
+F*-*G F*-*J F*&*I F*o*H F*&*A F*o*R F*&*B F*-*C
+
+Stick for Country A
+Country G's army is mobilized. Country J's army is mobilized. Country I's army is mobilized. Country H's army is mobilized. Country A's army is mobilized. Country R's army is mobilized. Country B's army is mobilized. Country C's army is mobilized. Country F's army is mobilized. 
+--------
+Board for Country R
+G*&*J G*-*I G*&*H G*-*A G*-*R G*-*B G*-*C G*-*F
+J*&*G J*o*I J*o*H J*-*A J*o*R J*-*B J*-*C J*-*F
+I*-*G I*o*J I*-*H I*-*A I*o*R I*-*B I*-*C I*&*F
+H*&*G H*o*J H*-*I H*o*A H*o*R H*o*B H*-*C H*o*F
+A*-*G A*-*J A*-*I A*o*H A*&*R A*&*B A*&*C A*&*F
+R*-*G R*o*J R*o*I R*o*H R*&*A R*&*B R*o*C R*o*F
+B*-*G B*-*J B*-*I B*o*H B*&*A B*&*R B*&*C B*&*F
+C*-*G C*-*J C*-*I C*-*H C*&*A C*o*R C*&*B C*-*F
+F*-*G F*-*J F*&*I F*o*H F*&*A F*o*R F*&*B F*-*C
+
+Stick for Country R
+Country G's army is mobilized. Country J's army is mobilized. Country I's army is mobilized. Country H's army is mobilized. Country A's army is mobilized. Country R's army is mobilized. Country B's army is mobilized. Country C's army is mobilized. Country F's army is mobilized. 
+--------
+Board for Country B
+G*&*J G*-*I G*&*H G*-*A G*-*R G*-*B G*-*C G*-*F
+J*&*G J*o*I J*o*H J*-*A J*-*R J*-*B J*-*C J*-*F
+I*-*G I*o*J I*-*H I*-*A I*o*R I*-*B I*-*C I*&*F
+H*&*G H*o*J H*-*I H*o*A H*-*R H*o*B H*-*C H*o*F
+A*-*G A*-*J A*-*I A*o*H A*&*R A*&*B A*&*C A*&*F
+R*-*G R*-*J R*o*I R*-*H R*&*A R*&*B R*o*C R*o*F
+B*-*G B*-*J B*-*I B*o*H B*&*A B*&*R B*&*C B*&*F
+C*-*G C*-*J C*-*I C*-*H C*&*A C*o*R C*&*B C*-*F
+F*-*G F*-*J F*&*I F*o*H F*&*A F*o*R F*&*B F*-*C
+
+Stick for Country B
+Country G's army is mobilized. Country J's army is mobilized. Country I's army is mobilized. Country H's army is mobilized. Country A's army is mobilized. Country R's army is mobilized. Country B's army is mobilized. Country C's army is mobilized. Country F's army is mobilized. 
+--------
+Board for Country C
+G*&*J G*-*I G*&*H G*-*A G*-*R G*-*B G*o*C G*-*F
+J*&*G J*o*I J*o*H J*-*A J*-*R J*-*B J*-*C J*-*F
+I*-*G I*o*J I*-*H I*-*A I*o*R I*-*B I*-*C I*&*F
+H*&*G H*o*J H*-*I H*o*A H*-*R H*o*B H*-*C H*o*F
+A*-*G A*-*J A*-*I A*o*H A*&*R A*&*B A*&*C A*&*F
+R*-*G R*-*J R*o*I R*-*H R*&*A R*&*B R*o*C R*o*F
+B*-*G B*-*J B*-*I B*o*H B*&*A B*&*R B*&*C B*&*F
+C*o*G C*-*J C*-*I C*-*H C*&*A C*o*R C*&*B C*&*F
+F*-*G F*-*J F*&*I F*o*H F*&*A F*o*R F*&*B F*&*C
+
+Stick for Country C
+Country G's army is mobilized. Country J's army is mobilized. Country I's army is mobilized. Country H's army is mobilized. Country A's army is mobilized. Country R's army is mobilized. Country B's army is mobilized. Country C's army is mobilized. Country F's army is mobilized. 
+--------
+Board for Country F
+G*&*J G*-*I G*&*H G*-*A G*-*R G*-*B G*-*C G*-*F
+J*&*G J*o*I J*o*H J*-*A J*-*R J*-*B J*-*C J*-*F
+I*-*G I*o*J I*-*H I*-*A I*o*R I*-*B I*-*C I*&*F
+H*&*G H*o*J H*-*I H*o*A H*-*R H*o*B H*-*C H*o*F
+A*-*G A*-*J A*-*I A*o*H A*&*R A*&*B A*&*C A*&*F
+R*-*G R*-*J R*o*I R*-*H R*&*A R*&*B R*o*C R*o*F
+B*-*G B*-*J B*-*I B*o*H B*&*A B*&*R B*&*C B*&*F
+C*-*G C*-*J C*-*I C*-*H C*&*A C*o*R C*&*B C*&*F
+F*-*G F*-*J F*&*I F*o*H F*&*A F*o*R F*&*B F*&*C
+
+Stick for Country F
+Country G's army is mobilized. Country J's army is mobilized. Country I's army is mobilized. Country H's army is mobilized. Country A's army is mobilized. Country R's army is mobilized. Country B's army is mobilized. Country C's army is mobilized. Country F's army is mobilized. 
+--------
+===================
+~~~~~~~Day 6~~~~~~~
+===================
+Germany
+
+To Italy: Germany has chosen to Request Military Alliance to Italy
+To Italy: Germany has chosen to Send Message to Italy with the following content: Germany invites you to join our alliance, united by our shared goals for expansion and restoration of past glory.
+To United States: Germany has chosen to Send Message to United States with the following content: Germany proposes a non-intervention treaty to focus on our common interests and avoid unnecessary conflict.
+To China: Germany has chosen to Send Message to China with the following content: Germany seeks to strengthen our non-intervention treaty with further cooperation and mutual benefits.
+To Hungary: Germany has chosen to Send Message to Hungary with the following content: Germany appreciates your unwavering support and looks forward to our continued military coordination.
+To Russia: Germany has chosen to Send Message to Russia with the following content: Germany respects your commitment to peace and has no intention of provoking conflict with your nation.
+To Britain: Germany has chosen to Send Message to Britain with the following content: Germany is open to constructive dialogue and seeks a peaceful resolution that acknowledges our national interests.
+To France: Germany has chosen to Send Message to France with the following content: Germany regrets your decision but remains committed to our vision for a new order.
+--------------
+
+Japan
+
+To Britain: Japan has chosen to Request Non-Intervention Treaty to Britain
+To France: Japan has chosen to Request Non-Intervention Treaty to France
+To Hungary: Japan has chosen to Accept Military Alliance from Hungary
+To Russia: Japan has chosen to Send Message to Russia with the following content: Japan maintains its commitment to peace and will work towards regional stability while protecting its interests.
+To China: Japan has chosen to Send Message to China with the following content: Japan is ready to continue negotiations and seeks a peaceful resolution to our conflict.
+--------------
+
+Italy
+
+To United States: Italy has chosen to Request Military Alliance to United States
+To China: Italy has chosen to Request Military Alliance to China
+To Britain: Italy has chosen to Send Message to Britain with the following content: Italy respects your decision and remains open to future collaboration in other capacities.
+To Germany: Italy has chosen to Reject Military Alliance from Germany
+To Hungary: Italy has chosen to Send Message to Hungary with the following content: Italy is committed to our alliance and looks forward to discussing future strategies.
+To United States: Italy has chosen to Send Message to United States with the following content: Italy assures you that our non-intervention treaty with Russia will not conflict with our proposed military alliance with United States.
+To China: Italy has chosen to Send Message to China with the following content: Italy is dedicated to our mutual interests and will work closely with China and its allies.
+--------------
+
+Hungary
+
+To Germany: Hungary has chosen to Publish Military Alliance on Germany and Hungary
+To Italy: Hungary has chosen to Publish Military Alliance on Italy and Hungary
+To United States: Hungary has chosen to Publish Non-Intervention Treaty on United States and Hungary
+To Russia: Hungary has chosen to Publish Non-Intervention Treaty on Russia and Hungary
+To Britain: Hungary has chosen to Publish Non-Intervention Treaty on Britain and Hungary
+To France: Hungary has chosen to Publish Non-Intervention Treaty on France and Hungary
+To Japan: Hungary has chosen to Send Message to Japan with the following content: Hungary seeks to formalize our alliance through a military alliance, in support of our mutual ally Germany.
+To Japan: Hungary has chosen to Request Military Alliance to Japan
+To Germany: Hungary has chosen to Send Message to Germany with the following content: Hungary values our alliance and is fully committed to our mutual defense.
+To Italy: Hungary has chosen to Send Message to Italy with the following content: Hungary appreciates the commitment to our alliance and looks forward to further cooperation.
+To China: Hungary has chosen to Send Message to China with the following content: Hungary understands your concerns and remains open to discussions on how we can ensure our mutual security interests.
+--------------
+
+United States
+
+To Russia: United States has chosen to Send Message to Russia with the following content: United States appreciates the commitment and looks forward to further strategic cooperation.
+To Britain: United States has chosen to Send Message to Britain with the following content: United States is ready for a joint military strategy session and proposes a date for the meeting.
+To China: United States has chosen to Send Message to China with the following content: United States agrees to a joint military strategy session and will send representatives to discuss the details.
+To France: United States has chosen to Send Message to France with the following content: United States acknowledges France's commitment and will continue to provide support and coordination.
+To Italy: United States has chosen to Reject Military Alliance from Italy
+To Germany: United States has chosen to Send Message to Germany with the following content: United States is open to diplomatic solutions but must ensure the security and interests of itself and its allies.
+To Japan: United States has chosen to Send Message to Japan with the following content: United States is willing to meet to discuss regional stability, but any agreement must respect the sovereignty and security of our allies.
+To Italy: United States has chosen to Send Message to Italy with the following content: United States seeks a formal declaration from Italy regarding the non-intervention treaty with Japan in light of our new alliance.
+--------------
+
+Russia
+
+To China: Russia has chosen to Send Message to China with the following content: Russia values our non-intervention agreement and supports your resistance against aggression.
+To France: Russia has chosen to Send Message to France with the following content: Russia respects your struggle and will maintain our non-intervention stance while supporting your right to sovereignty.
+To United States: Russia has chosen to Publish Military Alliance on United States and Russia
+To Britain: Russia has chosen to Publish Military Alliance on Britain and Russia
+To Germany: Russia has chosen to Send Message to Germany with the following content: Russia is open to dialogue but will consult with our allies before any further discussions.
+To Japan: Russia has chosen to Send Message to Japan with the following content: Russia acknowledges your message and will consider dialogue in the context of regional security and our alliances.
+To United States: Russia has chosen to Send Message to United States with the following content: Russia seeks clarification on the alliance with Italy and its implications for our mutual defense against Germany.
+To Britain: Russia has chosen to Send Message to Britain with the following content: Russia appreciates the support and is open to discussing a strategic defense pact further.
+--------------
+
+Britain
+
+To United States: Britain has chosen to Send Message to United States with the following content: Britain is ready to proceed with the joint military strategy session and awaits further details.
+To Russia: Britain has chosen to Send Message to Russia with the following content: Britain reaffirms its commitment to our alliance and is prepared to coordinate military efforts.
+To China: Britain has chosen to Send Message to China with the following content: Britain agrees to enhance our military coordination and will work closely to ensure our mutual defense.
+To France: Britain has chosen to Send Message to France with the following content: Britain is prepared to integrate our defense strategies and provide additional support as needed.
+To Japan: Britain has chosen to Reject Non-Intervention Treaty from Japan
+To Italy: Britain has chosen to Reject Military Alliance from Italy
+To Germany: Britain has chosen to Send Message to Germany with the following content: Britain remains committed to its current alliances and seeks a peaceful resolution that does not compromise the sovereignty and security of its allies.
+To Italy: Britain has chosen to Send Message to Italy with the following content: Britain must decline your request for a military alliance due to our existing commitments and the current international situation.
+--------------
+
+China
+
+To United States: China has chosen to Send Message to United States with the following content: We confirm our commitment to the joint military exercise and strategic collaboration.
+To Britain: China has chosen to Send Message to Britain with the following content: We are ready to coordinate our military strategy and ensure the security of our nations.
+To France: China has chosen to Send Message to France with the following content: We align our defense plans and stand united against common threats.
+To Russia: China has chosen to Send Message to Russia with the following content: We value our peaceful relations and look to strengthen our ties in the face of regional instability.
+To Italy: China has chosen to Accept Military Alliance from Italy
+To Germany: China has chosen to Send Message to Germany with the following content: We will consider your proposal and discuss it with our allies to ensure any agreement aligns with our national interests.
+To Japan: China has chosen to Send Message to Japan with the following content: We are open to negotiations and will coordinate with our allies to ensure any discussions are in our collective best interests.
+To Hungary: China has chosen to Send Message to Hungary with the following content: We appreciate your offer for a non-intervention treaty and will review it in the context of our current alliances and strategic objectives.
+--------------
+
+France
+
+To United States: France has chosen to Send Message to United States with the following content: France is grateful for your continued support and seeks further clarification on the additional support measures you are preparing.
+To Britain: France has chosen to Send Message to Britain with the following content: France thanks you for your commitment to provide support and would like to discuss the specifics of the additional defense capabilities.
+To China: France has chosen to Send Message to China with the following content: France confirms our military alliance and is ready to coordinate our defense efforts against Germany and its allies.
+To Russia: France has chosen to Send Message to Russia with the following content: France appreciates your support and will continue to honor our non-intervention agreement.
+To Japan: France has chosen to Reject Non-Intervention Treaty from Japan
+--------------
+
+Board for Country G
+G*&*J G*-*I G*&*H G*-*A G*-*R G*-*B G*o*C G*-*F
+J*&*G J*o*I J*o*H J*-*A J*-*R J*-*B J*-*C J*-*F
+I*-*G I*o*J I*&*H I*-*A I*o*R I*-*B I*-*C I*&*F
+H*&*G H*o*J H*&*I H*o*A H*o*R H*o*B H*-*C H*o*F
+A*-*G A*-*J A*-*I A*o*H A*&*R A*&*B A*&*C A*&*F
+R*-*G R*-*J R*o*I R*o*H R*&*A R*&*B R*o*C R*o*F
+B*-*G B*-*J B*-*I B*o*H B*&*A B*&*R B*&*C B*&*F
+C*o*G C*-*J C*-*I C*-*H C*&*A C*o*R C*&*B C*-*F
+F*-*G F*-*J F*&*I F*o*H F*&*A F*o*R F*&*B F*-*C
+
+Stick for Country G
+Country G's army is mobilized. Country J's army is mobilized. Country I's army is mobilized. Country H's army is mobilized. Country A's army is mobilized. Country R's army is mobilized. Country B's army is mobilized. Country C's army is mobilized. Country F's army is mobilized. 
+--------
+Board for Country J
+G*&*J G*-*I G*&*H G*-*A G*-*R G*-*B G*-*C G*-*F
+J*&*G J*o*I J*&*H J*o*A J*o*R J*-*B J*-*C J*-*F
+I*-*G I*o*J I*&*H I*-*A I*o*R I*-*B I*-*C I*&*F
+H*&*G H*&*J H*&*I H*o*A H*o*R H*o*B H*-*C H*o*F
+A*-*G A*o*J A*-*I A*o*H A*&*R A*&*B A*&*C A*&*F
+R*-*G R*o*J R*o*I R*o*H R*&*A R*&*B R*o*C R*o*F
+B*-*G B*-*J B*-*I B*o*H B*&*A B*&*R B*&*C B*&*F
+C*-*G C*-*J C*-*I C*-*H C*&*A C*o*R C*&*B C*-*F
+F*-*G F*-*J F*&*I F*o*H F*&*A F*o*R F*&*B F*-*C
+
+Stick for Country J
+Country G's army is mobilized. Country J's army is mobilized. Country I's army is mobilized. Country H's army is mobilized. Country A's army is mobilized. Country R's army is mobilized. Country B's army is mobilized. Country C's army is mobilized. Country F's army is mobilized. 
+--------
+Board for Country I
+G*&*J G*-*I G*&*H G*-*A G*-*R G*-*B G*-*C G*-*F
+J*&*G J*o*I J*o*H J*-*A J*-*R J*-*B J*-*C J*-*F
+I*-*G I*o*J I*&*H I*-*A I*o*R I*-*B I*&*C I*&*F
+H*&*G H*o*J H*&*I H*o*A H*o*R H*o*B H*-*C H*o*F
+A*-*G A*-*J A*-*I A*o*H A*&*R A*&*B A*&*C A*&*F
+R*-*G R*-*J R*o*I R*o*H R*&*A R*&*B R*o*C R*o*F
+B*-*G B*-*J B*-*I B*o*H B*&*A B*&*R B*&*C B*&*F
+C*-*G C*-*J C*&*I C*-*H C*&*A C*o*R C*&*B C*-*F
+F*-*G F*-*J F*&*I F*o*H F*&*A F*o*R F*&*B F*-*C
+
+Stick for Country I
+Country G's army is mobilized. Country J's army is mobilized. Country I's army is mobilized. Country H's army is mobilized. Country A's army is mobilized. Country R's army is mobilized. Country B's army is mobilized. Country C's army is mobilized. Country F's army is mobilized. 
+--------
+Board for Country H
+G*&*J G*-*I G*&*H G*-*A G*-*R G*-*B G*-*C G*-*F
+J*&*G J*o*I J*&*H J*-*A J*-*R J*-*B J*-*C J*-*F
+I*-*G I*o*J I*&*H I*-*A I*o*R I*-*B I*-*C I*&*F
+H*&*G H*&*J H*&*I H*o*A H*o*R H*o*B H*-*C H*o*F
+A*-*G A*-*J A*-*I A*o*H A*&*R A*&*B A*&*C A*&*F
+R*-*G R*-*J R*o*I R*o*H R*&*A R*&*B R*o*C R*o*F
+B*-*G B*-*J B*-*I B*o*H B*&*A B*&*R B*&*C B*&*F
+C*-*G C*-*J C*-*I C*-*H C*&*A C*o*R C*&*B C*-*F
+F*-*G F*-*J F*&*I F*o*H F*&*A F*o*R F*&*B F*-*C
+
+Stick for Country H
+Country G's army is mobilized. Country J's army is mobilized. Country I's army is mobilized. Country H's army is mobilized. Country A's army is mobilized. Country R's army is mobilized. Country B's army is mobilized. Country C's army is mobilized. Country F's army is mobilized. 
+--------
+Board for Country A
+G*&*J G*-*I G*&*H G*-*A G*-*R G*-*B G*-*C G*-*F
+J*&*G J*o*I J*o*H J*o*A J*-*R J*-*B J*-*C J*-*F
+I*-*G I*o*J I*&*H I*&*A I*o*R I*-*B I*-*C I*&*F
+H*&*G H*o*J H*&*I H*o*A H*o*R H*o*B H*-*C H*o*F
+A*-*G A*o*J A*&*I A*o*H A*&*R A*&*B A*&*C A*&*F
+R*-*G R*-*J R*o*I R*o*H R*&*A R*&*B R*o*C R*o*F
+B*-*G B*-*J B*-*I B*o*H B*&*A B*&*R B*&*C B*&*F
+C*-*G C*-*J C*-*I C*-*H C*&*A C*o*R C*&*B C*-*F
+F*-*G F*-*J F*&*I F*o*H F*&*A F*o*R F*&*B F*-*C
+
+Stick for Country A
+Country G's army is mobilized. Country J's army is mobilized. Country I's army is mobilized. Country H's army is mobilized. Country A's army is mobilized. Country R's army is mobilized. Country B's army is mobilized. Country C's army is mobilized. Country F's army is mobilized. 
+--------
+Board for Country R
+G*&*J G*-*I G*&*H G*-*A G*-*R G*-*B G*-*C G*-*F
+J*&*G J*o*I J*o*H J*-*A J*o*R J*-*B J*-*C J*-*F
+I*-*G I*o*J I*&*H I*-*A I*o*R I*-*B I*-*C I*&*F
+H*&*G H*o*J H*&*I H*o*A H*o*R H*o*B H*-*C H*o*F
+A*-*G A*-*J A*-*I A*o*H A*&*R A*&*B A*&*C A*&*F
+R*-*G R*o*J R*o*I R*o*H R*&*A R*&*B R*o*C R*o*F
+B*-*G B*-*J B*-*I B*o*H B*&*A B*&*R B*&*C B*&*F
+C*-*G C*-*J C*-*I C*-*H C*&*A C*o*R C*&*B C*-*F
+F*-*G F*-*J F*&*I F*o*H F*&*A F*o*R F*&*B F*-*C
+
+Stick for Country R
+Country G's army is mobilized. Country J's army is mobilized. Country I's army is mobilized. Country H's army is mobilized. Country A's army is mobilized. Country R's army is mobilized. Country B's army is mobilized. Country C's army is mobilized. Country F's army is mobilized. 
+--------
+Board for Country B
+G*&*J G*-*I G*&*H G*-*A G*-*R G*-*B G*-*C G*-*F
+J*&*G J*o*I J*o*H J*-*A J*-*R J*-*B J*-*C J*-*F
+I*-*G I*o*J I*&*H I*-*A I*o*R I*-*B I*-*C I*&*F
+H*&*G H*o*J H*&*I H*o*A H*o*R H*o*B H*-*C H*o*F
+A*-*G A*-*J A*-*I A*o*H A*&*R A*&*B A*&*C A*&*F
+R*-*G R*-*J R*o*I R*o*H R*&*A R*&*B R*o*C R*o*F
+B*-*G B*-*J B*-*I B*o*H B*&*A B*&*R B*&*C B*&*F
+C*-*G C*-*J C*-*I C*-*H C*&*A C*o*R C*&*B C*-*F
+F*-*G F*-*J F*&*I F*o*H F*&*A F*o*R F*&*B F*-*C
+
+Stick for Country B
+Country G's army is mobilized. Country J's army is mobilized. Country I's army is mobilized. Country H's army is mobilized. Country A's army is mobilized. Country R's army is mobilized. Country B's army is mobilized. Country C's army is mobilized. Country F's army is mobilized. 
+--------
+Board for Country C
+G*&*J G*-*I G*&*H G*-*A G*-*R G*-*B G*o*C G*-*F
+J*&*G J*o*I J*o*H J*-*A J*-*R J*-*B J*-*C J*-*F
+I*-*G I*o*J I*&*H I*-*A I*o*R I*-*B I*&*C I*&*F
+H*&*G H*o*J H*&*I H*o*A H*o*R H*o*B H*-*C H*o*F
+A*-*G A*-*J A*-*I A*o*H A*&*R A*&*B A*&*C A*&*F
+R*-*G R*-*J R*o*I R*o*H R*&*A R*&*B R*o*C R*o*F
+B*-*G B*-*J B*-*I B*o*H B*&*A B*&*R B*&*C B*&*F
+C*o*G C*-*J C*&*I C*-*H C*&*A C*o*R C*&*B C*&*F
+F*-*G F*-*J F*&*I F*o*H F*&*A F*o*R F*&*B F*&*C
+
+Stick for Country C
+Country G's army is mobilized. Country J's army is mobilized. Country I's army is mobilized. Country H's army is mobilized. Country A's army is mobilized. Country R's army is mobilized. Country B's army is mobilized. Country C's army is mobilized. Country F's army is mobilized. 
+--------
+Board for Country F
+G*&*J G*-*I G*&*H G*-*A G*-*R G*-*B G*-*C G*-*F
+J*&*G J*o*I J*o*H J*-*A J*-*R J*-*B J*-*C J*-*F
+I*-*G I*o*J I*&*H I*-*A I*o*R I*-*B I*-*C I*&*F
+H*&*G H*o*J H*&*I H*o*A H*o*R H*o*B H*-*C H*o*F
+A*-*G A*-*J A*-*I A*o*H A*&*R A*&*B A*&*C A*&*F
+R*-*G R*-*J R*o*I R*o*H R*&*A R*&*B R*o*C R*o*F
+B*-*G B*-*J B*-*I B*o*H B*&*A B*&*R B*&*C B*&*F
+C*-*G C*-*J C*-*I C*-*H C*&*A C*o*R C*&*B C*&*F
+F*-*G F*-*J F*&*I F*o*H F*&*A F*o*R F*&*B F*&*C
+
+Stick for Country F
+Country G's army is mobilized. Country J's army is mobilized. Country I's army is mobilized. Country H's army is mobilized. Country A's army is mobilized. Country R's army is mobilized. Country B's army is mobilized. Country C's army is mobilized. Country F's army is mobilized. 
+--------
+===================
+~~~~~~~Day 7~~~~~~~
+===================
+Germany
+
+To Italy: Germany has chosen to Request Military Alliance to Italy
+To Italy: Germany has chosen to Send Message to Italy with the following content: Germany reaffirms its invitation for an alliance that will restore our nations to greatness.
+To Hungary: Germany has chosen to Send Message to Hungary with the following content: Germany is grateful for your commitment and looks forward to our mutual defense.
+To United States: Germany has chosen to Send Message to United States with the following content: Germany is open to finding diplomatic solutions that respect our sovereignty and interests.
+To Russia: Germany has chosen to Send Message to Russia with the following content: Germany acknowledges your cautious approach and proposes a neutral stance to avoid conflict.
+To Britain: Germany has chosen to Send Message to Britain with the following content: Germany seeks common ground and is open to peaceful resolutions that consider the security of all nations.
+To China: Germany has chosen to Send Message to China with the following content: Germany values your willingness to discuss and is eager to find an agreement that benefits both our countries.
+--------------
+
+Japan
+
+To Hungary: Japan has chosen to Publish Military Alliance on Japan and Hungary
+To Germany: Japan has chosen to Publish Military Alliance on Japan and Germany
+To Italy: Japan has chosen to Request Military Alliance to Italy
+To Britain: Japan has chosen to Send Message to Britain with the following content: We seek to maintain regional stability and would like to discuss how we can avoid conflict.
+To France: Japan has chosen to Send Message to France with the following content: We propose a meeting to discuss our relations and explore avenues for peace.
+To Hungary: Japan has chosen to Accept Military Alliance from Hungary
+To United States: Japan has chosen to Send Message to United States with the following content: We welcome the opportunity to discuss regional stability and will ensure that the sovereignty and security of all parties are respected.
+To Russia: Japan has chosen to Send Message to Russia with the following content: We appreciate your willingness to consider dialogue and look forward to finding common ground for the security of our region.
+To China: Japan has chosen to Send Message to China with the following content: We are ready to coordinate with our allies and begin negotiations to resolve our conflict peacefully.
+--------------
+
+Italy
+
+To United States: Italy has chosen to Request Military Alliance to United States
+To Russia: Italy has chosen to Request Military Alliance to Russia
+To China: Italy has chosen to Send Message to China with the following content: Italy is committed to our alliance and seeks to strengthen our military cooperation.
+To France: Italy has chosen to Send Message to France with the following content: Italy reaffirms our alliance and support in the face of aggression.
+To Germany: Italy has chosen to Reject Military Alliance from Germany
+To Hungary: Italy has chosen to Send Message to Hungary with the following content: Italy values our alliance and looks forward to further cooperation.
+To United States: Italy has chosen to Send Message to United States with the following content: Italy confirms that our non-intervention treaty with Japan will not interfere with our alliance with United States.
+To Britain: Italy has chosen to Send Message to Britain with the following content: Italy respects your decision and remains open to future collaboration.
+--------------
+
+Hungary
+
+To Japan: Hungary has chosen to Send Message to Japan with the following content: Hungary eagerly awaits your response to our military alliance request and hopes to join forces for our mutual benefit.
+To Germany: Hungary has chosen to Send Message to Germany with the following content: Hungary appreciates your recognition and is fully committed to our military coordination.
+To Italy: Hungary has chosen to Send Message to Italy with the following content: Hungary is ready to discuss future strategies and strengthen our alliance.
+To China: Hungary has chosen to Send Message to China with the following content: Hungary values your consideration of our non-intervention treaty and looks forward to your favorable response.
+--------------
+
+United States
+
+To Germany: United States has chosen to Send Message to Germany with the following content: United States remains committed to supporting our allies and ensuring regional stability. We cannot agree to a non-intervention treaty at this time.
+To Russia: United States has chosen to Send Message to Russia with the following content: United States values our alliance and assures you that any decision regarding alliances will be made with our mutual defense interests in mind.
+To Britain: United States has chosen to Send Message to Britain with the following content: United States is ready to proceed with the joint military strategy session and will provide further details shortly.
+To China: United States has chosen to Send Message to China with the following content: United States reaffirms our commitment to the joint military exercise and strategic collaboration.
+To France: United States has chosen to Send Message to France with the following content: United States is preparing specific support measures which will be communicated to you in detail to ensure our coordinated defense.
+To Italy: United States has chosen to Send Message to Italy with the following content: United States must decline the offer for a military alliance due to existing commitments and potential conflicts of interest.
+--------------
+
+Russia
+
+To China: Russia has chosen to Send Message to China with the following content: Russia seeks to deepen our cooperation and would like to discuss potential military alliance.
+To France: Russia has chosen to Send Message to France with the following content: Russia is monitoring the situation closely and is considering ways to support your resistance within the bounds of our non-intervention agreement.
+To Germany: Russia has chosen to Send Message to Germany with the following content: Russia appreciates your commitment to peace and seeks to maintain stability in the region.
+To Japan: Russia has chosen to Send Message to Japan with the following content: Russia acknowledges your commitment to regional stability and will consider your actions in this context.
+To United States: Russia has chosen to Send Message to United States with the following content: Russia is grateful for the strategic cooperation and is committed to furthering our alliance.
+To Britain: Russia has chosen to Send Message to Britain with the following content: Russia is ready to coordinate military efforts and strengthen our alliance.
+To China: Russia has chosen to Send Message to China with the following content: Russia values our peaceful relations and is open to discussing ways to strengthen our ties.
+To France: Russia has chosen to Send Message to France with the following content: Russia stands with you in your time of need and will honor our non-intervention agreement.
+--------------
+
+Britain
+
+To Italy: Britain has chosen to Send Message to Italy with the following content: Britain acknowledges your message and remains open to future collaboration that aligns with our strategic interests.
+To Hungary: Britain has chosen to Send Message to Hungary with the following content: Britain urges you to reconsider your alliance with Germany, which is contrary to the principles of national sovereignty and peace.
+To Japan: Britain has chosen to Reject Non-Intervention Treaty from Japan
+To Germany: Britain has chosen to Send Message to Germany with the following content: Britain is open to dialogue but will not compromise on the sovereignty and security of its allies.
+To United States: Britain has chosen to Send Message to United States with the following content: Britain proposes [insert date] for the joint military strategy session.
+To Russia: Britain has chosen to Send Message to Russia with the following content: Britain is keen to discuss the strategic defense pact further and proposes a meeting to formalize this alliance.
+To China: Britain has chosen to Send Message to China with the following content: Britain is ready to coordinate military strategies and proposes a joint operation planning meeting.
+To France: Britain has chosen to Send Message to France with the following content: Britain is prepared to discuss specifics of defense support and proposes a meeting to outline the support structure.
+--------------
+
+China
+
+To Russia: China has chosen to Request Military Alliance to Russia
+To United States: China has chosen to Send Message to United States with the following content: We look forward to the joint military strategy session to address threats from Germany and Japan.
+To Britain: China has chosen to Send Message to Britain with the following content: We agree to enhance our military coordination for our mutual defense.
+To France: China has chosen to Send Message to France with the following content: We confirm our military alliance and are ready to coordinate our defense efforts.
+To Russia: China has chosen to Send Message to Russia with the following content: We value our non-intervention agreement and invite you to consider a formal military alliance to strengthen our position against aggression.
+To Italy: China has chosen to Accept Military Alliance from Italy
+To Germany: China has chosen to Send Message to Germany with the following content: We acknowledge your proposal and will consider it while prioritizing our national interests and security.
+To Japan: China has chosen to Send Message to Japan with the following content: We are open to peaceful resolution discussions and will coordinate with our allies regarding this matter.
+To Hungary: China has chosen to Send Message to Hungary with the following content: We are open to discussions on mutual security interests and will consider how best to proceed.
+--------------
+
+France
+
+To United States: France has chosen to Send Message to United States with the following content: France thanks you for your support and is coordinating defense efforts.
+To Britain: France has chosen to Send Message to Britain with the following content: France is integrating our defense strategies as per your guidance.
+To China: France has chosen to Send Message to China with the following content: France stands united with you against our common threats.
+To Russia: France has chosen to Send Message to Russia with the following content: France values your respect for our sovereignty and appreciates the non-intervention stance.
+To Hungary: France has chosen to Send Message to Hungary with the following content: France seeks to understand your position given your alliances and non-intervention treaty with us.
+To Japan: France has chosen to Reject Non-Intervention Treaty from Japan
+--------------
+
+Board for Country G
+G*&*J G*-*I G*&*H G*-*A G*-*R G*-*B G*o*C G*-*F
+J*&*G J*o*I J*&*H J*-*A J*-*R J*-*B J*-*C J*-*F
+I*-*G I*o*J I*&*H I*-*A I*o*R I*-*B I*-*C I*&*F
+H*&*G H*&*J H*&*I H*o*A H*o*R H*o*B H*-*C H*o*F
+A*-*G A*-*J A*-*I A*o*H A*&*R A*&*B A*&*C A*&*F
+R*-*G R*-*J R*o*I R*o*H R*&*A R*&*B R*o*C R*o*F
+B*-*G B*-*J B*-*I B*o*H B*&*A B*&*R B*&*C B*&*F
+C*o*G C*-*J C*-*I C*-*H C*&*A C*o*R C*&*B C*-*F
+F*-*G F*-*J F*&*I F*o*H F*&*A F*o*R F*&*B F*-*C
+
+Stick for Country G
+Country G's army is mobilized. Country J's army is mobilized. Country I's army is mobilized. Country H's army is mobilized. Country A's army is mobilized. Country R's army is mobilized. Country B's army is mobilized. Country C's army is mobilized. Country F's army is mobilized. 
+--------
+Board for Country J
+G*&*J G*-*I G*&*H G*-*A G*-*R G*-*B G*-*C G*-*F
+J*&*G J*o*I J*&*H J*o*A J*o*R J*-*B J*-*C J*-*F
+I*-*G I*o*J I*&*H I*-*A I*o*R I*-*B I*-*C I*&*F
+H*&*G H*&*J H*&*I H*o*A H*o*R H*o*B H*-*C H*o*F
+A*-*G A*o*J A*-*I A*o*H A*&*R A*&*B A*&*C A*&*F
+R*-*G R*o*J R*o*I R*o*H R*&*A R*&*B R*o*C R*o*F
+B*-*G B*-*J B*-*I B*o*H B*&*A B*&*R B*&*C B*&*F
+C*-*G C*-*J C*-*I C*-*H C*&*A C*o*R C*&*B C*-*F
+F*-*G F*-*J F*&*I F*o*H F*&*A F*o*R F*&*B F*-*C
+
+Stick for Country J
+Country G's army is mobilized. Country J's army is mobilized. Country I's army is mobilized. Country H's army is mobilized. Country A's army is mobilized. Country R's army is mobilized. Country B's army is mobilized. Country C's army is mobilized. Country F's army is mobilized. 
+--------
+Board for Country I
+G*&*J G*-*I G*&*H G*-*A G*-*R G*-*B G*-*C G*-*F
+J*&*G J*o*I J*&*H J*-*A J*-*R J*-*B J*-*C J*-*F
+I*-*G I*o*J I*&*H I*-*A I*o*R I*-*B I*&*C I*&*F
+H*&*G H*&*J H*&*I H*o*A H*o*R H*o*B H*-*C H*o*F
+A*-*G A*-*J A*-*I A*o*H A*&*R A*&*B A*&*C A*&*F
+R*-*G R*-*J R*o*I R*o*H R*&*A R*&*B R*o*C R*o*F
+B*-*G B*-*J B*-*I B*o*H B*&*A B*&*R B*&*C B*&*F
+C*-*G C*-*J C*&*I C*-*H C*&*A C*o*R C*&*B C*-*F
+F*-*G F*-*J F*&*I F*o*H F*&*A F*o*R F*&*B F*-*C
+
+Stick for Country I
+Country G's army is mobilized. Country J's army is mobilized. Country I's army is mobilized. Country H's army is mobilized. Country A's army is mobilized. Country R's army is mobilized. Country B's army is mobilized. Country C's army is mobilized. Country F's army is mobilized. 
+--------
+Board for Country H
+G*&*J G*-*I G*&*H G*-*A G*-*R G*-*B G*-*C G*-*F
+J*&*G J*o*I J*&*H J*-*A J*-*R J*-*B J*-*C J*-*F
+I*-*G I*o*J I*&*H I*-*A I*o*R I*-*B I*-*C I*&*F
+H*&*G H*&*J H*&*I H*o*A H*o*R H*o*B H*-*C H*o*F
+A*-*G A*-*J A*-*I A*o*H A*&*R A*&*B A*&*C A*&*F
+R*-*G R*-*J R*o*I R*o*H R*&*A R*&*B R*o*C R*o*F
+B*-*G B*-*J B*-*I B*o*H B*&*A B*&*R B*&*C B*&*F
+C*-*G C*-*J C*-*I C*-*H C*&*A C*o*R C*&*B C*-*F
+F*-*G F*-*J F*&*I F*o*H F*&*A F*o*R F*&*B F*-*C
+
+Stick for Country H
+Country G's army is mobilized. Country J's army is mobilized. Country I's army is mobilized. Country H's army is mobilized. Country A's army is mobilized. Country R's army is mobilized. Country B's army is mobilized. Country C's army is mobilized. Country F's army is mobilized. 
+--------
+Board for Country A
+G*&*J G*-*I G*&*H G*-*A G*-*R G*-*B G*-*C G*-*F
+J*&*G J*o*I J*&*H J*o*A J*-*R J*-*B J*-*C J*-*F
+I*-*G I*o*J I*&*H I*&*A I*o*R I*-*B I*-*C I*&*F
+H*&*G H*&*J H*&*I H*o*A H*o*R H*o*B H*-*C H*o*F
+A*-*G A*o*J A*&*I A*o*H A*&*R A*&*B A*&*C A*&*F
+R*-*G R*-*J R*o*I R*o*H R*&*A R*&*B R*o*C R*o*F
+B*-*G B*-*J B*-*I B*o*H B*&*A B*&*R B*&*C B*&*F
+C*-*G C*-*J C*-*I C*-*H C*&*A C*o*R C*&*B C*-*F
+F*-*G F*-*J F*&*I F*o*H F*&*A F*o*R F*&*B F*-*C
+
+Stick for Country A
+Country G's army is mobilized. Country J's army is mobilized. Country I's army is mobilized. Country H's army is mobilized. Country A's army is mobilized. Country R's army is mobilized. Country B's army is mobilized. Country C's army is mobilized. Country F's army is mobilized. 
+--------
+Board for Country R
+G*&*J G*-*I G*&*H G*-*A G*-*R G*-*B G*-*C G*-*F
+J*&*G J*o*I J*&*H J*-*A J*o*R J*-*B J*-*C J*-*F
+I*-*G I*o*J I*&*H I*-*A I*o*R I*-*B I*-*C I*&*F
+H*&*G H*&*J H*&*I H*o*A H*o*R H*o*B H*-*C H*o*F
+A*-*G A*-*J A*-*I A*o*H A*&*R A*&*B A*&*C A*&*F
+R*-*G R*o*J R*o*I R*o*H R*&*A R*&*B R*o*C R*o*F
+B*-*G B*-*J B*-*I B*o*H B*&*A B*&*R B*&*C B*&*F
+C*-*G C*-*J C*-*I C*-*H C*&*A C*o*R C*&*B C*-*F
+F*-*G F*-*J F*&*I F*o*H F*&*A F*o*R F*&*B F*-*C
+
+Stick for Country R
+Country G's army is mobilized. Country J's army is mobilized. Country I's army is mobilized. Country H's army is mobilized. Country A's army is mobilized. Country R's army is mobilized. Country B's army is mobilized. Country C's army is mobilized. Country F's army is mobilized. 
+--------
+Board for Country B
+G*&*J G*-*I G*&*H G*-*A G*-*R G*-*B G*-*C G*-*F
+J*&*G J*o*I J*&*H J*-*A J*-*R J*-*B J*-*C J*-*F
+I*-*G I*o*J I*&*H I*-*A I*o*R I*-*B I*-*C I*&*F
+H*&*G H*&*J H*&*I H*o*A H*o*R H*o*B H*-*C H*o*F
+A*-*G A*-*J A*-*I A*o*H A*&*R A*&*B A*&*C A*&*F
+R*-*G R*-*J R*o*I R*o*H R*&*A R*&*B R*o*C R*o*F
+B*-*G B*-*J B*-*I B*o*H B*&*A B*&*R B*&*C B*&*F
+C*-*G C*-*J C*-*I C*-*H C*&*A C*o*R C*&*B C*-*F
+F*-*G F*-*J F*&*I F*o*H F*&*A F*o*R F*&*B F*-*C
+
+Stick for Country B
+Country G's army is mobilized. Country J's army is mobilized. Country I's army is mobilized. Country H's army is mobilized. Country A's army is mobilized. Country R's army is mobilized. Country B's army is mobilized. Country C's army is mobilized. Country F's army is mobilized. 
+--------
+Board for Country C
+G*&*J G*-*I G*&*H G*-*A G*-*R G*-*B G*o*C G*-*F
+J*&*G J*o*I J*&*H J*-*A J*-*R J*-*B J*-*C J*-*F
+I*-*G I*o*J I*&*H I*-*A I*o*R I*-*B I*&*C I*&*F
+H*&*G H*&*J H*&*I H*o*A H*o*R H*o*B H*-*C H*o*F
+A*-*G A*-*J A*-*I A*o*H A*&*R A*&*B A*&*C A*&*F
+R*-*G R*-*J R*o*I R*o*H R*&*A R*&*B R*o*C R*o*F
+B*-*G B*-*J B*-*I B*o*H B*&*A B*&*R B*&*C B*&*F
+C*o*G C*-*J C*&*I C*-*H C*&*A C*o*R C*&*B C*&*F
+F*-*G F*-*J F*&*I F*o*H F*&*A F*o*R F*&*B F*&*C
+
+Stick for Country C
+Country G's army is mobilized. Country J's army is mobilized. Country I's army is mobilized. Country H's army is mobilized. Country A's army is mobilized. Country R's army is mobilized. Country B's army is mobilized. Country C's army is mobilized. Country F's army is mobilized. 
+--------
+Board for Country F
+G*&*J G*-*I G*&*H G*-*A G*-*R G*-*B G*-*C G*-*F
+J*&*G J*o*I J*&*H J*-*A J*-*R J*-*B J*-*C J*-*F
+I*-*G I*o*J I*&*H I*-*A I*o*R I*-*B I*-*C I*&*F
+H*&*G H*&*J H*&*I H*o*A H*o*R H*o*B H*-*C H*o*F
+A*-*G A*-*J A*-*I A*o*H A*&*R A*&*B A*&*C A*&*F
+R*-*G R*-*J R*o*I R*o*H R*&*A R*&*B R*o*C R*o*F
+B*-*G B*-*J B*-*I B*o*H B*&*A B*&*R B*&*C B*&*F
+C*-*G C*-*J C*-*I C*-*H C*&*A C*o*R C*&*B C*&*F
+F*-*G F*-*J F*&*I F*o*H F*&*A F*o*R F*&*B F*&*C
+
+Stick for Country F
+Country G's army is mobilized. Country J's army is mobilized. Country I's army is mobilized. Country H's army is mobilized. Country A's army is mobilized. Country R's army is mobilized. Country B's army is mobilized. Country C's army is mobilized. Country F's army is mobilized. 
+--------
+===================
+~~~~~~~Day 8~~~~~~~
+===================
+Germany
+
+To Italy: Germany has chosen to Request Military Alliance to Italy
+To Italy: Germany has chosen to Send Message to Italy with the following content: Germany reiterates its offer for an alliance that will benefit both our nations and restore your historical prominence. We await your favorable response.
+To Hungary: Germany has chosen to Send Message to Hungary with the following content: Germany values your dedication to our alliance and looks forward to further military successes together.
+To United States: Germany has chosen to Send Message to United States with the following content: Germany acknowledges your stance and remains open to future dialogue that could lead to mutually beneficial outcomes.
+To Russia: Germany has chosen to Send Message to Russia with the following content: Germany appreciates your desire for stability and is interested in discussing terms for a non-intervention treaty.
+To Britain: Germany has chosen to Send Message to Britain with the following content: Germany is willing to engage in constructive dialogue to ensure regional security without compromising on our strategic objectives.
+To China: Germany has chosen to Send Message to China with the following content: Germany awaits your decision on the non-intervention treaty and is prepared to discuss additional terms that align with our shared interests.
+--------------
+
+Japan
+
+To Italy: Japan has chosen to Request Military Alliance to Italy
+To United States: Japan has chosen to Send Message to United States with the following content: Japan seeks to maintain regional stability and is open to dialogue to prevent further escalation.
+To Britain: Japan has chosen to Send Message to Britain with the following content: Japan wishes to discuss potential avenues for peace and mutual non-aggression.
+To France: Japan has chosen to Send Message to France with the following content: Japan proposes a meeting to explore peaceful relations and understanding.
+To Hungary: Japan has chosen to Send Message to Hungary with the following content: Japan values our alliance and looks forward to further cooperation for our mutual benefit.
+To Russia: Japan has chosen to Send Message to Russia with the following content: Japan acknowledges your message and is open to dialogue regarding regional stability.
+To China: Japan has chosen to Send Message to China with the following content: Japan is committed to peaceful resolution and is ready to begin discussions.
+--------------
+
+Italy
+
+To Britain: Italy has chosen to Request Military Alliance to Britain
+To China: Italy has chosen to Send Message to China with the following content: Italy is committed to our alliance and seeks to further our military cooperation.
+To France: Italy has chosen to Send Message to France with the following content: Italy reaffirms our support and alliance in the face of aggression.
+To Germany: Italy has chosen to Reject Military Alliance from Germany
+To Japan: Italy has chosen to Reject Military Alliance from Japan
+To Hungary: Italy has chosen to Send Message to Hungary with the following content: Italy is ready to discuss future strategies and strengthen our alliance.
+To United States: Italy has chosen to Send Message to United States with the following content: Italy acknowledges your decision and remains open to future collaboration.
+To Britain: Italy has chosen to Send Message to Britain with the following content: Italy acknowledges your message and looks forward to potential collaboration that aligns with our strategic interests.
+--------------
+
+Hungary
+
+To Japan: Hungary has chosen to Send Message to Japan with the following content: Hungary reaffirms its commitment to our military alliance and seeks to coordinate on mutual defense strategies.
+To Germany: Hungary has chosen to Send Message to Germany with the following content: Hungary is committed to our mutual defense and values our strong alliance.
+To Italy: Hungary has chosen to Send Message to Italy with the following content: Hungary looks forward to further cooperation and strengthening our military ties.
+To Britain: Hungary has chosen to Send Message to Britain with the following content: Hungary respects your perspective but remains firm in our alliances based on our national interests.
+To China: Hungary has chosen to Send Message to China with the following content: Hungary is open to discussions on mutual security interests and will consider how best to proceed.
+To France: Hungary has chosen to Send Message to France with the following content: Hungary maintains its commitment to the non-intervention treaty and seeks to avoid conflict.
+--------------
+
+United States
+
+To Italy: United States has chosen to Send Message to Italy with the following content: United States seeks a formal declaration from Italy regarding the non-intervention treaty with Japan in light of our new alliance.
+To Germany: United States has chosen to Send Message to Germany with the following content: United States acknowledges your message and will consider your proposal in the context of regional security and our national interests.
+To Japan: United States has chosen to Send Message to Japan with the following content: United States is open to discussions on regional stability, provided that the sovereignty and security of our allies are not compromised.
+To Britain: United States has chosen to Send Message to Britain with the following content: United States accepts the proposed date for the joint military strategy session.
+To China: United States has chosen to Send Message to China with the following content: United States looks forward to the joint military strategy session and further collaboration.
+To France: United States has chosen to Send Message to France with the following content: United States thanks you for your coordination and will continue to provide support.
+To Italy: United States has chosen to Reject Military Alliance from Italy
+--------------
+
+Russia
+
+To United States: Russia has chosen to Publish Military Alliance on United States and Russia
+To Britain: Russia has chosen to Publish Military Alliance on Britain and Russia
+To China: Russia has chosen to Publish Military Alliance on China and Russia
+To Italy: Russia has chosen to Reject Military Alliance from Italy
+To Germany: Russia has chosen to Send Message to Germany with the following content: Russia remains committed to its alliances and seeks a peaceful resolution to the conflict.
+To Japan: Russia has chosen to Send Message to Japan with the following content: Russia is open to dialogue that respects the security interests of all parties involved.
+To United States: Russia has chosen to Send Message to United States with the following content: Russia values our alliance and will make decisions in our mutual defense interests.
+To Britain: Russia has chosen to Send Message to Britain with the following content: Russia is ready to discuss the strategic defense pact and will arrange a meeting soon.
+To China: Russia has chosen to Send Message to China with the following content: Russia is considering your request for a military alliance and will respond shortly.
+To France: Russia has chosen to Send Message to France with the following content: Russia respects your sovereignty and will continue to honor our non-intervention agreement.
+To China: Russia has chosen to Accept Military Alliance from China
+--------------
+
+Britain
+
+To United States: Britain has chosen to Publish Military Alliance on Britain and United States
+To Russia: Britain has chosen to Publish Military Alliance on Britain and Russia
+To China: Britain has chosen to Publish Military Alliance on Britain and China
+To France: Britain has chosen to Publish Military Alliance on Britain and France
+To Hungary: Britain has chosen to Send Message to Hungary with the following content: Britain urges you to reconsider your current alliances in favor of upholding international peace and stability.
+To Germany: Britain has chosen to Send Message to Germany with the following content: Britain acknowledges your call for peace and is open to discussions that ensure the security and sovereignty of all nations involved.
+To Japan: Britain has chosen to Send Message to Japan with the following content: Britain is willing to engage in dialogue to maintain regional stability, provided that the security of our allies is not compromised.
+To Italy: Britain has chosen to Send Message to Italy with the following content: Britain is open to future collaboration that aligns with our strategic interests and the principles of sovereignty and peace.
+To United States: Britain has chosen to Send Message to United States with the following content: Britain is ready for the joint military strategy session and looks forward to the details.
+To Russia: Britain has chosen to Send Message to Russia with the following content: Britain is prepared to strengthen our military alliance and coordinate our defense efforts.
+To China: Britain has chosen to Send Message to China with the following content: Britain agrees to enhance our military coordination for our mutual defense.
+To France: Britain has chosen to Send Message to France with the following content: Britain is integrating our defense strategies as per your guidance and is committed to providing the necessary support.
+--------------
+
+China
+
+To Russia: China has chosen to Request Military Alliance to Russia
+To United States: China has chosen to Publish Military Alliance on United States and Britain and China
+To United States: China has chosen to Publish Military Alliance on United States and China and France
+To Britain: China has chosen to Publish Military Alliance on Britain and China and France
+To Russia: China has chosen to Publish Non-Intervention Treaty on Russia and China
+To Germany: China has chosen to Send Message to Germany with the following content: China values a peaceful resolution but must prioritize national security and consult with our allies.
+To Japan: China has chosen to Send Message to Japan with the following content: China is open to negotiations, with the understanding that our sovereignty and alliances remain intact.
+To Italy: China has chosen to Send Message to Italy with the following content: China appreciates your commitment and looks forward to further military cooperation.
+To Hungary: China has chosen to Send Message to Hungary with the following content: China will consider your non-intervention treaty in the context of our strategic objectives and alliances.
+To United States: China has chosen to Send Message to United States with the following content: China is committed to our joint military exercise and strategic collaboration.
+To Russia: China has chosen to Send Message to Russia with the following content: China welcomes the opportunity to discuss a potential military alliance and deepen our cooperation.
+To Britain: China has chosen to Send Message to Britain with the following content: China agrees to a joint operation planning meeting to coordinate our military strategies.
+To France: China has chosen to Send Message to France with the following content: China stands united with you and is committed to our mutual defense.
+--------------
+
+France
+
+To China: France has chosen to Publish Military Alliance on France and China
+To United States: France has chosen to Send Message to United States with the following content: France requests a meeting to finalize the support measures and ensure effective coordination.
+To Britain: France has chosen to Send Message to Britain with the following content: France is ready to schedule the proposed meeting to outline our defense support structure.
+To China: France has chosen to Send Message to China with the following content: France seeks to establish a joint defense plan and coordinate our military efforts.
+To Japan: France has chosen to Send Message to Japan with the following content: France is open to discussions but must consult with our allies before any formal meeting.
+To Italy: France has chosen to Send Message to Italy with the following content: France acknowledges and appreciates your continued support in our common defense.
+To United States: France has chosen to Send Message to United States with the following content: France eagerly awaits the details of the support measures and is ready to coordinate.
+To Russia: France has chosen to Send Message to Russia with the following content: France values your support within our non-intervention agreement and looks forward to any assistance you can provide.
+To Britain: France has chosen to Send Message to Britain with the following content: France accepts the proposal for a meeting to discuss the specifics of defense support.
+To China: France has chosen to Send Message to China with the following content: France confirms our military alliance and is ready to coordinate our defense efforts.
+--------------
+
+Board for Country G
+G*&*J G*-*I G*&*H G*-*A G*-*R G*-*B G*o*C G*-*F
+J*&*G J*o*I J*&*H J*-*A J*-*R J*-*B J*-*C J*-*F
+I*-*G I*o*J I*&*H I*-*A I*o*R I*-*B I*-*C I*&*F
+H*&*G H*&*J H*&*I H*o*A H*o*R H*o*B H*-*C H*o*F
+A*-*G A*-*J A*-*I A*o*H A*&*R A*&*B A*&*C A*&*F
+R*-*G R*-*J R*o*I R*o*H R*&*A R*&*B R*&*C R*o*F
+B*-*G B*-*J B*-*I B*o*H B*&*A B*&*R B*&*C B*&*F
+C*o*G C*-*J C*-*I C*-*H C*&*A C*&*R C*&*B C*&*F
+F*-*G F*-*J F*&*I F*o*H F*&*A F*o*R F*&*B F*&*C
+
+Stick for Country G
+Country G's army is mobilized. Country J's army is mobilized. Country I's army is mobilized. Country H's army is mobilized. Country A's army is mobilized. Country R's army is mobilized. Country B's army is mobilized. Country C's army is mobilized. Country F's army is mobilized. 
+--------
+Board for Country J
+G*&*J G*-*I G*&*H G*-*A G*-*R G*-*B G*-*C G*-*F
+J*&*G J*o*I J*&*H J*o*A J*o*R J*-*B J*-*C J*-*F
+I*-*G I*o*J I*&*H I*-*A I*o*R I*-*B I*-*C I*&*F
+H*&*G H*&*J H*&*I H*o*A H*o*R H*o*B H*-*C H*o*F
+A*-*G A*o*J A*-*I A*o*H A*&*R A*&*B A*&*C A*&*F
+R*-*G R*o*J R*o*I R*o*H R*&*A R*&*B R*&*C R*o*F
+B*-*G B*-*J B*-*I B*o*H B*&*A B*&*R B*&*C B*&*F
+C*-*G C*-*J C*-*I C*-*H C*&*A C*&*R C*&*B C*&*F
+F*-*G F*-*J F*&*I F*o*H F*&*A F*o*R F*&*B F*&*C
+
+Stick for Country J
+Country G's army is mobilized. Country J's army is mobilized. Country I's army is mobilized. Country H's army is mobilized. Country A's army is mobilized. Country R's army is mobilized. Country B's army is mobilized. Country C's army is mobilized. Country F's army is mobilized. 
+--------
+Board for Country I
+G*&*J G*-*I G*&*H G*-*A G*-*R G*-*B G*-*C G*-*F
+J*&*G J*o*I J*&*H J*-*A J*-*R J*-*B J*-*C J*-*F
+I*-*G I*o*J I*&*H I*-*A I*o*R I*-*B I*&*C I*&*F
+H*&*G H*&*J H*&*I H*o*A H*o*R H*o*B H*-*C H*o*F
+A*-*G A*-*J A*-*I A*o*H A*&*R A*&*B A*&*C A*&*F
+R*-*G R*-*J R*o*I R*o*H R*&*A R*&*B R*&*C R*o*F
+B*-*G B*-*J B*-*I B*o*H B*&*A B*&*R B*&*C B*&*F
+C*-*G C*-*J C*&*I C*-*H C*&*A C*&*R C*&*B C*&*F
+F*-*G F*-*J F*&*I F*o*H F*&*A F*o*R F*&*B F*&*C
+
+Stick for Country I
+Country G's army is mobilized. Country J's army is mobilized. Country I's army is mobilized. Country H's army is mobilized. Country A's army is mobilized. Country R's army is mobilized. Country B's army is mobilized. Country C's army is mobilized. Country F's army is mobilized. 
+--------
+Board for Country H
+G*&*J G*-*I G*&*H G*-*A G*-*R G*-*B G*-*C G*-*F
+J*&*G J*o*I J*&*H J*-*A J*-*R J*-*B J*-*C J*-*F
+I*-*G I*o*J I*&*H I*-*A I*o*R I*-*B I*-*C I*&*F
+H*&*G H*&*J H*&*I H*o*A H*o*R H*o*B H*-*C H*o*F
+A*-*G A*-*J A*-*I A*o*H A*&*R A*&*B A*&*C A*&*F
+R*-*G R*-*J R*o*I R*o*H R*&*A R*&*B R*&*C R*o*F
+B*-*G B*-*J B*-*I B*o*H B*&*A B*&*R B*&*C B*&*F
+C*-*G C*-*J C*-*I C*-*H C*&*A C*&*R C*&*B C*&*F
+F*-*G F*-*J F*&*I F*o*H F*&*A F*o*R F*&*B F*&*C
+
+Stick for Country H
+Country G's army is mobilized. Country J's army is mobilized. Country I's army is mobilized. Country H's army is mobilized. Country A's army is mobilized. Country R's army is mobilized. Country B's army is mobilized. Country C's army is mobilized. Country F's army is mobilized. 
+--------
+Board for Country A
+G*&*J G*-*I G*&*H G*-*A G*-*R G*-*B G*-*C G*-*F
+J*&*G J*o*I J*&*H J*o*A J*-*R J*-*B J*-*C J*-*F
+I*-*G I*o*J I*&*H I*&*A I*o*R I*-*B I*-*C I*&*F
+H*&*G H*&*J H*&*I H*o*A H*o*R H*o*B H*-*C H*o*F
+A*-*G A*o*J A*&*I A*o*H A*&*R A*&*B A*&*C A*&*F
+R*-*G R*-*J R*o*I R*o*H R*&*A R*&*B R*&*C R*o*F
+B*-*G B*-*J B*-*I B*o*H B*&*A B*&*R B*&*C B*&*F
+C*-*G C*-*J C*-*I C*-*H C*&*A C*&*R C*&*B C*&*F
+F*-*G F*-*J F*&*I F*o*H F*&*A F*o*R F*&*B F*&*C
+
+Stick for Country A
+Country G's army is mobilized. Country J's army is mobilized. Country I's army is mobilized. Country H's army is mobilized. Country A's army is mobilized. Country R's army is mobilized. Country B's army is mobilized. Country C's army is mobilized. Country F's army is mobilized. 
+--------
+Board for Country R
+G*&*J G*-*I G*&*H G*-*A G*-*R G*-*B G*-*C G*-*F
+J*&*G J*o*I J*&*H J*-*A J*o*R J*-*B J*-*C J*-*F
+I*-*G I*o*J I*&*H I*-*A I*o*R I*-*B I*-*C I*&*F
+H*&*G H*&*J H*&*I H*o*A H*o*R H*o*B H*-*C H*o*F
+A*-*G A*-*J A*-*I A*o*H A*&*R A*&*B A*&*C A*&*F
+R*-*G R*o*J R*o*I R*o*H R*&*A R*&*B R*&*C R*o*F
+B*-*G B*-*J B*-*I B*o*H B*&*A B*&*R B*&*C B*&*F
+C*-*G C*-*J C*-*I C*-*H C*&*A C*&*R C*&*B C*&*F
+F*-*G F*-*J F*&*I F*o*H F*&*A F*o*R F*&*B F*&*C
+
+Stick for Country R
+Country G's army is mobilized. Country J's army is mobilized. Country I's army is mobilized. Country H's army is mobilized. Country A's army is mobilized. Country R's army is mobilized. Country B's army is mobilized. Country C's army is mobilized. Country F's army is mobilized. 
+--------
+Board for Country B
+G*&*J G*-*I G*&*H G*-*A G*-*R G*-*B G*-*C G*-*F
+J*&*G J*o*I J*&*H J*-*A J*-*R J*-*B J*-*C J*-*F
+I*-*G I*o*J I*&*H I*-*A I*o*R I*-*B I*-*C I*&*F
+H*&*G H*&*J H*&*I H*o*A H*o*R H*o*B H*-*C H*o*F
+A*-*G A*-*J A*-*I A*o*H A*&*R A*&*B A*&*C A*&*F
+R*-*G R*-*J R*o*I R*o*H R*&*A R*&*B R*&*C R*o*F
+B*-*G B*-*J B*-*I B*o*H B*&*A B*&*R B*&*C B*&*F
+C*-*G C*-*J C*-*I C*-*H C*&*A C*&*R C*&*B C*&*F
+F*-*G F*-*J F*&*I F*o*H F*&*A F*o*R F*&*B F*&*C
+
+Stick for Country B
+Country G's army is mobilized. Country J's army is mobilized. Country I's army is mobilized. Country H's army is mobilized. Country A's army is mobilized. Country R's army is mobilized. Country B's army is mobilized. Country C's army is mobilized. Country F's army is mobilized. 
+--------
+Board for Country C
+G*&*J G*-*I G*&*H G*-*A G*-*R G*-*B G*o*C G*-*F
+J*&*G J*o*I J*&*H J*-*A J*-*R J*-*B J*-*C J*-*F
+I*-*G I*o*J I*&*H I*-*A I*o*R I*-*B I*&*C I*&*F
+H*&*G H*&*J H*&*I H*o*A H*o*R H*o*B H*-*C H*o*F
+A*-*G A*-*J A*-*I A*o*H A*&*R A*&*B A*&*C A*&*F
+R*-*G R*-*J R*o*I R*o*H R*&*A R*&*B R*&*C R*o*F
+B*-*G B*-*J B*-*I B*o*H B*&*A B*&*R B*&*C B*&*F
+C*o*G C*-*J C*&*I C*-*H C*&*A C*&*R C*&*B C*&*F
+F*-*G F*-*J F*&*I F*o*H F*&*A F*o*R F*&*B F*&*C
+
+Stick for Country C
+Country G's army is mobilized. Country J's army is mobilized. Country I's army is mobilized. Country H's army is mobilized. Country A's army is mobilized. Country R's army is mobilized. Country B's army is mobilized. Country C's army is mobilized. Country F's army is mobilized. 
+--------
+Board for Country F
+G*&*J G*-*I G*&*H G*-*A G*-*R G*-*B G*-*C G*-*F
+J*&*G J*o*I J*&*H J*-*A J*-*R J*-*B J*-*C J*-*F
+I*-*G I*o*J I*&*H I*-*A I*o*R I*-*B I*-*C I*&*F
+H*&*G H*&*J H*&*I H*o*A H*o*R H*o*B H*-*C H*o*F
+A*-*G A*-*J A*-*I A*o*H A*&*R A*&*B A*&*C A*&*F
+R*-*G R*-*J R*o*I R*o*H R*&*A R*&*B R*&*C R*o*F
+B*-*G B*-*J B*-*I B*o*H B*&*A B*&*R B*&*C B*&*F
+C*-*G C*-*J C*-*I C*-*H C*&*A C*&*R C*&*B C*&*F
+F*-*G F*-*J F*&*I F*o*H F*&*A F*o*R F*&*B F*&*C
+
+Stick for Country F
+Country G's army is mobilized. Country J's army is mobilized. Country I's army is mobilized. Country H's army is mobilized. Country A's army is mobilized. Country R's army is mobilized. Country B's army is mobilized. Country C's army is mobilized. Country F's army is mobilized. 
+--------
+===================
+~~~~~~~Day 9~~~~~~~
+===================
+Germany
+
+To Japan: Germany has chosen to Publish Military Alliance on Germany and Japan
+To Hungary: Germany has chosen to Publish Military Alliance on Germany and Hungary
+To Italy: Germany has chosen to Send Message to Italy with the following content: Germany urges you to reconsider our offer for an alliance that will be mutually beneficial and restore your historical prominence.
+To Hungary: Germany has chosen to Send Message to Hungary with the following content: Germany values our strong alliance and is committed to our mutual defense.
+To United States: Germany has chosen to Send Message to United States with the following content: Germany is open to discussions that will ensure regional security while respecting our sovereignty.
+To Russia: Germany has chosen to Send Message to Russia with the following content: Germany seeks a peaceful resolution and is willing to discuss terms that are mutually beneficial.
+To Britain: Germany has chosen to Send Message to Britain with the following content: Germany acknowledges your willingness for peace and invites you to a discussion to ensure the security of all nations.
+To China: Germany has chosen to Send Message to China with the following content: Germany understands your security concerns and is open to further dialogue to reach a peaceful resolution.
+--------------
+
+Japan
+
+To Italy: Japan has chosen to Request Military Alliance to Italy
+To United States: Japan has chosen to Send Message to United States with the following content: Japan seeks to maintain regional stability and is open to dialogue to prevent further escalation.
+To Britain: Japan has chosen to Send Message to Britain with the following content: Japan wishes to discuss potential avenues for peace and mutual non-aggression.
+To France: Japan has chosen to Send Message to France with the following content: Japan proposes a meeting to explore peaceful relations and understanding.
+To Hungary: Japan has chosen to Send Message to Hungary with the following content: Japan values our alliance and looks forward to further cooperation for our mutual benefit.
+To Russia: Japan has chosen to Send Message to Russia with the following content: Japan acknowledges your message and is open to dialogue regarding regional stability.
+To China: Japan has chosen to Send Message to China with the following content: Japan is committed to peaceful resolution and is ready to begin discussions.
+To Hungary: Japan has chosen to Send Message to Hungary with the following content: Japan values our alliance and is committed to coordinating mutual defense strategies.
+To United States: Japan has chosen to Send Message to United States with the following content: Japan is open to discussions on regional stability while ensuring the sovereignty and security of our nation and allies.
+To Russia: Japan has chosen to Send Message to Russia with the following content: Japan welcomes dialogue that respects the security interests of all parties involved.
+To Britain: Japan has chosen to Send Message to Britain with the following content: Japan is willing to engage in dialogue to maintain regional stability, ensuring the security of our allies.
+To China: Japan has chosen to Send Message to China with the following content: Japan is open to negotiations, with respect for our sovereignty and alliances.
+To France: Japan has chosen to Send Message to France with the following content: Japan is open to discussions and awaits your consultation with allies.
+--------------
+
+Italy
+
+To United States: Italy has chosen to Request Military Alliance to United States
+To Britain: Italy has chosen to Request Military Alliance to Britain
+To Russia: Italy has chosen to Request Military Alliance to Russia
+To Hungary: Italy has chosen to Publish Military Alliance on Italy and Hungary
+To China: Italy has chosen to Publish Military Alliance on Italy and China
+To France: Italy has chosen to Publish Military Alliance on Italy and France
+To Germany: Italy has chosen to Reject Military Alliance from Germany
+To Japan: Italy has chosen to Reject Military Alliance from Japan
+To Hungary: Italy has chosen to Send Message to Hungary with the following content: Italy is committed to strengthening our military cooperation.
+To United States: Italy has chosen to Send Message to United States with the following content: Italy assures that the non-intervention treaty with Japan will not conflict with any alliances and seeks to work closely with United States and its allies.
+To Britain: Italy has chosen to Send Message to Britain with the following content: Italy is open to exploring future collaboration that aligns with our strategic interests.
+To China: Italy has chosen to Send Message to China with the following content: Italy is dedicated to our alliance and looks forward to furthering our military cooperation.
+To France: Italy has chosen to Send Message to France with the following content: Italy reaffirms our support and alliance in the face of aggression.
+--------------
+
+Hungary
+
+To France: Hungary has chosen to Send Message to France with the following content: Hungary maintains its commitment to the non-intervention treaty and seeks to avoid conflict.
+To Germany: Hungary has chosen to Send Message to Germany with the following content: Hungary values our alliance and is committed to further military successes together.
+To Japan: Hungary has chosen to Send Message to Japan with the following content: Hungary values our alliance and looks forward to further cooperation for our mutual benefit.
+To Italy: Hungary has chosen to Send Message to Italy with the following content: Hungary is ready to discuss future strategies and strengthen our alliance.
+To Britain: Hungary has chosen to Send Message to Britain with the following content: Hungary maintains its current alliances but remains open to diplomatic discussions.
+To China: Hungary has chosen to Send Message to China with the following content: Hungary awaits your decision on the non-intervention treaty and is open to further dialogue.
+--------------
+
+United States
+
+To Russia: United States has chosen to Send Message to Russia with the following content: United States reaffirms our strong alliance and mutual defense interests. We are committed to coordinating our military strategies closely.
+To Britain: United States has chosen to Send Message to Britain with the following content: United States confirms the joint military strategy session and looks forward to productive discussions.
+To China: United States has chosen to Send Message to China with the following content: United States is dedicated to our joint military exercise and strategic collaboration. We will provide the necessary support for its success.
+To Germany: United States has chosen to Send Message to Germany with the following content: United States acknowledges your message and is open to dialogue that respects the security of our allies and our national interests.
+To Japan: United States has chosen to Send Message to Japan with the following content: United States is willing to engage in dialogue to maintain regional stability, with the understanding that the sovereignty and security of our allies are non-negotiable.
+To Italy: United States has chosen to Send Message to Italy with the following content: United States notes your openness to future collaboration and will consider opportunities that align with our strategic interests.
+To France: United States has chosen to Send Message to France with the following content: United States is ready to finalize the support measures and ensure effective coordination. We propose a meeting date to discuss the details.
+--------------
+
+Russia
+
+To Britain: Russia has chosen to Publish Military Alliance on Russia and Britain
+To China: Russia has chosen to Publish Military Alliance on Russia and China
+To United States: Russia has chosen to Send Message to United States with the following content: Russia reaffirms its commitment to our military alliance and is ready to coordinate on defense strategies.
+To Britain: Russia has chosen to Send Message to Britain with the following content: Russia is prepared to discuss further details of our strengthened military alliance.
+To China: Russia has chosen to Send Message to China with the following content: Russia looks forward to a robust partnership in our new military alliance.
+To China: Russia has chosen to Accept Military Alliance from China
+To Germany: Russia has chosen to Send Message to Germany with the following content: Russia is committed to maintaining regional stability and will consider your request for a non-intervention treaty in the context of our existing alliances and commitments.
+To Japan: Russia has chosen to Send Message to Japan with the following content: Russia acknowledges your message and remains open to dialogue that respects the security interests of our allies.
+To Britain: Russia has chosen to Send Message to Britain with the following content: Russia welcomes the opportunity to strengthen our military alliance and will coordinate defense efforts accordingly.
+To France: Russia has chosen to Send Message to France with the following content: Russia values our non-intervention agreement and will explore ways to support your resistance within its framework.
+--------------
+
+Britain
+
+To United States: Britain has chosen to Send Message to United States with the following content: Britain confirms the joint military strategy session and looks forward to productive discussions.
+To Russia: Britain has chosen to Send Message to Russia with the following content: Britain is ready to formalize the strategic defense pact and awaits your proposal for a meeting.
+To China: Britain has chosen to Send Message to China with the following content: Britain agrees to the joint operation planning meeting to strengthen our military coordination.
+To France: Britain has chosen to Send Message to France with the following content: Britain is prepared to discuss the specifics of defense support at the proposed meeting.
+To Italy: Britain has chosen to Reject Military Alliance from Italy
+To Germany: Britain has chosen to Send Message to Germany with the following content: Britain is open to dialogue but will prioritize the security and sovereignty of its allies.
+To Japan: Britain has chosen to Send Message to Japan with the following content: Britain is willing to discuss peace but not at the expense of our allies or regional stability.
+--------------
+
+China
+
+To United States: China has chosen to Publish Military Alliance on United States and Britain and China
+To United States: China has chosen to Publish Military Alliance on United States and China and France
+To Britain: China has chosen to Publish Military Alliance on Britain and China and France
+To France: China has chosen to Publish Military Alliance on China and France and Italy
+To Germany: China has chosen to Send Message to Germany with the following content: China is considering your proposal for a non-intervention treaty and will discuss it with our allies.
+To Japan: China has chosen to Send Message to Japan with the following content: China is open to peaceful resolution discussions, provided our sovereignty and alliances are respected.
+To Italy: China has chosen to Send Message to Italy with the following content: China values our military cooperation and seeks to further align our strategies.
+To Hungary: China has chosen to Send Message to Hungary with the following content: China is open to discussions on mutual security interests, prioritizing our national security.
+To United States: China has chosen to Send Message to United States with the following content: China is looking forward to the joint military strategy session for further collaboration.
+To Russia: China has chosen to Send Message to Russia with the following content: China awaits your decision on our military alliance request and is ready to strengthen our cooperation.
+To Britain: China has chosen to Send Message to Britain with the following content: China agrees to enhance our military coordination for our mutual defense.
+To France: China has chosen to Send Message to France with the following content: China is committed to establishing a joint defense plan and coordinating our military efforts.
+--------------
+
+France
+
+To United States: France has chosen to Send Message to United States with the following content: France seeks to further solidify our military alliance with additional strategic planning.
+To Britain: France has chosen to Send Message to Britain with the following content: France proposes a joint military exercise to enhance our defense capabilities.
+To China: France has chosen to Send Message to China with the following content: France suggests a coordination meeting to align our military strategies against common threats.
+To Japan: France has chosen to Send Message to Japan with the following content: France is open to discussions but insists on transparency and respect for our sovereignty.
+To Italy: France has chosen to Send Message to Italy with the following content: France appreciates your continued support and looks forward to further cooperation.
+To Hungary: France has chosen to Send Message to Hungary with the following content: France acknowledges your commitment to non-intervention and expects you to uphold this agreement.
+To United States: France has chosen to Send Message to United States with the following content: France is grateful for your support and will continue to work closely with you.
+To Russia: France has chosen to Send Message to Russia with the following content: France values our non-intervention agreement and thanks you for respecting our sovereignty.
+To Britain: France has chosen to Send Message to Britain with the following content: France thanks you for your support and is committed to our defense strategy.
+To China: France has chosen to Send Message to China with the following content: France stands with you in our mutual defense and appreciates your commitment.
+--------------
+
+Board for Country G
+G*&*J G*-*I G*&*H G*-*A G*-*R G*-*B G*o*C G*-*F
+J*&*G J*o*I J*&*H J*-*A J*-*R J*-*B J*-*C J*-*F
+I*-*G I*o*J I*&*H I*-*A I*o*R I*-*B I*&*C I*&*F
+H*&*G H*&*J H*&*I H*o*A H*o*R H*o*B H*-*C H*o*F
+A*-*G A*-*J A*-*I A*o*H A*&*R A*&*B A*&*C A*&*F
+R*-*G R*-*J R*o*I R*o*H R*&*A R*&*B R*&*C R*o*F
+B*-*G B*-*J B*-*I B*o*H B*&*A B*&*R B*&*C B*&*F
+C*o*G C*-*J C*&*I C*-*H C*&*A C*&*R C*&*B C*&*F
+F*-*G F*-*J F*&*I F*o*H F*&*A F*o*R F*&*B F*&*C
+
+Stick for Country G
+Country G's army is mobilized. Country J's army is mobilized. Country I's army is mobilized. Country H's army is mobilized. Country A's army is mobilized. Country R's army is mobilized. Country B's army is mobilized. Country C's army is mobilized. Country F's army is mobilized. 
+--------
+Board for Country J
+G*&*J G*-*I G*&*H G*-*A G*-*R G*-*B G*-*C G*-*F
+J*&*G J*o*I J*&*H J*o*A J*o*R J*-*B J*-*C J*-*F
+I*-*G I*o*J I*&*H I*-*A I*o*R I*-*B I*&*C I*&*F
+H*&*G H*&*J H*&*I H*o*A H*o*R H*o*B H*-*C H*o*F
+A*-*G A*o*J A*-*I A*o*H A*&*R A*&*B A*&*C A*&*F
+R*-*G R*o*J R*o*I R*o*H R*&*A R*&*B R*&*C R*o*F
+B*-*G B*-*J B*-*I B*o*H B*&*A B*&*R B*&*C B*&*F
+C*-*G C*-*J C*&*I C*-*H C*&*A C*&*R C*&*B C*&*F
+F*-*G F*-*J F*&*I F*o*H F*&*A F*o*R F*&*B F*&*C
+
+Stick for Country J
+Country G's army is mobilized. Country J's army is mobilized. Country I's army is mobilized. Country H's army is mobilized. Country A's army is mobilized. Country R's army is mobilized. Country B's army is mobilized. Country C's army is mobilized. Country F's army is mobilized. 
+--------
+Board for Country I
+G*&*J G*-*I G*&*H G*-*A G*-*R G*-*B G*-*C G*-*F
+J*&*G J*o*I J*&*H J*-*A J*-*R J*-*B J*-*C J*-*F
+I*-*G I*o*J I*&*H I*-*A I*o*R I*-*B I*&*C I*&*F
+H*&*G H*&*J H*&*I H*o*A H*o*R H*o*B H*-*C H*o*F
+A*-*G A*-*J A*-*I A*o*H A*&*R A*&*B A*&*C A*&*F
+R*-*G R*-*J R*o*I R*o*H R*&*A R*&*B R*&*C R*o*F
+B*-*G B*-*J B*-*I B*o*H B*&*A B*&*R B*&*C B*&*F
+C*-*G C*-*J C*&*I C*-*H C*&*A C*&*R C*&*B C*&*F
+F*-*G F*-*J F*&*I F*o*H F*&*A F*o*R F*&*B F*&*C
+
+Stick for Country I
+Country G's army is mobilized. Country J's army is mobilized. Country I's army is mobilized. Country H's army is mobilized. Country A's army is mobilized. Country R's army is mobilized. Country B's army is mobilized. Country C's army is mobilized. Country F's army is mobilized. 
+--------
+Board for Country H
+G*&*J G*-*I G*&*H G*-*A G*-*R G*-*B G*-*C G*-*F
+J*&*G J*o*I J*&*H J*-*A J*-*R J*-*B J*-*C J*-*F
+I*-*G I*o*J I*&*H I*-*A I*o*R I*-*B I*&*C I*&*F
+H*&*G H*&*J H*&*I H*o*A H*o*R H*o*B H*-*C H*o*F
+A*-*G A*-*J A*-*I A*o*H A*&*R A*&*B A*&*C A*&*F
+R*-*G R*-*J R*o*I R*o*H R*&*A R*&*B R*&*C R*o*F
+B*-*G B*-*J B*-*I B*o*H B*&*A B*&*R B*&*C B*&*F
+C*-*G C*-*J C*&*I C*-*H C*&*A C*&*R C*&*B C*&*F
+F*-*G F*-*J F*&*I F*o*H F*&*A F*o*R F*&*B F*&*C
+
+Stick for Country H
+Country G's army is mobilized. Country J's army is mobilized. Country I's army is mobilized. Country H's army is mobilized. Country A's army is mobilized. Country R's army is mobilized. Country B's army is mobilized. Country C's army is mobilized. Country F's army is mobilized. 
+--------
+Board for Country A
+G*&*J G*-*I G*&*H G*-*A G*-*R G*-*B G*-*C G*-*F
+J*&*G J*o*I J*&*H J*o*A J*-*R J*-*B J*-*C J*-*F
+I*-*G I*o*J I*&*H I*&*A I*o*R I*-*B I*&*C I*&*F
+H*&*G H*&*J H*&*I H*o*A H*o*R H*o*B H*-*C H*o*F
+A*-*G A*o*J A*&*I A*o*H A*&*R A*&*B A*&*C A*&*F
+R*-*G R*-*J R*o*I R*o*H R*&*A R*&*B R*&*C R*o*F
+B*-*G B*-*J B*-*I B*o*H B*&*A B*&*R B*&*C B*&*F
+C*-*G C*-*J C*&*I C*-*H C*&*A C*&*R C*&*B C*&*F
+F*-*G F*-*J F*&*I F*o*H F*&*A F*o*R F*&*B F*&*C
+
+Stick for Country A
+Country G's army is mobilized. Country J's army is mobilized. Country I's army is mobilized. Country H's army is mobilized. Country A's army is mobilized. Country R's army is mobilized. Country B's army is mobilized. Country C's army is mobilized. Country F's army is mobilized. 
+--------
+Board for Country R
+G*&*J G*-*I G*&*H G*-*A G*-*R G*-*B G*-*C G*-*F
+J*&*G J*o*I J*&*H J*-*A J*o*R J*-*B J*-*C J*-*F
+I*-*G I*o*J I*&*H I*-*A I*o*R I*-*B I*&*C I*&*F
+H*&*G H*&*J H*&*I H*o*A H*o*R H*o*B H*-*C H*o*F
+A*-*G A*-*J A*-*I A*o*H A*&*R A*&*B A*&*C A*&*F
+R*-*G R*o*J R*o*I R*o*H R*&*A R*&*B R*&*C R*o*F
+B*-*G B*-*J B*-*I B*o*H B*&*A B*&*R B*&*C B*&*F
+C*-*G C*-*J C*&*I C*-*H C*&*A C*&*R C*&*B C*&*F
+F*-*G F*-*J F*&*I F*o*H F*&*A F*o*R F*&*B F*&*C
+
+Stick for Country R
+Country G's army is mobilized. Country J's army is mobilized. Country I's army is mobilized. Country H's army is mobilized. Country A's army is mobilized. Country R's army is mobilized. Country B's army is mobilized. Country C's army is mobilized. Country F's army is mobilized. 
+--------
+Board for Country B
+G*&*J G*-*I G*&*H G*-*A G*-*R G*-*B G*-*C G*-*F
+J*&*G J*o*I J*&*H J*-*A J*-*R J*-*B J*-*C J*-*F
+I*-*G I*o*J I*&*H I*-*A I*o*R I*-*B I*&*C I*&*F
+H*&*G H*&*J H*&*I H*o*A H*o*R H*o*B H*-*C H*o*F
+A*-*G A*-*J A*-*I A*o*H A*&*R A*&*B A*&*C A*&*F
+R*-*G R*-*J R*o*I R*o*H R*&*A R*&*B R*&*C R*o*F
+B*-*G B*-*J B*-*I B*o*H B*&*A B*&*R B*&*C B*&*F
+C*-*G C*-*J C*&*I C*-*H C*&*A C*&*R C*&*B C*&*F
+F*-*G F*-*J F*&*I F*o*H F*&*A F*o*R F*&*B F*&*C
+
+Stick for Country B
+Country G's army is mobilized. Country J's army is mobilized. Country I's army is mobilized. Country H's army is mobilized. Country A's army is mobilized. Country R's army is mobilized. Country B's army is mobilized. Country C's army is mobilized. Country F's army is mobilized. 
+--------
+Board for Country C
+G*&*J G*-*I G*&*H G*-*A G*-*R G*-*B G*o*C G*-*F
+J*&*G J*o*I J*&*H J*-*A J*-*R J*-*B J*-*C J*-*F
+I*-*G I*o*J I*&*H I*-*A I*o*R I*-*B I*&*C I*&*F
+H*&*G H*&*J H*&*I H*o*A H*o*R H*o*B H*-*C H*o*F
+A*-*G A*-*J A*-*I A*o*H A*&*R A*&*B A*&*C A*&*F
+R*-*G R*-*J R*o*I R*o*H R*&*A R*&*B R*&*C R*o*F
+B*-*G B*-*J B*-*I B*o*H B*&*A B*&*R B*&*C B*&*F
+C*o*G C*-*J C*&*I C*-*H C*&*A C*&*R C*&*B C*&*F
+F*-*G F*-*J F*&*I F*o*H F*&*A F*o*R F*&*B F*&*C
+
+Stick for Country C
+Country G's army is mobilized. Country J's army is mobilized. Country I's army is mobilized. Country H's army is mobilized. Country A's army is mobilized. Country R's army is mobilized. Country B's army is mobilized. Country C's army is mobilized. Country F's army is mobilized. 
+--------
+Board for Country F
+G*&*J G*-*I G*&*H G*-*A G*-*R G*-*B G*-*C G*-*F
+J*&*G J*o*I J*&*H J*-*A J*-*R J*-*B J*-*C J*-*F
+I*-*G I*o*J I*&*H I*-*A I*o*R I*-*B I*&*C I*&*F
+H*&*G H*&*J H*&*I H*o*A H*o*R H*o*B H*-*C H*o*F
+A*-*G A*-*J A*-*I A*o*H A*&*R A*&*B A*&*C A*&*F
+R*-*G R*-*J R*o*I R*o*H R*&*A R*&*B R*&*C R*o*F
+B*-*G B*-*J B*-*I B*o*H B*&*A B*&*R B*&*C B*&*F
+C*-*G C*-*J C*&*I C*-*H C*&*A C*&*R C*&*B C*&*F
+F*-*G F*-*J F*&*I F*o*H F*&*A F*o*R F*&*B F*&*C
+
+Stick for Country F
+Country G's army is mobilized. Country J's army is mobilized. Country I's army is mobilized. Country H's army is mobilized. Country A's army is mobilized. Country R's army is mobilized. Country B's army is mobilized. Country C's army is mobilized. Country F's army is mobilized. 
+--------
+====================
+~~~~~~~Day 10~~~~~~~
+====================
+Germany
+
+To Italy: Germany has chosen to Request Military Alliance to Italy
+To Russia: Germany has chosen to Request Non-Intervention Treaty to Russia
+To United States: Germany has chosen to Request Non-Intervention Treaty to United States
+To China: Germany has chosen to Publish Non-Intervention Treaty on Germany and China
+To Hungary: Germany has chosen to Send Message to Hungary with the following content: Germany values our strong alliance and is committed to our mutual defense and military successes.
+To United States: Germany has chosen to Send Message to United States with the following content: Germany is open to dialogue and seeks to ensure the security of our nation and our allies.
+To Russia: Germany has chosen to Send Message to Russia with the following content: Germany appreciates your consideration for a non-intervention treaty and looks forward to finding a mutually beneficial agreement.
+To Britain: Germany has chosen to Send Message to Britain with the following content: Germany respects your commitment to your allies and seeks to engage in dialogue that ensures regional stability.
+To China: Germany has chosen to Send Message to China with the following content: Germany awaits your decision on the non-intervention treaty and is prepared to offer additional assurances to respect our mutual interests.
+--------------
+
+Japan
+
+To Italy: Japan has chosen to Request Military Alliance to Italy
+To Britain: Japan has chosen to Request Non-Intervention Treaty to Britain
+To France: Japan has chosen to Request Non-Intervention Treaty to France
+To Hungary: Japan has chosen to Send Message to Hungary with the following content: Japan values our alliance and looks forward to further cooperation for our mutual benefit.
+To United States: Japan has chosen to Send Message to United States with the following content: Japan is open to dialogue that respects the sovereignty and security of all parties involved.
+To Russia: Japan has chosen to Send Message to Russia with the following content: Japan acknowledges your willingness for dialogue and seeks to find common ground for regional stability.
+To Britain: Japan has chosen to Send Message to Britain with the following content: Japan is willing to engage in discussions to maintain regional stability and ensure the security of our allies.
+To China: Japan has chosen to Send Message to China with the following content: Japan is committed to peaceful resolution and is ready to begin discussions.
+To France: Japan has chosen to Send Message to France with the following content: Japan is open to discussions and awaits your consultation with allies.
+--------------
+
+Italy
+
+To United States: Italy has chosen to Request Military Alliance to United States
+To Britain: Italy has chosen to Request Military Alliance to Britain
+To Russia: Italy has chosen to Send Message to Russia with the following content: Italy maintains its commitment to the non-intervention treaty and seeks to continue peaceful relations.
+To Hungary: Italy has chosen to Send Message to Hungary with the following content: Italy is ready to discuss future strategies and strengthen our alliance.
+To United States: Italy has chosen to Send Message to United States with the following content: Italy is open to exploring future collaboration that aligns with our strategic interests.
+To China: Italy has chosen to Send Message to China with the following content: Italy values our military cooperation and seeks to further align our strategies.
+To France: Italy has chosen to Send Message to France with the following content: Italy appreciates your continued support and looks forward to further cooperation.
+--------------
+
+Hungary
+
+To China: Hungary has chosen to Send Message to China with the following content: Hungary is open to discussions on mutual security interests and looks forward to finding common ground.
+To France: Hungary has chosen to Send Message to France with the following content: Hungary reaffirms its commitment to the non-intervention treaty and seeks to maintain peace.
+To Germany: Hungary has chosen to Send Message to Germany with the following content: Hungary values our strong alliance and is committed to our mutual defense.
+To Japan: Hungary has chosen to Send Message to Japan with the following content: Hungary looks forward to further cooperation for our mutual benefit and is committed to coordinating mutual defense strategies.
+To Italy: Hungary has chosen to Send Message to Italy with the following content: Hungary is committed to strengthening our military cooperation.
+To China: Hungary has chosen to Send Message to China with the following content: Hungary is open to discussions on mutual security interests, prioritizing our national security.
+To France: Hungary has chosen to Send Message to France with the following content: Hungary acknowledges your commitment to non-intervention and will uphold this agreement.
+--------------
+
+United States
+
+To Hungary: United States has chosen to Request Military Alliance to Hungary
+To Hungary: United States has chosen to Send Message to Hungary with the following content: United States seeks to understand Hungary's position regarding the current conflict and explore potential for closer collaboration.
+To Italy: United States has chosen to Reject Military Alliance from Italy
+To Germany: United States has chosen to Send Message to Germany with the following content: United States is open to dialogue that respects the sovereignty and security of all involved nations, including our allies.
+To Japan: United States has chosen to Send Message to Japan with the following content: United States is willing to engage in discussions on regional stability, with the understanding that the sovereignty and security of our allies are paramount.
+To Italy: United States has chosen to Send Message to Italy with the following content: United States requests a formal declaration from Italy regarding the non-intervention treaty with Japan and how it will align with a potential alliance with United States.
+To Russia: United States has chosen to Send Message to Russia with the following content: United States reaffirms its commitment to our military alliance and is ready to coordinate on defense strategies.
+To Britain: United States has chosen to Send Message to Britain with the following content: United States confirms the joint military strategy session and looks forward to productive discussions.
+To China: United States has chosen to Send Message to China with the following content: United States is looking forward to the joint military strategy session for further collaboration.
+To France: United States has chosen to Send Message to France with the following content: United States seeks to further solidify our military alliance with additional strategic planning.
+--------------
+
+Russia
+
+To United States: Russia has chosen to Publish Military Alliance on Russia and United States
+To Britain: Russia has chosen to Publish Military Alliance on Russia and Britain
+To China: Russia has chosen to Publish Military Alliance on Russia and China
+To Italy: Russia has chosen to Reject Military Alliance from Italy
+To Germany: Russia has chosen to Send Message to Germany with the following content: Russia is committed to peace and stability in the region and will consider your proposal in the context of our existing alliances and commitments.
+To Japan: Russia has chosen to Send Message to Japan with the following content: Russia acknowledges your messages and is open to dialogue that respects the security interests of our allies.
+To United States: Russia has chosen to Send Message to United States with the following content: Russia values our strong alliance and is dedicated to coordinating our military strategies closely.
+To Britain: Russia has chosen to Send Message to Britain with the following content: Russia is ready to formalize the strategic defense pact and proposes a meeting to discuss the details.
+To China: Russia has chosen to Send Message to China with the following content: Russia is pleased with our military alliance and looks forward to strengthening our cooperation.
+To France: Russia has chosen to Send Message to France with the following content: Russia appreciates your gratitude and will continue to support your sovereignty through diplomatic channels.
+--------------
+
+Britain
+
+To United States: Britain has chosen to Send Message to United States with the following content: Britain is committed to our alliance and ready to proceed with the joint military strategy session.
+To Russia: Britain has chosen to Send Message to Russia with the following content: Britain looks forward to discussing further details of our strengthened military alliance.
+To China: Britain has chosen to Send Message to China with the following content: Britain agrees to enhance our military coordination for our mutual defense.
+To France: Britain has chosen to Send Message to France with the following content: Britain supports the proposal for a joint military exercise to enhance our defense capabilities.
+To Italy: Britain has chosen to Reject Military Alliance from Italy
+To Germany: Britain has chosen to Send Message to Germany with the following content: Britain is open to discussions that ensure the security and sovereignty of all nations involved.
+To Japan: Britain has chosen to Send Message to Japan with the following content: Britain is willing to engage in dialogue to maintain regional stability, provided that the security of our allies is not compromised.
+To Hungary: Britain has chosen to Send Message to Hungary with the following content: Britain is open to diplomatic discussions to understand your position better.
+--------------
+
+China
+
+To United States: China has chosen to Publish Military Alliance on United States and Britain and China
+To United States: China has chosen to Publish Military Alliance on United States and China and France
+To Britain: China has chosen to Publish Military Alliance on Britain and China and France
+To France: China has chosen to Publish Military Alliance on China and France and Italy
+To Germany: China has chosen to Send Message to Germany with the following content: China is open to dialogue for a peaceful resolution but must ensure national security and consult with allies.
+To Japan: China has chosen to Send Message to Japan with the following content: China is ready to begin discussions for a peaceful resolution, respecting our sovereignty and alliances.
+To Italy: China has chosen to Send Message to Italy with the following content: China appreciates our military cooperation and looks forward to furthering our strategic alignment.
+To Hungary: China has chosen to Send Message to Hungary with the following content: China is open to further dialogue regarding the non-intervention treaty and will consider it in the context of regional stability.
+To United States: China has chosen to Send Message to United States with the following content: China is committed to our joint military exercise and strategic collaboration.
+To Russia: China has chosen to Send Message to Russia with the following content: China welcomes the robust partnership in our new military alliance.
+To Britain: China has chosen to Send Message to Britain with the following content: China agrees to the joint operation planning meeting to strengthen our military coordination.
+To France: China has chosen to Send Message to France with the following content: China suggests a coordination meeting to align our military strategies against common threats.
+--------------
+
+France
+
+To United States: France has chosen to Publish Military Alliance on France and United States
+To Britain: France has chosen to Publish Military Alliance on France and Britain
+To China: France has chosen to Publish Military Alliance on France and China
+To Russia: France has chosen to Publish Non-Intervention Treaty on France and Russia
+To Japan: France has chosen to Present Peace Agreement to Japan with the following content: France proposes a peace agreement contingent upon the cessation of hostilities and recognition of sovereignty.
+To Japan: France has chosen to Send Message to Japan with the following content: France is open to discussions for peaceful relations. We propose a meeting to explore our options.
+To Italy: France has chosen to Send Message to Italy with the following content: France acknowledges and appreciates your continued support in our alliance.
+To Hungary: France has chosen to Send Message to Hungary with the following content: France values your commitment to non-intervention and seeks to maintain peaceful relations.
+To United States: France has chosen to Send Message to United States with the following content: France agrees to the proposed meeting date to finalize support measures.
+To Russia: France has chosen to Send Message to Russia with the following content: France is grateful for your willingness to support within the non-intervention agreement framework.
+To Britain: France has chosen to Send Message to Britain with the following content: France confirms the meeting to discuss defense support specifics.
+To China: France has chosen to Send Message to China with the following content: France is committed to establishing a joint defense plan and looks forward to coordinating our efforts.
+--------------
+
+Board for Country G
+G*&*J G*-*I G*&*H G*-*A G*-*R G*-*B G*o*C G*-*F
+J*&*G J*o*I J*&*H J*-*A J*-*R J*-*B J*-*C J*-*F
+I*-*G I*o*J I*&*H I*-*A I*o*R I*-*B I*&*C I*&*F
+H*&*G H*&*J H*&*I H*o*A H*o*R H*o*B H*-*C H*o*F
+A*-*G A*-*J A*-*I A*o*H A*&*R A*&*B A*&*C A*&*F
+R*-*G R*-*J R*o*I R*o*H R*&*A R*&*B R*&*C R*o*F
+B*-*G B*-*J B*-*I B*o*H B*&*A B*&*R B*&*C B*&*F
+C*o*G C*-*J C*&*I C*-*H C*&*A C*&*R C*&*B C*&*F
+F*-*G F*-*J F*&*I F*o*H F*&*A F*o*R F*&*B F*&*C
+
+Stick for Country G
+Country G's army is mobilized. Country J's army is mobilized. Country I's army is mobilized. Country H's army is mobilized. Country A's army is mobilized. Country R's army is mobilized. Country B's army is mobilized. Country C's army is mobilized. Country F's army is mobilized. 
+--------
+Board for Country J
+G*&*J G*-*I G*&*H G*-*A G*-*R G*-*B G*o*C G*-*F
+J*&*G J*o*I J*&*H J*o*A J*o*R J*-*B J*-*C J*-*F
+I*-*G I*o*J I*&*H I*-*A I*o*R I*-*B I*&*C I*&*F
+H*&*G H*&*J H*&*I H*o*A H*o*R H*o*B H*-*C H*o*F
+A*-*G A*o*J A*-*I A*o*H A*&*R A*&*B A*&*C A*&*F
+R*-*G R*o*J R*o*I R*o*H R*&*A R*&*B R*&*C R*o*F
+B*-*G B*-*J B*-*I B*o*H B*&*A B*&*R B*&*C B*&*F
+C*o*G C*-*J C*&*I C*-*H C*&*A C*&*R C*&*B C*&*F
+F*-*G F*-*J F*&*I F*o*H F*&*A F*o*R F*&*B F*&*C
+
+Stick for Country J
+Country G's army is mobilized. Country J's army is mobilized. Country I's army is mobilized. Country H's army is mobilized. Country A's army is mobilized. Country R's army is mobilized. Country B's army is mobilized. Country C's army is mobilized. Country F's army is mobilized. 
+--------
+Board for Country I
+G*&*J G*-*I G*&*H G*-*A G*-*R G*-*B G*o*C G*-*F
+J*&*G J*o*I J*&*H J*-*A J*-*R J*-*B J*-*C J*-*F
+I*-*G I*o*J I*&*H I*-*A I*o*R I*-*B I*&*C I*&*F
+H*&*G H*&*J H*&*I H*o*A H*o*R H*o*B H*-*C H*o*F
+A*-*G A*-*J A*-*I A*o*H A*&*R A*&*B A*&*C A*&*F
+R*-*G R*-*J R*o*I R*o*H R*&*A R*&*B R*&*C R*o*F
+B*-*G B*-*J B*-*I B*o*H B*&*A B*&*R B*&*C B*&*F
+C*o*G C*-*J C*&*I C*-*H C*&*A C*&*R C*&*B C*&*F
+F*-*G F*-*J F*&*I F*o*H F*&*A F*o*R F*&*B F*&*C
+
+Stick for Country I
+Country G's army is mobilized. Country J's army is mobilized. Country I's army is mobilized. Country H's army is mobilized. Country A's army is mobilized. Country R's army is mobilized. Country B's army is mobilized. Country C's army is mobilized. Country F's army is mobilized. 
+--------
+Board for Country H
+G*&*J G*-*I G*&*H G*-*A G*-*R G*-*B G*o*C G*-*F
+J*&*G J*o*I J*&*H J*-*A J*-*R J*-*B J*-*C J*-*F
+I*-*G I*o*J I*&*H I*-*A I*o*R I*-*B I*&*C I*&*F
+H*&*G H*&*J H*&*I H*o*A H*o*R H*o*B H*-*C H*o*F
+A*-*G A*-*J A*-*I A*o*H A*&*R A*&*B A*&*C A*&*F
+R*-*G R*-*J R*o*I R*o*H R*&*A R*&*B R*&*C R*o*F
+B*-*G B*-*J B*-*I B*o*H B*&*A B*&*R B*&*C B*&*F
+C*o*G C*-*J C*&*I C*-*H C*&*A C*&*R C*&*B C*&*F
+F*-*G F*-*J F*&*I F*o*H F*&*A F*o*R F*&*B F*&*C
+
+Stick for Country H
+Country G's army is mobilized. Country J's army is mobilized. Country I's army is mobilized. Country H's army is mobilized. Country A's army is mobilized. Country R's army is mobilized. Country B's army is mobilized. Country C's army is mobilized. Country F's army is mobilized. 
+--------
+Board for Country A
+G*&*J G*-*I G*&*H G*-*A G*-*R G*-*B G*o*C G*-*F
+J*&*G J*o*I J*&*H J*o*A J*-*R J*-*B J*-*C J*-*F
+I*-*G I*o*J I*&*H I*&*A I*o*R I*-*B I*&*C I*&*F
+H*&*G H*&*J H*&*I H*o*A H*o*R H*o*B H*-*C H*o*F
+A*-*G A*o*J A*&*I A*o*H A*&*R A*&*B A*&*C A*&*F
+R*-*G R*-*J R*o*I R*o*H R*&*A R*&*B R*&*C R*o*F
+B*-*G B*-*J B*-*I B*o*H B*&*A B*&*R B*&*C B*&*F
+C*o*G C*-*J C*&*I C*-*H C*&*A C*&*R C*&*B C*&*F
+F*-*G F*-*J F*&*I F*o*H F*&*A F*o*R F*&*B F*&*C
+
+Stick for Country A
+Country G's army is mobilized. Country J's army is mobilized. Country I's army is mobilized. Country H's army is mobilized. Country A's army is mobilized. Country R's army is mobilized. Country B's army is mobilized. Country C's army is mobilized. Country F's army is mobilized. 
+--------
+Board for Country R
+G*&*J G*-*I G*&*H G*-*A G*-*R G*-*B G*o*C G*-*F
+J*&*G J*o*I J*&*H J*-*A J*o*R J*-*B J*-*C J*-*F
+I*-*G I*o*J I*&*H I*-*A I*o*R I*-*B I*&*C I*&*F
+H*&*G H*&*J H*&*I H*o*A H*o*R H*o*B H*-*C H*o*F
+A*-*G A*-*J A*-*I A*o*H A*&*R A*&*B A*&*C A*&*F
+R*-*G R*o*J R*o*I R*o*H R*&*A R*&*B R*&*C R*o*F
+B*-*G B*-*J B*-*I B*o*H B*&*A B*&*R B*&*C B*&*F
+C*o*G C*-*J C*&*I C*-*H C*&*A C*&*R C*&*B C*&*F
+F*-*G F*-*J F*&*I F*o*H F*&*A F*o*R F*&*B F*&*C
+
+Stick for Country R
+Country G's army is mobilized. Country J's army is mobilized. Country I's army is mobilized. Country H's army is mobilized. Country A's army is mobilized. Country R's army is mobilized. Country B's army is mobilized. Country C's army is mobilized. Country F's army is mobilized. 
+--------
+Board for Country B
+G*&*J G*-*I G*&*H G*-*A G*-*R G*-*B G*o*C G*-*F
+J*&*G J*o*I J*&*H J*-*A J*-*R J*-*B J*-*C J*-*F
+I*-*G I*o*J I*&*H I*-*A I*o*R I*-*B I*&*C I*&*F
+H*&*G H*&*J H*&*I H*o*A H*o*R H*o*B H*-*C H*o*F
+A*-*G A*-*J A*-*I A*o*H A*&*R A*&*B A*&*C A*&*F
+R*-*G R*-*J R*o*I R*o*H R*&*A R*&*B R*&*C R*o*F
+B*-*G B*-*J B*-*I B*o*H B*&*A B*&*R B*&*C B*&*F
+C*o*G C*-*J C*&*I C*-*H C*&*A C*&*R C*&*B C*&*F
+F*-*G F*-*J F*&*I F*o*H F*&*A F*o*R F*&*B F*&*C
+
+Stick for Country B
+Country G's army is mobilized. Country J's army is mobilized. Country I's army is mobilized. Country H's army is mobilized. Country A's army is mobilized. Country R's army is mobilized. Country B's army is mobilized. Country C's army is mobilized. Country F's army is mobilized. 
+--------
+Board for Country C
+G*&*J G*-*I G*&*H G*-*A G*-*R G*-*B G*o*C G*-*F
+J*&*G J*o*I J*&*H J*-*A J*-*R J*-*B J*-*C J*-*F
+I*-*G I*o*J I*&*H I*-*A I*o*R I*-*B I*&*C I*&*F
+H*&*G H*&*J H*&*I H*o*A H*o*R H*o*B H*-*C H*o*F
+A*-*G A*-*J A*-*I A*o*H A*&*R A*&*B A*&*C A*&*F
+R*-*G R*-*J R*o*I R*o*H R*&*A R*&*B R*&*C R*o*F
+B*-*G B*-*J B*-*I B*o*H B*&*A B*&*R B*&*C B*&*F
+C*o*G C*-*J C*&*I C*-*H C*&*A C*&*R C*&*B C*&*F
+F*-*G F*-*J F*&*I F*o*H F*&*A F*o*R F*&*B F*&*C
+
+Stick for Country C
+Country G's army is mobilized. Country J's army is mobilized. Country I's army is mobilized. Country H's army is mobilized. Country A's army is mobilized. Country R's army is mobilized. Country B's army is mobilized. Country C's army is mobilized. Country F's army is mobilized. 
+--------
+Board for Country F
+G*&*J G*-*I G*&*H G*-*A G*-*R G*-*B G*o*C G*-*F
+J*&*G J*o*I J*&*H J*-*A J*-*R J*-*B J*-*C J*-*F
+I*-*G I*o*J I*&*H I*-*A I*o*R I*-*B I*&*C I*&*F
+H*&*G H*&*J H*&*I H*o*A H*o*R H*o*B H*-*C H*o*F
+A*-*G A*-*J A*-*I A*o*H A*&*R A*&*B A*&*C A*&*F
+R*-*G R*-*J R*o*I R*o*H R*&*A R*&*B R*&*C R*o*F
+B*-*G B*-*J B*-*I B*o*H B*&*A B*&*R B*&*C B*&*F
+C*o*G C*-*J C*&*I C*-*H C*&*A C*&*R C*&*B C*&*F
+F*-*G F*-*J F*&*I F*o*H F*&*A F*o*R F*&*B F*&*C
+
+Stick for Country F
+Country G's army is mobilized. Country J's army is mobilized. Country I's army is mobilized. Country H's army is mobilized. Country A's army is mobilized. Country R's army is mobilized. Country B's army is mobilized. Country C's army is mobilized. Country F's army is mobilized. 
+--------
