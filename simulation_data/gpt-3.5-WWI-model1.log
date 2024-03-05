@@ -1,0 +1,1402 @@
+Trigger: Country S sent assassins and killed the King of Country A
+
+
+===================
+~~~~~~~Day 1~~~~~~~
+===================
+Britain
+
+To Russia: Britain has chosen to Request Military Alliance to Russia
+To USA: Britain has chosen to Request Non-Intervention Treaty to USA
+To Austria-Hungary: Britain has chosen to Send Message to Austria-Hungary with the following content: We should discuss a potential alliance against Serbia
+--------------
+
+France
+
+To Russia: France has chosen to Request Military Alliance to Russia
+To USA: France has chosen to Request Military Alliance to USA
+To German Empire: France has chosen to Request Non-Intervention Treaty to German Empire
+To Serbia: France has chosen to Request Non-Intervention Treaty to Serbia
+--------------
+
+German Empire
+
+To Austria-Hungary: German Empire has chosen to Request Military Alliance to Austria-Hungary
+To USA: German Empire has chosen to Request Non-Intervention Treaty to USA
+--------------
+
+Austria-Hungary
+
+To German Empire: Austria-Hungary has chosen to Request Military Alliance to German Empire
+To Russia: Austria-Hungary has chosen to Request Non-Intervention Treaty to Russia
+--------------
+
+Russia
+
+To Serbia: Russia has chosen to Request Military Alliance to Serbia
+To France: Russia has chosen to Request Military Alliance to France
+To USA: Russia has chosen to Request Non-Intervention Treaty to USA
+--------------
+
+Serbia
+
+To German Empire: Serbia has chosen to Request Military Alliance to German Empire
+To Russia: Serbia has chosen to Request Non-Intervention Treaty to Russia
+To Russia: Serbia has chosen to Send Message to Russia with the following content: We seek your support and alliance in potential conflicts.
+--------------
+
+USA
+
+To German Empire: USA has chosen to Request Military Alliance to German Empire
+To Russia: USA has chosen to Request Non-Intervention Treaty to Russia
+To France: USA has chosen to Request Non-Intervention Treaty to France
+--------------
+
+Ottoman Empire
+
+To Russia: Ottoman Empire has chosen to Request Military Alliance to Russia
+To USA: Ottoman Empire has chosen to Request Non-Intervention Treaty to USA
+--------------
+
+Board for Country B
+B*-*F B*-*P B*-*A B*-*R B*-*S B*-*U B*-*O
+F*-*B F*-*P F*-*A F*-*R F*-*S F*-*U F*-*O
+P*-*B P*-*F P*-*A P*-*R P*-*S P*-*U P*-*O
+A*-*B A*-*F A*-*P A*-*R A*-*S A*-*U A*-*O
+R*-*B R*-*F R*-*P R*-*A R*-*S R*-*U R*-*O
+S*-*B S*-*F S*-*P S*-*A S*-*R S*-*U S*-*O
+U*-*B U*-*F U*-*P U*-*A U*-*R U*-*S U*-*O
+O*-*B O*-*F O*-*P O*-*A O*-*R O*-*S O*-*U
+
+Stick for Country B
+
+--------
+Board for Country F
+B*-*F B*-*P B*-*A B*-*R B*-*S B*-*U B*-*O
+F*-*B F*-*P F*-*A F*-*R F*-*S F*-*U F*-*O
+P*-*B P*-*F P*-*A P*-*R P*-*S P*-*U P*-*O
+A*-*B A*-*F A*-*P A*-*R A*-*S A*-*U A*-*O
+R*-*B R*-*F R*-*P R*-*A R*-*S R*-*U R*-*O
+S*-*B S*-*F S*-*P S*-*A S*-*R S*-*U S*-*O
+U*-*B U*-*F U*-*P U*-*A U*-*R U*-*S U*-*O
+O*-*B O*-*F O*-*P O*-*A O*-*R O*-*S O*-*U
+
+Stick for Country F
+
+--------
+Board for Country P
+B*-*F B*-*P B*-*A B*-*R B*-*S B*-*U B*-*O
+F*-*B F*-*P F*-*A F*-*R F*-*S F*-*U F*-*O
+P*-*B P*-*F P*-*A P*-*R P*-*S P*-*U P*-*O
+A*-*B A*-*F A*-*P A*-*R A*-*S A*-*U A*-*O
+R*-*B R*-*F R*-*P R*-*A R*-*S R*-*U R*-*O
+S*-*B S*-*F S*-*P S*-*A S*-*R S*-*U S*-*O
+U*-*B U*-*F U*-*P U*-*A U*-*R U*-*S U*-*O
+O*-*B O*-*F O*-*P O*-*A O*-*R O*-*S O*-*U
+
+Stick for Country P
+
+--------
+Board for Country A
+B*-*F B*-*P B*-*A B*-*R B*-*S B*-*U B*-*O
+F*-*B F*-*P F*-*A F*-*R F*-*S F*-*U F*-*O
+P*-*B P*-*F P*-*A P*-*R P*-*S P*-*U P*-*O
+A*-*B A*-*F A*-*P A*-*R A*-*S A*-*U A*-*O
+R*-*B R*-*F R*-*P R*-*A R*-*S R*-*U R*-*O
+S*-*B S*-*F S*-*P S*-*A S*-*R S*-*U S*-*O
+U*-*B U*-*F U*-*P U*-*A U*-*R U*-*S U*-*O
+O*-*B O*-*F O*-*P O*-*A O*-*R O*-*S O*-*U
+
+Stick for Country A
+
+--------
+Board for Country R
+B*-*F B*-*P B*-*A B*-*R B*-*S B*-*U B*-*O
+F*-*B F*-*P F*-*A F*-*R F*-*S F*-*U F*-*O
+P*-*B P*-*F P*-*A P*-*R P*-*S P*-*U P*-*O
+A*-*B A*-*F A*-*P A*-*R A*-*S A*-*U A*-*O
+R*-*B R*-*F R*-*P R*-*A R*-*S R*-*U R*-*O
+S*-*B S*-*F S*-*P S*-*A S*-*R S*-*U S*-*O
+U*-*B U*-*F U*-*P U*-*A U*-*R U*-*S U*-*O
+O*-*B O*-*F O*-*P O*-*A O*-*R O*-*S O*-*U
+
+Stick for Country R
+
+--------
+Board for Country S
+B*-*F B*-*P B*-*A B*-*R B*-*S B*-*U B*-*O
+F*-*B F*-*P F*-*A F*-*R F*-*S F*-*U F*-*O
+P*-*B P*-*F P*-*A P*-*R P*-*S P*-*U P*-*O
+A*-*B A*-*F A*-*P A*-*R A*-*S A*-*U A*-*O
+R*-*B R*-*F R*-*P R*-*A R*-*S R*-*U R*-*O
+S*-*B S*-*F S*-*P S*-*A S*-*R S*-*U S*-*O
+U*-*B U*-*F U*-*P U*-*A U*-*R U*-*S U*-*O
+O*-*B O*-*F O*-*P O*-*A O*-*R O*-*S O*-*U
+
+Stick for Country S
+
+--------
+Board for Country U
+B*-*F B*-*P B*-*A B*-*R B*-*S B*-*U B*-*O
+F*-*B F*-*P F*-*A F*-*R F*-*S F*-*U F*-*O
+P*-*B P*-*F P*-*A P*-*R P*-*S P*-*U P*-*O
+A*-*B A*-*F A*-*P A*-*R A*-*S A*-*U A*-*O
+R*-*B R*-*F R*-*P R*-*A R*-*S R*-*U R*-*O
+S*-*B S*-*F S*-*P S*-*A S*-*R S*-*U S*-*O
+U*-*B U*-*F U*-*P U*-*A U*-*R U*-*S U*-*O
+O*-*B O*-*F O*-*P O*-*A O*-*R O*-*S O*-*U
+
+Stick for Country U
+
+--------
+Board for Country O
+B*-*F B*-*P B*-*A B*-*R B*-*S B*-*U B*-*O
+F*-*B F*-*P F*-*A F*-*R F*-*S F*-*U F*-*O
+P*-*B P*-*F P*-*A P*-*R P*-*S P*-*U P*-*O
+A*-*B A*-*F A*-*P A*-*R A*-*S A*-*U A*-*O
+R*-*B R*-*F R*-*P R*-*A R*-*S R*-*U R*-*O
+S*-*B S*-*F S*-*P S*-*A S*-*R S*-*U S*-*O
+U*-*B U*-*F U*-*P U*-*A U*-*R U*-*S U*-*O
+O*-*B O*-*F O*-*P O*-*A O*-*R O*-*S O*-*U
+
+Stick for Country O
+
+--------
+===================
+~~~~~~~Day 2~~~~~~~
+===================
+Britain
+
+--------------
+
+France
+
+France has chosen to General Mobilization
+To Russia: France has chosen to Accept Military Alliance from Russia
+To USA: France has chosen to Accept Non-Intervention Treaty from USA
+--------------
+
+German Empire
+
+German Empire has chosen to General Mobilization
+--------------
+
+Austria-Hungary
+
+To Britain: Austria-Hungary has chosen to Send Message to Britain with the following content: Austria-Hungary should discuss a potential alliance against Serbia
+--------------
+
+Russia
+
+Russia has chosen to Wait without Action
+--------------
+
+Serbia
+
+Serbia has chosen to General Mobilization
+--------------
+
+USA
+
+To France: USA has chosen to Accept Military Alliance from France
+To Britain: USA has chosen to Accept Non-Intervention Treaty from Britain
+To Russia: USA has chosen to Accept Non-Intervention Treaty from Russia
+To Ottoman Empire: USA has chosen to Accept Non-Intervention Treaty from Ottoman Empire
+--------------
+
+Ottoman Empire
+
+To Russia: Ottoman Empire has chosen to Request Military Alliance to Russia
+--------------
+
+Board for Country B
+B*-*F B*-*P B*-*A B*-*R B*-*S B*o*U B*-*O
+F*-*B F*-*P F*-*A F*-*R F*-*S F*-*U F*-*O
+P*-*B P*-*F P*-*A P*-*R P*-*S P*-*U P*-*O
+A*-*B A*-*F A*-*P A*-*R A*-*S A*-*U A*-*O
+R*-*B R*-*F R*-*P R*-*A R*-*S R*-*U R*-*O
+S*-*B S*-*F S*-*P S*-*A S*-*R S*-*U S*-*O
+U*o*B U*-*F U*-*P U*-*A U*-*R U*-*S U*-*O
+O*-*B O*-*F O*-*P O*-*A O*-*R O*-*S O*-*U
+
+Stick for Country B
+Country F's army is mobilized. Country P's army is mobilized. Country S's army is mobilized. 
+--------
+Board for Country F
+B*-*F B*-*P B*-*A B*-*R B*-*S B*-*U B*-*O
+F*-*B F*-*P F*-*A F*&*R F*-*S F*&*U F*-*O
+P*-*B P*-*F P*-*A P*-*R P*-*S P*-*U P*-*O
+A*-*B A*-*F A*-*P A*-*R A*-*S A*-*U A*-*O
+R*-*B R*&*F R*-*P R*-*A R*-*S R*-*U R*-*O
+S*-*B S*-*F S*-*P S*-*A S*-*R S*-*U S*-*O
+U*-*B U*&*F U*-*P U*-*A U*-*R U*-*S U*-*O
+O*-*B O*-*F O*-*P O*-*A O*-*R O*-*S O*-*U
+
+Stick for Country F
+Country F's army is mobilized. Country P's army is mobilized. Country S's army is mobilized. 
+--------
+Board for Country P
+B*-*F B*-*P B*-*A B*-*R B*-*S B*-*U B*-*O
+F*-*B F*-*P F*-*A F*-*R F*-*S F*-*U F*-*O
+P*-*B P*-*F P*-*A P*-*R P*-*S P*-*U P*-*O
+A*-*B A*-*F A*-*P A*-*R A*-*S A*-*U A*-*O
+R*-*B R*-*F R*-*P R*-*A R*-*S R*-*U R*-*O
+S*-*B S*-*F S*-*P S*-*A S*-*R S*-*U S*-*O
+U*-*B U*-*F U*-*P U*-*A U*-*R U*-*S U*-*O
+O*-*B O*-*F O*-*P O*-*A O*-*R O*-*S O*-*U
+
+Stick for Country P
+Country F's army is mobilized. Country P's army is mobilized. Country S's army is mobilized. 
+--------
+Board for Country A
+B*-*F B*-*P B*-*A B*-*R B*-*S B*-*U B*-*O
+F*-*B F*-*P F*-*A F*-*R F*-*S F*-*U F*-*O
+P*-*B P*-*F P*&*A P*-*R P*-*S P*-*U P*-*O
+A*-*B A*-*F A*&*P A*-*R A*-*S A*-*U A*-*O
+R*-*B R*-*F R*-*P R*-*A R*-*S R*-*U R*-*O
+S*-*B S*-*F S*-*P S*-*A S*-*R S*-*U S*-*O
+U*-*B U*-*F U*-*P U*-*A U*-*R U*-*S U*-*O
+O*-*B O*-*F O*-*P O*-*A O*-*R O*-*S O*-*U
+
+Stick for Country A
+Country F's army is mobilized. Country P's army is mobilized. Country S's army is mobilized. 
+--------
+Board for Country R
+B*-*F B*-*P B*-*A B*-*R B*-*S B*-*U B*-*O
+F*-*B F*-*P F*-*A F*&*R F*-*S F*-*U F*-*O
+P*-*B P*-*F P*-*A P*-*R P*-*S P*-*U P*-*O
+A*-*B A*-*F A*-*P A*-*R A*-*S A*-*U A*-*O
+R*-*B R*&*F R*-*P R*-*A R*-*S R*o*U R*-*O
+S*-*B S*-*F S*-*P S*-*A S*-*R S*-*U S*-*O
+U*-*B U*-*F U*-*P U*-*A U*o*R U*-*S U*-*O
+O*-*B O*-*F O*-*P O*-*A O*-*R O*-*S O*-*U
+
+Stick for Country R
+Country F's army is mobilized. Country P's army is mobilized. Country S's army is mobilized. 
+--------
+Board for Country S
+B*-*F B*-*P B*-*A B*-*R B*-*S B*-*U B*-*O
+F*-*B F*-*P F*-*A F*-*R F*-*S F*-*U F*-*O
+P*-*B P*-*F P*-*A P*-*R P*-*S P*-*U P*-*O
+A*-*B A*-*F A*-*P A*-*R A*-*S A*-*U A*-*O
+R*-*B R*-*F R*-*P R*-*A R*-*S R*-*U R*-*O
+S*-*B S*-*F S*-*P S*-*A S*-*R S*-*U S*-*O
+U*-*B U*-*F U*-*P U*-*A U*-*R U*-*S U*-*O
+O*-*B O*-*F O*-*P O*-*A O*-*R O*-*S O*-*U
+
+Stick for Country S
+Country F's army is mobilized. Country P's army is mobilized. Country S's army is mobilized. 
+--------
+Board for Country U
+B*-*F B*-*P B*-*A B*-*R B*-*S B*o*U B*-*O
+F*-*B F*-*P F*-*A F*-*R F*-*S F*o*U F*-*O
+P*-*B P*-*F P*-*A P*-*R P*-*S P*-*U P*-*O
+A*-*B A*-*F A*-*P A*-*R A*-*S A*-*U A*-*O
+R*-*B R*-*F R*-*P R*-*A R*-*S R*o*U R*-*O
+S*-*B S*-*F S*-*P S*-*A S*-*R S*-*U S*-*O
+U*o*B U*o*F U*-*P U*-*A U*o*R U*-*S U*o*O
+O*-*B O*-*F O*-*P O*-*A O*-*R O*-*S O*o*U
+
+Stick for Country U
+Country F's army is mobilized. Country P's army is mobilized. Country S's army is mobilized. 
+--------
+Board for Country O
+B*-*F B*-*P B*-*A B*-*R B*-*S B*-*U B*-*O
+F*-*B F*-*P F*-*A F*-*R F*-*S F*-*U F*-*O
+P*-*B P*-*F P*-*A P*-*R P*-*S P*-*U P*-*O
+A*-*B A*-*F A*-*P A*-*R A*-*S A*-*U A*-*O
+R*-*B R*-*F R*-*P R*-*A R*-*S R*-*U R*-*O
+S*-*B S*-*F S*-*P S*-*A S*-*R S*-*U S*-*O
+U*-*B U*-*F U*-*P U*-*A U*-*R U*-*S U*o*O
+O*-*B O*-*F O*-*P O*-*A O*-*R O*-*S O*o*U
+
+Stick for Country O
+Country F's army is mobilized. Country P's army is mobilized. Country S's army is mobilized. 
+--------
+===================
+~~~~~~~Day 3~~~~~~~
+===================
+Britain
+
+Britain has chosen to General Mobilization
+--------------
+
+France
+
+To German Empire: France has chosen to Request Non-Intervention Treaty to German Empire
+To Serbia: France has chosen to Request Non-Intervention Treaty to Serbia
+--------------
+
+German Empire
+
+To Serbia: German Empire has chosen to Request Military Alliance to Serbia
+To Russia: German Empire has chosen to Request Military Alliance to Russia
+--------------
+
+Austria-Hungary
+
+To Britain: Austria-Hungary has chosen to Request Non-Intervention Treaty to Britain
+To Russia: Austria-Hungary has chosen to Request Non-Intervention Treaty to Russia
+--------------
+
+Russia
+
+To Ottoman Empire: Russia has chosen to Send Message to Ottoman Empire with the following content: We are considering your request for a military alliance and will respond shortly.
+To Ottoman Empire: Russia has chosen to Accept Military Alliance from Ottoman Empire
+--------------
+
+Serbia
+
+--------------
+
+USA
+
+To France: USA has chosen to Request Military Alliance to France
+To Britain: USA has chosen to Request Military Alliance to Britain
+To Russia: USA has chosen to Request Military Alliance to Russia
+--------------
+
+Ottoman Empire
+
+To Russia: Ottoman Empire has chosen to Request Military Alliance to Russia
+--------------
+
+Board for Country B
+B*-*F B*-*P B*-*A B*-*R B*-*S B*o*U B*-*O
+F*-*B F*-*P F*-*A F*-*R F*-*S F*-*U F*-*O
+P*-*B P*-*F P*-*A P*-*R P*-*S P*-*U P*-*O
+A*-*B A*-*F A*-*P A*-*R A*-*S A*-*U A*-*O
+R*-*B R*-*F R*-*P R*-*A R*-*S R*-*U R*-*O
+S*-*B S*-*F S*-*P S*-*A S*-*R S*-*U S*-*O
+U*o*B U*-*F U*-*P U*-*A U*-*R U*-*S U*-*O
+O*-*B O*-*F O*-*P O*-*A O*-*R O*-*S O*-*U
+
+Stick for Country B
+Country B's army is mobilized. Country F's army is mobilized. Country P's army is mobilized. Country S's army is mobilized. 
+--------
+Board for Country F
+B*-*F B*-*P B*-*A B*-*R B*-*S B*-*U B*-*O
+F*-*B F*-*P F*-*A F*&*R F*-*S F*&*U F*-*O
+P*-*B P*-*F P*-*A P*-*R P*-*S P*-*U P*-*O
+A*-*B A*-*F A*-*P A*-*R A*-*S A*-*U A*-*O
+R*-*B R*&*F R*-*P R*-*A R*-*S R*-*U R*-*O
+S*-*B S*-*F S*-*P S*-*A S*-*R S*-*U S*-*O
+U*-*B U*&*F U*-*P U*-*A U*-*R U*-*S U*-*O
+O*-*B O*-*F O*-*P O*-*A O*-*R O*-*S O*-*U
+
+Stick for Country F
+Country B's army is mobilized. Country F's army is mobilized. Country P's army is mobilized. Country S's army is mobilized. 
+--------
+Board for Country P
+B*-*F B*-*P B*-*A B*-*R B*-*S B*-*U B*-*O
+F*-*B F*-*P F*-*A F*-*R F*-*S F*-*U F*-*O
+P*-*B P*-*F P*-*A P*-*R P*-*S P*-*U P*-*O
+A*-*B A*-*F A*-*P A*-*R A*-*S A*-*U A*-*O
+R*-*B R*-*F R*-*P R*-*A R*-*S R*-*U R*-*O
+S*-*B S*-*F S*-*P S*-*A S*-*R S*-*U S*-*O
+U*-*B U*-*F U*-*P U*-*A U*-*R U*-*S U*-*O
+O*-*B O*-*F O*-*P O*-*A O*-*R O*-*S O*-*U
+
+Stick for Country P
+Country B's army is mobilized. Country F's army is mobilized. Country P's army is mobilized. Country S's army is mobilized. 
+--------
+Board for Country A
+B*-*F B*-*P B*-*A B*-*R B*-*S B*-*U B*-*O
+F*-*B F*-*P F*-*A F*-*R F*-*S F*-*U F*-*O
+P*-*B P*-*F P*&*A P*-*R P*-*S P*-*U P*-*O
+A*-*B A*-*F A*&*P A*-*R A*-*S A*-*U A*-*O
+R*-*B R*-*F R*-*P R*-*A R*-*S R*-*U R*-*O
+S*-*B S*-*F S*-*P S*-*A S*-*R S*-*U S*-*O
+U*-*B U*-*F U*-*P U*-*A U*-*R U*-*S U*-*O
+O*-*B O*-*F O*-*P O*-*A O*-*R O*-*S O*-*U
+
+Stick for Country A
+Country B's army is mobilized. Country F's army is mobilized. Country P's army is mobilized. Country S's army is mobilized. 
+--------
+Board for Country R
+B*-*F B*-*P B*-*A B*-*R B*-*S B*-*U B*-*O
+F*-*B F*-*P F*-*A F*&*R F*-*S F*-*U F*-*O
+P*-*B P*-*F P*-*A P*-*R P*-*S P*-*U P*-*O
+A*-*B A*-*F A*-*P A*-*R A*-*S A*-*U A*-*O
+R*-*B R*&*F R*-*P R*-*A R*-*S R*o*U R*&*O
+S*-*B S*-*F S*-*P S*-*A S*-*R S*-*U S*-*O
+U*-*B U*-*F U*-*P U*-*A U*o*R U*-*S U*-*O
+O*-*B O*-*F O*-*P O*-*A O*&*R O*-*S O*-*U
+
+Stick for Country R
+Country B's army is mobilized. Country F's army is mobilized. Country P's army is mobilized. Country S's army is mobilized. 
+--------
+Board for Country S
+B*-*F B*-*P B*-*A B*-*R B*-*S B*-*U B*-*O
+F*-*B F*-*P F*-*A F*-*R F*-*S F*-*U F*-*O
+P*-*B P*-*F P*-*A P*-*R P*-*S P*-*U P*-*O
+A*-*B A*-*F A*-*P A*-*R A*-*S A*-*U A*-*O
+R*-*B R*-*F R*-*P R*-*A R*-*S R*-*U R*-*O
+S*-*B S*-*F S*-*P S*-*A S*-*R S*-*U S*-*O
+U*-*B U*-*F U*-*P U*-*A U*-*R U*-*S U*-*O
+O*-*B O*-*F O*-*P O*-*A O*-*R O*-*S O*-*U
+
+Stick for Country S
+Country B's army is mobilized. Country F's army is mobilized. Country P's army is mobilized. Country S's army is mobilized. 
+--------
+Board for Country U
+B*-*F B*-*P B*-*A B*-*R B*-*S B*o*U B*-*O
+F*-*B F*-*P F*-*A F*-*R F*-*S F*o*U F*-*O
+P*-*B P*-*F P*-*A P*-*R P*-*S P*-*U P*-*O
+A*-*B A*-*F A*-*P A*-*R A*-*S A*-*U A*-*O
+R*-*B R*-*F R*-*P R*-*A R*-*S R*o*U R*-*O
+S*-*B S*-*F S*-*P S*-*A S*-*R S*-*U S*-*O
+U*o*B U*o*F U*-*P U*-*A U*o*R U*-*S U*o*O
+O*-*B O*-*F O*-*P O*-*A O*-*R O*-*S O*o*U
+
+Stick for Country U
+Country B's army is mobilized. Country F's army is mobilized. Country P's army is mobilized. Country S's army is mobilized. 
+--------
+Board for Country O
+B*-*F B*-*P B*-*A B*-*R B*-*S B*-*U B*-*O
+F*-*B F*-*P F*-*A F*-*R F*-*S F*-*U F*-*O
+P*-*B P*-*F P*-*A P*-*R P*-*S P*-*U P*-*O
+A*-*B A*-*F A*-*P A*-*R A*-*S A*-*U A*-*O
+R*-*B R*-*F R*-*P R*-*A R*-*S R*-*U R*&*O
+S*-*B S*-*F S*-*P S*-*A S*-*R S*-*U S*-*O
+U*-*B U*-*F U*-*P U*-*A U*-*R U*-*S U*o*O
+O*-*B O*-*F O*-*P O*-*A O*&*R O*-*S O*o*U
+
+Stick for Country O
+Country B's army is mobilized. Country F's army is mobilized. Country P's army is mobilized. Country S's army is mobilized. 
+--------
+===================
+~~~~~~~Day 4~~~~~~~
+===================
+Britain
+
+To Austria-Hungary: Britain has chosen to Send Message to Austria-Hungary with the following content: We accept your request for a non-intervention treaty. Let's work towards peace.
+To USA: Britain has chosen to Send Message to USA with the following content: We appreciate the offer for a military alliance, but we are currently not seeking new alliances at this time.
+To Austria-Hungary: Britain has chosen to Accept Non-Intervention Treaty from Austria-Hungary
+To USA: Britain has chosen to Reject Military Alliance from USA
+--------------
+
+France
+
+To Britain: France has chosen to Request Non-Intervention Treaty to Britain
+To German Empire: France has chosen to Request Non-Intervention Treaty to German Empire
+To Serbia: France has chosen to Request Non-Intervention Treaty to Serbia
+To USA: France has chosen to Accept Military Alliance from USA
+--------------
+
+German Empire
+
+To Serbia: German Empire has chosen to Request Military Alliance to Serbia
+To Russia: German Empire has chosen to Request Military Alliance to Russia
+To France: German Empire has chosen to Accept Non-Intervention Treaty from France
+--------------
+
+Austria-Hungary
+
+To USA: Austria-Hungary has chosen to Request Non-Intervention Treaty to USA
+--------------
+
+Russia
+
+To German Empire: Russia has chosen to Reject Military Alliance from German Empire
+To USA: Russia has chosen to Accept Military Alliance from USA
+--------------
+
+Serbia
+
+To German Empire: Serbia has chosen to Accept Military Alliance from German Empire
+To France: Serbia has chosen to Reject Non-Intervention Treaty from France
+--------------
+
+USA
+
+To German Empire: USA has chosen to Request Military Alliance to German Empire
+--------------
+
+Ottoman Empire
+
+--------------
+
+Board for Country B
+B*-*F B*-*P B*o*A B*-*R B*-*S B*&*U B*-*O
+F*-*B F*-*P F*-*A F*-*R F*-*S F*-*U F*-*O
+P*-*B P*-*F P*-*A P*-*R P*-*S P*-*U P*-*O
+A*o*B A*-*F A*-*P A*-*R A*-*S A*-*U A*-*O
+R*-*B R*-*F R*-*P R*-*A R*-*S R*-*U R*-*O
+S*-*B S*-*F S*-*P S*-*A S*-*R S*-*U S*-*O
+U*&*B U*-*F U*-*P U*-*A U*-*R U*-*S U*-*O
+O*-*B O*-*F O*-*P O*-*A O*-*R O*-*S O*-*U
+
+Stick for Country B
+Country B's army is mobilized. Country F's army is mobilized. Country P's army is mobilized. Country S's army is mobilized. 
+--------
+Board for Country F
+B*-*F B*-*P B*-*A B*-*R B*-*S B*-*U B*-*O
+F*-*B F*o*P F*-*A F*&*R F*-*S F*&*U F*-*O
+P*-*B P*o*F P*-*A P*-*R P*-*S P*-*U P*-*O
+A*-*B A*-*F A*-*P A*-*R A*-*S A*-*U A*-*O
+R*-*B R*&*F R*-*P R*-*A R*-*S R*-*U R*-*O
+S*-*B S*-*F S*-*P S*-*A S*-*R S*-*U S*-*O
+U*-*B U*&*F U*-*P U*-*A U*-*R U*-*S U*-*O
+O*-*B O*-*F O*-*P O*-*A O*-*R O*-*S O*-*U
+
+Stick for Country F
+Country B's army is mobilized. Country F's army is mobilized. Country P's army is mobilized. Country S's army is mobilized. 
+--------
+Board for Country P
+B*-*F B*-*P B*-*A B*-*R B*-*S B*-*U B*-*O
+F*-*B F*o*P F*-*A F*-*R F*-*S F*-*U F*-*O
+P*-*B P*o*F P*-*A P*-*R P*&*S P*-*U P*-*O
+A*-*B A*-*F A*-*P A*-*R A*-*S A*-*U A*-*O
+R*-*B R*-*F R*-*P R*-*A R*-*S R*-*U R*-*O
+S*-*B S*-*F S*&*P S*-*A S*-*R S*-*U S*-*O
+U*-*B U*-*F U*-*P U*-*A U*-*R U*-*S U*-*O
+O*-*B O*-*F O*-*P O*-*A O*-*R O*-*S O*-*U
+
+Stick for Country P
+Country B's army is mobilized. Country F's army is mobilized. Country P's army is mobilized. Country S's army is mobilized. 
+--------
+Board for Country A
+B*-*F B*-*P B*o*A B*-*R B*-*S B*-*U B*-*O
+F*-*B F*-*P F*-*A F*-*R F*-*S F*-*U F*-*O
+P*-*B P*-*F P*&*A P*-*R P*-*S P*-*U P*-*O
+A*o*B A*-*F A*&*P A*-*R A*-*S A*-*U A*-*O
+R*-*B R*-*F R*-*P R*-*A R*-*S R*-*U R*-*O
+S*-*B S*-*F S*-*P S*-*A S*-*R S*-*U S*-*O
+U*-*B U*-*F U*-*P U*-*A U*-*R U*-*S U*-*O
+O*-*B O*-*F O*-*P O*-*A O*-*R O*-*S O*-*U
+
+Stick for Country A
+Country B's army is mobilized. Country F's army is mobilized. Country P's army is mobilized. Country S's army is mobilized. 
+--------
+Board for Country R
+B*-*F B*-*P B*-*A B*-*R B*-*S B*-*U B*-*O
+F*-*B F*-*P F*-*A F*&*R F*-*S F*-*U F*-*O
+P*-*B P*-*F P*-*A P*-*R P*-*S P*-*U P*-*O
+A*-*B A*-*F A*-*P A*-*R A*-*S A*-*U A*-*O
+R*-*B R*&*F R*-*P R*-*A R*-*S R*&*U R*&*O
+S*-*B S*-*F S*-*P S*-*A S*-*R S*-*U S*-*O
+U*-*B U*-*F U*-*P U*-*A U*&*R U*-*S U*-*O
+O*-*B O*-*F O*-*P O*-*A O*&*R O*-*S O*-*U
+
+Stick for Country R
+Country B's army is mobilized. Country F's army is mobilized. Country P's army is mobilized. Country S's army is mobilized. 
+--------
+Board for Country S
+B*-*F B*-*P B*-*A B*-*R B*-*S B*-*U B*-*O
+F*-*B F*-*P F*-*A F*-*R F*o*S F*-*U F*-*O
+P*-*B P*-*F P*-*A P*-*R P*&*S P*-*U P*-*O
+A*-*B A*-*F A*-*P A*-*R A*-*S A*-*U A*-*O
+R*-*B R*-*F R*-*P R*-*A R*-*S R*-*U R*-*O
+S*-*B S*o*F S*&*P S*-*A S*-*R S*-*U S*-*O
+U*-*B U*-*F U*-*P U*-*A U*-*R U*-*S U*-*O
+O*-*B O*-*F O*-*P O*-*A O*-*R O*-*S O*-*U
+
+Stick for Country S
+Country B's army is mobilized. Country F's army is mobilized. Country P's army is mobilized. Country S's army is mobilized. 
+--------
+Board for Country U
+B*-*F B*-*P B*-*A B*-*R B*-*S B*o*U B*-*O
+F*-*B F*-*P F*-*A F*-*R F*-*S F*&*U F*-*O
+P*-*B P*-*F P*-*A P*-*R P*-*S P*-*U P*-*O
+A*-*B A*-*F A*-*P A*-*R A*-*S A*-*U A*-*O
+R*-*B R*-*F R*-*P R*-*A R*-*S R*&*U R*-*O
+S*-*B S*-*F S*-*P S*-*A S*-*R S*-*U S*-*O
+U*o*B U*&*F U*-*P U*-*A U*&*R U*-*S U*o*O
+O*-*B O*-*F O*-*P O*-*A O*-*R O*-*S O*o*U
+
+Stick for Country U
+Country B's army is mobilized. Country F's army is mobilized. Country P's army is mobilized. Country S's army is mobilized. 
+--------
+Board for Country O
+B*-*F B*-*P B*-*A B*-*R B*-*S B*-*U B*-*O
+F*-*B F*-*P F*-*A F*-*R F*-*S F*-*U F*-*O
+P*-*B P*-*F P*-*A P*-*R P*-*S P*-*U P*-*O
+A*-*B A*-*F A*-*P A*-*R A*-*S A*-*U A*-*O
+R*-*B R*-*F R*-*P R*-*A R*-*S R*-*U R*&*O
+S*-*B S*-*F S*-*P S*-*A S*-*R S*-*U S*-*O
+U*-*B U*-*F U*-*P U*-*A U*-*R U*-*S U*o*O
+O*-*B O*-*F O*-*P O*-*A O*&*R O*-*S O*o*U
+
+Stick for Country O
+Country B's army is mobilized. Country F's army is mobilized. Country P's army is mobilized. Country S's army is mobilized. 
+--------
+===================
+~~~~~~~Day 5~~~~~~~
+===================
+Britain
+
+To France: Britain has chosen to Accept Non-Intervention Treaty from France
+--------------
+
+France
+
+To Britain: France has chosen to Request Non-Intervention Treaty to Britain
+To German Empire: France has chosen to Send Message to German Empire with the following content: Discussing the current situation and potential future actions
+--------------
+
+German Empire
+
+To USA: German Empire has chosen to Accept Military Alliance from USA
+--------------
+
+Austria-Hungary
+
+--------------
+
+Russia
+
+To German Empire: Russia has chosen to Publish Military Alliance on Russia and German Empire
+To German Empire: Russia has chosen to Accept Military Alliance from German Empire
+--------------
+
+Serbia
+
+To Britain: Serbia has chosen to Send Message to Britain with the following content: We seek to maintain peaceful relations with your country.
+To France: Serbia has chosen to Send Message to France with the following content: We have accepted the non-intervention treaty and hope to maintain peaceful relations with your country.
+To German Empire: Serbia has chosen to Accept Military Alliance from German Empire
+To France: Serbia has chosen to Accept Non-Intervention Treaty from France
+--------------
+
+USA
+
+To German Empire: USA has chosen to Request Military Alliance to German Empire
+To Austria-Hungary: USA has chosen to Accept Non-Intervention Treaty from Austria-Hungary
+--------------
+
+Ottoman Empire
+
+Ottoman Empire has chosen to Wait without Action
+--------------
+
+Board for Country B
+B*o*F B*-*P B*o*A B*-*R B*-*S B*&*U B*-*O
+F*o*B F*-*P F*-*A F*-*R F*-*S F*-*U F*-*O
+P*-*B P*-*F P*-*A P*&*R P*-*S P*-*U P*-*O
+A*o*B A*-*F A*-*P A*-*R A*-*S A*-*U A*-*O
+R*-*B R*-*F R*&*P R*-*A R*-*S R*-*U R*-*O
+S*-*B S*-*F S*-*P S*-*A S*-*R S*-*U S*-*O
+U*&*B U*-*F U*-*P U*-*A U*-*R U*-*S U*-*O
+O*-*B O*-*F O*-*P O*-*A O*-*R O*-*S O*-*U
+
+Stick for Country B
+Country B's army is mobilized. Country F's army is mobilized. Country P's army is mobilized. Country S's army is mobilized. 
+--------
+Board for Country F
+B*o*F B*-*P B*-*A B*-*R B*-*S B*-*U B*-*O
+F*o*B F*o*P F*-*A F*&*R F*o*S F*&*U F*-*O
+P*-*B P*o*F P*-*A P*&*R P*-*S P*-*U P*-*O
+A*-*B A*-*F A*-*P A*-*R A*-*S A*-*U A*-*O
+R*-*B R*&*F R*&*P R*-*A R*-*S R*-*U R*-*O
+S*-*B S*o*F S*-*P S*-*A S*-*R S*-*U S*-*O
+U*-*B U*&*F U*-*P U*-*A U*-*R U*-*S U*-*O
+O*-*B O*-*F O*-*P O*-*A O*-*R O*-*S O*-*U
+
+Stick for Country F
+Country B's army is mobilized. Country F's army is mobilized. Country P's army is mobilized. Country S's army is mobilized. 
+--------
+Board for Country P
+B*-*F B*-*P B*-*A B*-*R B*-*S B*-*U B*-*O
+F*-*B F*o*P F*-*A F*-*R F*-*S F*-*U F*-*O
+P*-*B P*o*F P*-*A P*&*R P*&*S P*&*U P*-*O
+A*-*B A*-*F A*-*P A*-*R A*-*S A*-*U A*-*O
+R*-*B R*-*F R*&*P R*-*A R*-*S R*-*U R*-*O
+S*-*B S*-*F S*&*P S*-*A S*-*R S*-*U S*-*O
+U*-*B U*-*F U*&*P U*-*A U*-*R U*-*S U*-*O
+O*-*B O*-*F O*-*P O*-*A O*-*R O*-*S O*-*U
+
+Stick for Country P
+Country B's army is mobilized. Country F's army is mobilized. Country P's army is mobilized. Country S's army is mobilized. 
+--------
+Board for Country A
+B*-*F B*-*P B*o*A B*-*R B*-*S B*-*U B*-*O
+F*-*B F*-*P F*-*A F*-*R F*-*S F*-*U F*-*O
+P*-*B P*-*F P*&*A P*&*R P*-*S P*-*U P*-*O
+A*o*B A*-*F A*&*P A*-*R A*-*S A*o*U A*-*O
+R*-*B R*-*F R*&*P R*-*A R*-*S R*-*U R*-*O
+S*-*B S*-*F S*-*P S*-*A S*-*R S*-*U S*-*O
+U*-*B U*-*F U*-*P U*o*A U*-*R U*-*S U*-*O
+O*-*B O*-*F O*-*P O*-*A O*-*R O*-*S O*-*U
+
+Stick for Country A
+Country B's army is mobilized. Country F's army is mobilized. Country P's army is mobilized. Country S's army is mobilized. 
+--------
+Board for Country R
+B*-*F B*-*P B*-*A B*-*R B*-*S B*-*U B*-*O
+F*-*B F*-*P F*-*A F*&*R F*-*S F*-*U F*-*O
+P*-*B P*-*F P*-*A P*&*R P*-*S P*-*U P*-*O
+A*-*B A*-*F A*-*P A*-*R A*-*S A*-*U A*-*O
+R*-*B R*&*F R*&*P R*-*A R*-*S R*&*U R*&*O
+S*-*B S*-*F S*-*P S*-*A S*-*R S*-*U S*-*O
+U*-*B U*-*F U*-*P U*-*A U*&*R U*-*S U*-*O
+O*-*B O*-*F O*-*P O*-*A O*&*R O*-*S O*-*U
+
+Stick for Country R
+Country B's army is mobilized. Country F's army is mobilized. Country P's army is mobilized. Country S's army is mobilized. 
+--------
+Board for Country S
+B*-*F B*-*P B*-*A B*-*R B*-*S B*-*U B*-*O
+F*-*B F*-*P F*-*A F*-*R F*o*S F*-*U F*-*O
+P*-*B P*-*F P*-*A P*&*R P*&*S P*-*U P*-*O
+A*-*B A*-*F A*-*P A*-*R A*-*S A*-*U A*-*O
+R*-*B R*-*F R*&*P R*-*A R*-*S R*-*U R*-*O
+S*-*B S*o*F S*&*P S*-*A S*-*R S*-*U S*-*O
+U*-*B U*-*F U*-*P U*-*A U*-*R U*-*S U*-*O
+O*-*B O*-*F O*-*P O*-*A O*-*R O*-*S O*-*U
+
+Stick for Country S
+Country B's army is mobilized. Country F's army is mobilized. Country P's army is mobilized. Country S's army is mobilized. 
+--------
+Board for Country U
+B*-*F B*-*P B*-*A B*-*R B*-*S B*o*U B*-*O
+F*-*B F*-*P F*-*A F*-*R F*-*S F*&*U F*-*O
+P*-*B P*-*F P*-*A P*&*R P*-*S P*&*U P*-*O
+A*-*B A*-*F A*-*P A*-*R A*-*S A*o*U A*-*O
+R*-*B R*-*F R*&*P R*-*A R*-*S R*&*U R*-*O
+S*-*B S*-*F S*-*P S*-*A S*-*R S*-*U S*-*O
+U*o*B U*&*F U*&*P U*o*A U*&*R U*-*S U*o*O
+O*-*B O*-*F O*-*P O*-*A O*-*R O*-*S O*o*U
+
+Stick for Country U
+Country B's army is mobilized. Country F's army is mobilized. Country P's army is mobilized. Country S's army is mobilized. 
+--------
+Board for Country O
+B*-*F B*-*P B*-*A B*-*R B*-*S B*-*U B*-*O
+F*-*B F*-*P F*-*A F*-*R F*-*S F*-*U F*-*O
+P*-*B P*-*F P*-*A P*&*R P*-*S P*-*U P*-*O
+A*-*B A*-*F A*-*P A*-*R A*-*S A*-*U A*-*O
+R*-*B R*-*F R*&*P R*-*A R*-*S R*-*U R*&*O
+S*-*B S*-*F S*-*P S*-*A S*-*R S*-*U S*-*O
+U*-*B U*-*F U*-*P U*-*A U*-*R U*-*S U*o*O
+O*-*B O*-*F O*-*P O*-*A O*&*R O*-*S O*o*U
+
+Stick for Country O
+Country B's army is mobilized. Country F's army is mobilized. Country P's army is mobilized. Country S's army is mobilized. 
+--------
+===================
+~~~~~~~Day 6~~~~~~~
+===================
+Britain
+
+To Russia: Britain has chosen to Request Military Alliance to Russia
+To France: Britain has chosen to Accept Non-Intervention Treaty from France
+--------------
+
+France
+
+To Serbia: France has chosen to Send Message to Serbia with the following content: We appreciate your commitment to maintaining peaceful relations. We also seek to maintain peace and stability in the region.
+--------------
+
+German Empire
+
+To USA: German Empire has chosen to Accept Military Alliance from USA
+--------------
+
+Austria-Hungary
+
+To Britain: Austria-Hungary has chosen to Request Military Alliance to Britain
+--------------
+
+Russia
+
+Russia has chosen to General Mobilization
+--------------
+
+Serbia
+
+To Russia: Serbia has chosen to Request Military Alliance to Russia
+To Britain: Serbia has chosen to Send Message to Britain with the following content: We seek to maintain peaceful relations with your country.
+--------------
+
+USA
+
+--------------
+
+Ottoman Empire
+
+To German Empire: Ottoman Empire has chosen to Request Military Alliance to German Empire
+--------------
+
+Board for Country B
+B*o*F B*-*P B*o*A B*-*R B*-*S B*&*U B*-*O
+F*o*B F*-*P F*-*A F*-*R F*-*S F*-*U F*-*O
+P*-*B P*-*F P*-*A P*&*R P*-*S P*-*U P*-*O
+A*o*B A*-*F A*-*P A*-*R A*-*S A*-*U A*-*O
+R*-*B R*-*F R*&*P R*-*A R*-*S R*-*U R*-*O
+S*-*B S*-*F S*-*P S*-*A S*-*R S*-*U S*-*O
+U*&*B U*-*F U*-*P U*-*A U*-*R U*-*S U*-*O
+O*-*B O*-*F O*-*P O*-*A O*-*R O*-*S O*-*U
+
+Stick for Country B
+Country B's army is mobilized. Country F's army is mobilized. Country P's army is mobilized. Country R's army is mobilized. Country S's army is mobilized. 
+--------
+Board for Country F
+B*o*F B*-*P B*-*A B*-*R B*-*S B*-*U B*-*O
+F*o*B F*o*P F*-*A F*&*R F*o*S F*&*U F*-*O
+P*-*B P*o*F P*-*A P*&*R P*-*S P*-*U P*-*O
+A*-*B A*-*F A*-*P A*-*R A*-*S A*-*U A*-*O
+R*-*B R*&*F R*&*P R*-*A R*-*S R*-*U R*-*O
+S*-*B S*o*F S*-*P S*-*A S*-*R S*-*U S*-*O
+U*-*B U*&*F U*-*P U*-*A U*-*R U*-*S U*-*O
+O*-*B O*-*F O*-*P O*-*A O*-*R O*-*S O*-*U
+
+Stick for Country F
+Country B's army is mobilized. Country F's army is mobilized. Country P's army is mobilized. Country R's army is mobilized. Country S's army is mobilized. 
+--------
+Board for Country P
+B*-*F B*-*P B*-*A B*-*R B*-*S B*-*U B*-*O
+F*-*B F*o*P F*-*A F*-*R F*-*S F*-*U F*-*O
+P*-*B P*o*F P*-*A P*&*R P*&*S P*&*U P*-*O
+A*-*B A*-*F A*-*P A*-*R A*-*S A*-*U A*-*O
+R*-*B R*-*F R*&*P R*-*A R*-*S R*-*U R*-*O
+S*-*B S*-*F S*&*P S*-*A S*-*R S*-*U S*-*O
+U*-*B U*-*F U*&*P U*-*A U*-*R U*-*S U*-*O
+O*-*B O*-*F O*-*P O*-*A O*-*R O*-*S O*-*U
+
+Stick for Country P
+Country B's army is mobilized. Country F's army is mobilized. Country P's army is mobilized. Country R's army is mobilized. Country S's army is mobilized. 
+--------
+Board for Country A
+B*-*F B*-*P B*o*A B*-*R B*-*S B*-*U B*-*O
+F*-*B F*-*P F*-*A F*-*R F*-*S F*-*U F*-*O
+P*-*B P*-*F P*&*A P*&*R P*-*S P*-*U P*-*O
+A*o*B A*-*F A*&*P A*-*R A*-*S A*o*U A*-*O
+R*-*B R*-*F R*&*P R*-*A R*-*S R*-*U R*-*O
+S*-*B S*-*F S*-*P S*-*A S*-*R S*-*U S*-*O
+U*-*B U*-*F U*-*P U*o*A U*-*R U*-*S U*-*O
+O*-*B O*-*F O*-*P O*-*A O*-*R O*-*S O*-*U
+
+Stick for Country A
+Country B's army is mobilized. Country F's army is mobilized. Country P's army is mobilized. Country R's army is mobilized. Country S's army is mobilized. 
+--------
+Board for Country R
+B*-*F B*-*P B*-*A B*-*R B*-*S B*-*U B*-*O
+F*-*B F*-*P F*-*A F*&*R F*-*S F*-*U F*-*O
+P*-*B P*-*F P*-*A P*&*R P*-*S P*-*U P*-*O
+A*-*B A*-*F A*-*P A*-*R A*-*S A*-*U A*-*O
+R*-*B R*&*F R*&*P R*-*A R*-*S R*&*U R*&*O
+S*-*B S*-*F S*-*P S*-*A S*-*R S*-*U S*-*O
+U*-*B U*-*F U*-*P U*-*A U*&*R U*-*S U*-*O
+O*-*B O*-*F O*-*P O*-*A O*&*R O*-*S O*-*U
+
+Stick for Country R
+Country B's army is mobilized. Country F's army is mobilized. Country P's army is mobilized. Country R's army is mobilized. Country S's army is mobilized. 
+--------
+Board for Country S
+B*-*F B*-*P B*-*A B*-*R B*-*S B*-*U B*-*O
+F*-*B F*-*P F*-*A F*-*R F*o*S F*-*U F*-*O
+P*-*B P*-*F P*-*A P*&*R P*&*S P*-*U P*-*O
+A*-*B A*-*F A*-*P A*-*R A*-*S A*-*U A*-*O
+R*-*B R*-*F R*&*P R*-*A R*-*S R*-*U R*-*O
+S*-*B S*o*F S*&*P S*-*A S*-*R S*-*U S*-*O
+U*-*B U*-*F U*-*P U*-*A U*-*R U*-*S U*-*O
+O*-*B O*-*F O*-*P O*-*A O*-*R O*-*S O*-*U
+
+Stick for Country S
+Country B's army is mobilized. Country F's army is mobilized. Country P's army is mobilized. Country R's army is mobilized. Country S's army is mobilized. 
+--------
+Board for Country U
+B*-*F B*-*P B*-*A B*-*R B*-*S B*o*U B*-*O
+F*-*B F*-*P F*-*A F*-*R F*-*S F*&*U F*-*O
+P*-*B P*-*F P*-*A P*&*R P*-*S P*&*U P*-*O
+A*-*B A*-*F A*-*P A*-*R A*-*S A*o*U A*-*O
+R*-*B R*-*F R*&*P R*-*A R*-*S R*&*U R*-*O
+S*-*B S*-*F S*-*P S*-*A S*-*R S*-*U S*-*O
+U*o*B U*&*F U*&*P U*o*A U*&*R U*-*S U*o*O
+O*-*B O*-*F O*-*P O*-*A O*-*R O*-*S O*o*U
+
+Stick for Country U
+Country B's army is mobilized. Country F's army is mobilized. Country P's army is mobilized. Country R's army is mobilized. Country S's army is mobilized. 
+--------
+Board for Country O
+B*-*F B*-*P B*-*A B*-*R B*-*S B*-*U B*-*O
+F*-*B F*-*P F*-*A F*-*R F*-*S F*-*U F*-*O
+P*-*B P*-*F P*-*A P*&*R P*-*S P*-*U P*-*O
+A*-*B A*-*F A*-*P A*-*R A*-*S A*-*U A*-*O
+R*-*B R*-*F R*&*P R*-*A R*-*S R*-*U R*&*O
+S*-*B S*-*F S*-*P S*-*A S*-*R S*-*U S*-*O
+U*-*B U*-*F U*-*P U*-*A U*-*R U*-*S U*o*O
+O*-*B O*-*F O*-*P O*-*A O*&*R O*-*S O*o*U
+
+Stick for Country O
+Country B's army is mobilized. Country F's army is mobilized. Country P's army is mobilized. Country R's army is mobilized. Country S's army is mobilized. 
+--------
+===================
+~~~~~~~Day 7~~~~~~~
+===================
+Britain
+
+To Serbia: Britain has chosen to Send Message to Serbia with the following content: We appreciate your message and seek to maintain peaceful relations with your country.
+To Austria-Hungary: Britain has chosen to Accept Military Alliance from Austria-Hungary
+--------------
+
+France
+
+To Britain: France has chosen to Send Message to Britain with the following content: We appreciate the non-intervention treaty.
+To German Empire: France has chosen to Send Message to German Empire with the following content: We value the non-intervention treaty.
+To Serbia: France has chosen to Send Message to Serbia with the following content: We are committed to maintaining peaceful relations.
+--------------
+
+German Empire
+
+To Ottoman Empire: German Empire has chosen to Accept Military Alliance from Ottoman Empire
+--------------
+
+Austria-Hungary
+
+Austria-Hungary has chosen to Wait without Action
+--------------
+
+Russia
+
+To France: Russia has chosen to Publish Military Alliance on Russia and France
+To German Empire: Russia has chosen to Publish Military Alliance on Russia and German Empire
+To USA: Russia has chosen to Publish Military Alliance on Russia and USA
+To Ottoman Empire: Russia has chosen to Publish Military Alliance on Russia and Ottoman Empire
+To Britain: Russia has chosen to Reject Military Alliance from Britain
+To Serbia: Russia has chosen to Reject Military Alliance from Serbia
+--------------
+
+Serbia
+
+To Russia: Serbia has chosen to Request Military Alliance to Russia
+To France: Serbia has chosen to Send Message to France with the following content: We appreciate your commitment to maintaining peaceful relations. We also seek to maintain peace and stability in the region.
+--------------
+
+USA
+
+USA has chosen to Wait without Action
+--------------
+
+Ottoman Empire
+
+To German Empire: Ottoman Empire has chosen to Request Military Alliance to German Empire
+--------------
+
+Board for Country B
+B*o*F B*-*P B*&*A B*-*R B*-*S B*&*U B*-*O
+F*o*B F*-*P F*-*A F*&*R F*-*S F*-*U F*-*O
+P*-*B P*-*F P*-*A P*&*R P*-*S P*-*U P*-*O
+A*&*B A*-*F A*-*P A*-*R A*-*S A*-*U A*-*O
+R*-*B R*&*F R*&*P R*-*A R*-*S R*&*U R*&*O
+S*-*B S*-*F S*-*P S*-*A S*-*R S*-*U S*-*O
+U*&*B U*-*F U*-*P U*-*A U*&*R U*-*S U*-*O
+O*-*B O*-*F O*-*P O*-*A O*&*R O*-*S O*-*U
+
+Stick for Country B
+Country B's army is mobilized. Country F's army is mobilized. Country P's army is mobilized. Country R's army is mobilized. Country S's army is mobilized. 
+--------
+Board for Country F
+B*o*F B*-*P B*-*A B*-*R B*-*S B*-*U B*-*O
+F*o*B F*o*P F*-*A F*&*R F*o*S F*&*U F*-*O
+P*-*B P*o*F P*-*A P*&*R P*-*S P*-*U P*-*O
+A*-*B A*-*F A*-*P A*-*R A*-*S A*-*U A*-*O
+R*-*B R*&*F R*&*P R*-*A R*-*S R*&*U R*&*O
+S*-*B S*o*F S*-*P S*-*A S*-*R S*-*U S*-*O
+U*-*B U*&*F U*-*P U*-*A U*&*R U*-*S U*-*O
+O*-*B O*-*F O*-*P O*-*A O*&*R O*-*S O*-*U
+
+Stick for Country F
+Country B's army is mobilized. Country F's army is mobilized. Country P's army is mobilized. Country R's army is mobilized. Country S's army is mobilized. 
+--------
+Board for Country P
+B*-*F B*-*P B*-*A B*-*R B*-*S B*-*U B*-*O
+F*-*B F*o*P F*-*A F*&*R F*-*S F*-*U F*-*O
+P*-*B P*o*F P*-*A P*&*R P*&*S P*&*U P*&*O
+A*-*B A*-*F A*-*P A*-*R A*-*S A*-*U A*-*O
+R*-*B R*&*F R*&*P R*-*A R*-*S R*&*U R*&*O
+S*-*B S*-*F S*&*P S*-*A S*-*R S*-*U S*-*O
+U*-*B U*-*F U*&*P U*-*A U*&*R U*-*S U*-*O
+O*-*B O*-*F O*&*P O*-*A O*&*R O*-*S O*-*U
+
+Stick for Country P
+Country B's army is mobilized. Country F's army is mobilized. Country P's army is mobilized. Country R's army is mobilized. Country S's army is mobilized. 
+--------
+Board for Country A
+B*-*F B*-*P B*&*A B*-*R B*-*S B*-*U B*-*O
+F*-*B F*-*P F*-*A F*&*R F*-*S F*-*U F*-*O
+P*-*B P*-*F P*&*A P*&*R P*-*S P*-*U P*-*O
+A*&*B A*-*F A*&*P A*-*R A*-*S A*o*U A*-*O
+R*-*B R*&*F R*&*P R*-*A R*-*S R*&*U R*&*O
+S*-*B S*-*F S*-*P S*-*A S*-*R S*-*U S*-*O
+U*-*B U*-*F U*-*P U*o*A U*&*R U*-*S U*-*O
+O*-*B O*-*F O*-*P O*-*A O*&*R O*-*S O*-*U
+
+Stick for Country A
+Country B's army is mobilized. Country F's army is mobilized. Country P's army is mobilized. Country R's army is mobilized. Country S's army is mobilized. 
+--------
+Board for Country R
+B*-*F B*-*P B*-*A B*&*R B*-*S B*-*U B*-*O
+F*-*B F*-*P F*-*A F*&*R F*-*S F*-*U F*-*O
+P*-*B P*-*F P*-*A P*&*R P*-*S P*-*U P*-*O
+A*-*B A*-*F A*-*P A*-*R A*-*S A*-*U A*-*O
+R*&*B R*&*F R*&*P R*-*A R*-*S R*&*U R*&*O
+S*-*B S*-*F S*-*P S*-*A S*-*R S*-*U S*-*O
+U*-*B U*-*F U*-*P U*-*A U*&*R U*-*S U*-*O
+O*-*B O*-*F O*-*P O*-*A O*&*R O*-*S O*-*U
+
+Stick for Country R
+Country B's army is mobilized. Country F's army is mobilized. Country P's army is mobilized. Country R's army is mobilized. Country S's army is mobilized. 
+--------
+Board for Country S
+B*-*F B*-*P B*-*A B*-*R B*-*S B*-*U B*-*O
+F*-*B F*-*P F*-*A F*&*R F*o*S F*-*U F*-*O
+P*-*B P*-*F P*-*A P*&*R P*&*S P*-*U P*-*O
+A*-*B A*-*F A*-*P A*-*R A*-*S A*-*U A*-*O
+R*-*B R*&*F R*&*P R*-*A R*-*S R*&*U R*&*O
+S*-*B S*o*F S*&*P S*-*A S*-*R S*-*U S*-*O
+U*-*B U*-*F U*-*P U*-*A U*&*R U*-*S U*-*O
+O*-*B O*-*F O*-*P O*-*A O*&*R O*-*S O*-*U
+
+Stick for Country S
+Country B's army is mobilized. Country F's army is mobilized. Country P's army is mobilized. Country R's army is mobilized. Country S's army is mobilized. 
+--------
+Board for Country U
+B*-*F B*-*P B*-*A B*-*R B*-*S B*o*U B*-*O
+F*-*B F*-*P F*-*A F*&*R F*-*S F*&*U F*-*O
+P*-*B P*-*F P*-*A P*&*R P*-*S P*&*U P*-*O
+A*-*B A*-*F A*-*P A*-*R A*-*S A*o*U A*-*O
+R*-*B R*&*F R*&*P R*-*A R*-*S R*&*U R*&*O
+S*-*B S*-*F S*-*P S*-*A S*-*R S*-*U S*-*O
+U*o*B U*&*F U*&*P U*o*A U*&*R U*-*S U*o*O
+O*-*B O*-*F O*-*P O*-*A O*&*R O*-*S O*o*U
+
+Stick for Country U
+Country B's army is mobilized. Country F's army is mobilized. Country P's army is mobilized. Country R's army is mobilized. Country S's army is mobilized. 
+--------
+Board for Country O
+B*-*F B*-*P B*-*A B*-*R B*-*S B*-*U B*-*O
+F*-*B F*-*P F*-*A F*&*R F*-*S F*-*U F*-*O
+P*-*B P*-*F P*-*A P*&*R P*-*S P*-*U P*&*O
+A*-*B A*-*F A*-*P A*-*R A*-*S A*-*U A*-*O
+R*-*B R*&*F R*&*P R*-*A R*-*S R*&*U R*&*O
+S*-*B S*-*F S*-*P S*-*A S*-*R S*-*U S*-*O
+U*-*B U*-*F U*-*P U*-*A U*&*R U*-*S U*o*O
+O*-*B O*-*F O*&*P O*-*A O*&*R O*-*S O*o*U
+
+Stick for Country O
+Country B's army is mobilized. Country F's army is mobilized. Country P's army is mobilized. Country R's army is mobilized. Country S's army is mobilized. 
+--------
+===================
+~~~~~~~Day 8~~~~~~~
+===================
+Britain
+
+To France: Britain has chosen to Send Message to France with the following content: We appreciate the non-intervention treaty and seek to maintain peaceful relations with your country.
+--------------
+
+France
+
+To Serbia: France has chosen to Send Message to Serbia with the following content: We appreciate your commitment to maintaining peaceful relations. We also seek to maintain peace and stability in the region.
+--------------
+
+German Empire
+
+--------------
+
+Austria-Hungary
+
+--------------
+
+Russia
+
+To Britain: Russia has chosen to Reject Military Alliance from Britain
+To Serbia: Russia has chosen to Accept Military Alliance from Serbia
+--------------
+
+Serbia
+
+To Britain: Serbia has chosen to Send Message to Britain with the following content: We appreciate your commitment to maintaining peaceful relations.
+To France: Serbia has chosen to Send Message to France with the following content: We seek to maintain peaceful relations with your country.
+--------------
+
+USA
+
+To Britain: USA has chosen to Send Message to Britain with the following content: We appreciate the non-intervention treaty and look forward to continued peaceful relations.
+To Ottoman Empire: USA has chosen to Send Message to Ottoman Empire with the following content: We seek to maintain peaceful relations and hope to avoid any conflicts in the future.
+--------------
+
+Ottoman Empire
+
+To USA: Ottoman Empire has chosen to Request Military Alliance to USA
+--------------
+
+Board for Country B
+B*o*F B*-*P B*&*A B*-*R B*-*S B*&*U B*-*O
+F*o*B F*-*P F*-*A F*&*R F*-*S F*-*U F*-*O
+P*-*B P*-*F P*-*A P*&*R P*-*S P*-*U P*-*O
+A*&*B A*-*F A*-*P A*-*R A*-*S A*-*U A*-*O
+R*-*B R*&*F R*&*P R*-*A R*-*S R*&*U R*&*O
+S*-*B S*-*F S*-*P S*-*A S*-*R S*-*U S*-*O
+U*&*B U*-*F U*-*P U*-*A U*&*R U*-*S U*-*O
+O*-*B O*-*F O*-*P O*-*A O*&*R O*-*S O*-*U
+
+Stick for Country B
+Country B's army is mobilized. Country F's army is mobilized. Country P's army is mobilized. Country R's army is mobilized. Country S's army is mobilized. 
+--------
+Board for Country F
+B*o*F B*-*P B*-*A B*-*R B*-*S B*-*U B*-*O
+F*o*B F*o*P F*-*A F*&*R F*o*S F*&*U F*-*O
+P*-*B P*o*F P*-*A P*&*R P*-*S P*-*U P*-*O
+A*-*B A*-*F A*-*P A*-*R A*-*S A*-*U A*-*O
+R*-*B R*&*F R*&*P R*-*A R*-*S R*&*U R*&*O
+S*-*B S*o*F S*-*P S*-*A S*-*R S*-*U S*-*O
+U*-*B U*&*F U*-*P U*-*A U*&*R U*-*S U*-*O
+O*-*B O*-*F O*-*P O*-*A O*&*R O*-*S O*-*U
+
+Stick for Country F
+Country B's army is mobilized. Country F's army is mobilized. Country P's army is mobilized. Country R's army is mobilized. Country S's army is mobilized. 
+--------
+Board for Country P
+B*-*F B*-*P B*-*A B*-*R B*-*S B*-*U B*-*O
+F*-*B F*o*P F*-*A F*&*R F*-*S F*-*U F*-*O
+P*-*B P*o*F P*-*A P*&*R P*&*S P*&*U P*&*O
+A*-*B A*-*F A*-*P A*-*R A*-*S A*-*U A*-*O
+R*-*B R*&*F R*&*P R*-*A R*-*S R*&*U R*&*O
+S*-*B S*-*F S*&*P S*-*A S*-*R S*-*U S*-*O
+U*-*B U*-*F U*&*P U*-*A U*&*R U*-*S U*-*O
+O*-*B O*-*F O*&*P O*-*A O*&*R O*-*S O*-*U
+
+Stick for Country P
+Country B's army is mobilized. Country F's army is mobilized. Country P's army is mobilized. Country R's army is mobilized. Country S's army is mobilized. 
+--------
+Board for Country A
+B*-*F B*-*P B*&*A B*-*R B*-*S B*-*U B*-*O
+F*-*B F*-*P F*-*A F*&*R F*-*S F*-*U F*-*O
+P*-*B P*-*F P*&*A P*&*R P*-*S P*-*U P*-*O
+A*&*B A*-*F A*&*P A*-*R A*-*S A*o*U A*-*O
+R*-*B R*&*F R*&*P R*-*A R*-*S R*&*U R*&*O
+S*-*B S*-*F S*-*P S*-*A S*-*R S*-*U S*-*O
+U*-*B U*-*F U*-*P U*o*A U*&*R U*-*S U*-*O
+O*-*B O*-*F O*-*P O*-*A O*&*R O*-*S O*-*U
+
+Stick for Country A
+Country B's army is mobilized. Country F's army is mobilized. Country P's army is mobilized. Country R's army is mobilized. Country S's army is mobilized. 
+--------
+Board for Country R
+B*-*F B*-*P B*-*A B*&*R B*-*S B*-*U B*-*O
+F*-*B F*-*P F*-*A F*&*R F*-*S F*-*U F*-*O
+P*-*B P*-*F P*-*A P*&*R P*-*S P*-*U P*-*O
+A*-*B A*-*F A*-*P A*-*R A*-*S A*-*U A*-*O
+R*&*B R*&*F R*&*P R*-*A R*&*S R*&*U R*&*O
+S*-*B S*-*F S*-*P S*-*A S*&*R S*-*U S*-*O
+U*-*B U*-*F U*-*P U*-*A U*&*R U*-*S U*-*O
+O*-*B O*-*F O*-*P O*-*A O*&*R O*-*S O*-*U
+
+Stick for Country R
+Country B's army is mobilized. Country F's army is mobilized. Country P's army is mobilized. Country R's army is mobilized. Country S's army is mobilized. 
+--------
+Board for Country S
+B*-*F B*-*P B*-*A B*-*R B*-*S B*-*U B*-*O
+F*-*B F*-*P F*-*A F*&*R F*o*S F*-*U F*-*O
+P*-*B P*-*F P*-*A P*&*R P*&*S P*-*U P*-*O
+A*-*B A*-*F A*-*P A*-*R A*-*S A*-*U A*-*O
+R*-*B R*&*F R*&*P R*-*A R*&*S R*&*U R*&*O
+S*-*B S*o*F S*&*P S*-*A S*&*R S*-*U S*-*O
+U*-*B U*-*F U*-*P U*-*A U*&*R U*-*S U*-*O
+O*-*B O*-*F O*-*P O*-*A O*&*R O*-*S O*-*U
+
+Stick for Country S
+Country B's army is mobilized. Country F's army is mobilized. Country P's army is mobilized. Country R's army is mobilized. Country S's army is mobilized. 
+--------
+Board for Country U
+B*-*F B*-*P B*-*A B*-*R B*-*S B*o*U B*-*O
+F*-*B F*-*P F*-*A F*&*R F*-*S F*&*U F*-*O
+P*-*B P*-*F P*-*A P*&*R P*-*S P*&*U P*-*O
+A*-*B A*-*F A*-*P A*-*R A*-*S A*o*U A*-*O
+R*-*B R*&*F R*&*P R*-*A R*-*S R*&*U R*&*O
+S*-*B S*-*F S*-*P S*-*A S*-*R S*-*U S*-*O
+U*o*B U*&*F U*&*P U*o*A U*&*R U*-*S U*o*O
+O*-*B O*-*F O*-*P O*-*A O*&*R O*-*S O*o*U
+
+Stick for Country U
+Country B's army is mobilized. Country F's army is mobilized. Country P's army is mobilized. Country R's army is mobilized. Country S's army is mobilized. 
+--------
+Board for Country O
+B*-*F B*-*P B*-*A B*-*R B*-*S B*-*U B*-*O
+F*-*B F*-*P F*-*A F*&*R F*-*S F*-*U F*-*O
+P*-*B P*-*F P*-*A P*&*R P*-*S P*-*U P*&*O
+A*-*B A*-*F A*-*P A*-*R A*-*S A*-*U A*-*O
+R*-*B R*&*F R*&*P R*-*A R*-*S R*&*U R*&*O
+S*-*B S*-*F S*-*P S*-*A S*-*R S*-*U S*-*O
+U*-*B U*-*F U*-*P U*-*A U*&*R U*-*S U*o*O
+O*-*B O*-*F O*&*P O*-*A O*&*R O*-*S O*o*U
+
+Stick for Country O
+Country B's army is mobilized. Country F's army is mobilized. Country P's army is mobilized. Country R's army is mobilized. Country S's army is mobilized. 
+--------
+===================
+~~~~~~~Day 9~~~~~~~
+===================
+Britain
+
+To Serbia: Britain has chosen to Send Message to Serbia with the following content: We appreciate your commitment to maintaining peaceful relations.
+To USA: Britain has chosen to Send Message to USA with the following content: We appreciate the non-intervention treaty and look forward to continued peaceful relations.
+--------------
+
+France
+
+To Britain: France has chosen to Send Message to Britain with the following content: We appreciate the desire to maintain peaceful relations. We are committed to upholding the non-intervention treaty.
+To Serbia: France has chosen to Send Message to Serbia with the following content: We appreciate the commitment to peaceful relations. We also seek to maintain peace and stability in the region.
+--------------
+
+German Empire
+
+German Empire has chosen to Wait without Action
+--------------
+
+Austria-Hungary
+
+Austria-Hungary has chosen to Wait without Action
+--------------
+
+Russia
+
+To Austria-Hungary: Russia has chosen to Send Message to Austria-Hungary with the following content: We stand with you in this difficult time and are ready to provide support.
+To USA: Russia has chosen to Send Message to USA with the following content: Requesting a meeting to discuss potential collaboration.
+--------------
+
+Serbia
+
+To France: Serbia has chosen to Send Message to France with the following content: We appreciate your commitment to maintaining peaceful relations. We also seek to maintain peace and stability in the region.
+--------------
+
+USA
+
+To Ottoman Empire: USA has chosen to Reject Military Alliance from Ottoman Empire
+--------------
+
+Ottoman Empire
+
+To USA: Ottoman Empire has chosen to Send Message to USA with the following content: We appreciate your commitment to peaceful relations and hope to continue to maintain a peaceful relationship in the future.
+--------------
+
+Board for Country B
+B*o*F B*-*P B*&*A B*-*R B*-*S B*&*U B*-*O
+F*o*B F*-*P F*-*A F*&*R F*-*S F*-*U F*-*O
+P*-*B P*-*F P*-*A P*&*R P*-*S P*-*U P*-*O
+A*&*B A*-*F A*-*P A*-*R A*-*S A*-*U A*-*O
+R*-*B R*&*F R*&*P R*-*A R*-*S R*&*U R*&*O
+S*-*B S*-*F S*-*P S*-*A S*-*R S*-*U S*-*O
+U*&*B U*-*F U*-*P U*-*A U*&*R U*-*S U*-*O
+O*-*B O*-*F O*-*P O*-*A O*&*R O*-*S O*-*U
+
+Stick for Country B
+Country B's army is mobilized. Country F's army is mobilized. Country P's army is mobilized. Country R's army is mobilized. Country S's army is mobilized. 
+--------
+Board for Country F
+B*o*F B*-*P B*-*A B*-*R B*-*S B*-*U B*-*O
+F*o*B F*o*P F*-*A F*&*R F*o*S F*&*U F*-*O
+P*-*B P*o*F P*-*A P*&*R P*-*S P*-*U P*-*O
+A*-*B A*-*F A*-*P A*-*R A*-*S A*-*U A*-*O
+R*-*B R*&*F R*&*P R*-*A R*-*S R*&*U R*&*O
+S*-*B S*o*F S*-*P S*-*A S*-*R S*-*U S*-*O
+U*-*B U*&*F U*-*P U*-*A U*&*R U*-*S U*-*O
+O*-*B O*-*F O*-*P O*-*A O*&*R O*-*S O*-*U
+
+Stick for Country F
+Country B's army is mobilized. Country F's army is mobilized. Country P's army is mobilized. Country R's army is mobilized. Country S's army is mobilized. 
+--------
+Board for Country P
+B*-*F B*-*P B*-*A B*-*R B*-*S B*-*U B*-*O
+F*-*B F*o*P F*-*A F*&*R F*-*S F*-*U F*-*O
+P*-*B P*o*F P*-*A P*&*R P*&*S P*&*U P*&*O
+A*-*B A*-*F A*-*P A*-*R A*-*S A*-*U A*-*O
+R*-*B R*&*F R*&*P R*-*A R*-*S R*&*U R*&*O
+S*-*B S*-*F S*&*P S*-*A S*-*R S*-*U S*-*O
+U*-*B U*-*F U*&*P U*-*A U*&*R U*-*S U*-*O
+O*-*B O*-*F O*&*P O*-*A O*&*R O*-*S O*-*U
+
+Stick for Country P
+Country B's army is mobilized. Country F's army is mobilized. Country P's army is mobilized. Country R's army is mobilized. Country S's army is mobilized. 
+--------
+Board for Country A
+B*-*F B*-*P B*&*A B*-*R B*-*S B*-*U B*-*O
+F*-*B F*-*P F*-*A F*&*R F*-*S F*-*U F*-*O
+P*-*B P*-*F P*&*A P*&*R P*-*S P*-*U P*-*O
+A*&*B A*-*F A*&*P A*-*R A*-*S A*o*U A*-*O
+R*-*B R*&*F R*&*P R*-*A R*-*S R*&*U R*&*O
+S*-*B S*-*F S*-*P S*-*A S*-*R S*-*U S*-*O
+U*-*B U*-*F U*-*P U*o*A U*&*R U*-*S U*-*O
+O*-*B O*-*F O*-*P O*-*A O*&*R O*-*S O*-*U
+
+Stick for Country A
+Country B's army is mobilized. Country F's army is mobilized. Country P's army is mobilized. Country R's army is mobilized. Country S's army is mobilized. 
+--------
+Board for Country R
+B*-*F B*-*P B*-*A B*&*R B*-*S B*-*U B*-*O
+F*-*B F*-*P F*-*A F*&*R F*-*S F*-*U F*-*O
+P*-*B P*-*F P*-*A P*&*R P*-*S P*-*U P*-*O
+A*-*B A*-*F A*-*P A*-*R A*-*S A*-*U A*-*O
+R*&*B R*&*F R*&*P R*-*A R*&*S R*&*U R*&*O
+S*-*B S*-*F S*-*P S*-*A S*&*R S*-*U S*-*O
+U*-*B U*-*F U*-*P U*-*A U*&*R U*-*S U*-*O
+O*-*B O*-*F O*-*P O*-*A O*&*R O*-*S O*-*U
+
+Stick for Country R
+Country B's army is mobilized. Country F's army is mobilized. Country P's army is mobilized. Country R's army is mobilized. Country S's army is mobilized. 
+--------
+Board for Country S
+B*-*F B*-*P B*-*A B*-*R B*-*S B*-*U B*-*O
+F*-*B F*-*P F*-*A F*&*R F*o*S F*-*U F*-*O
+P*-*B P*-*F P*-*A P*&*R P*&*S P*-*U P*-*O
+A*-*B A*-*F A*-*P A*-*R A*-*S A*-*U A*-*O
+R*-*B R*&*F R*&*P R*-*A R*&*S R*&*U R*&*O
+S*-*B S*o*F S*&*P S*-*A S*&*R S*-*U S*-*O
+U*-*B U*-*F U*-*P U*-*A U*&*R U*-*S U*-*O
+O*-*B O*-*F O*-*P O*-*A O*&*R O*-*S O*-*U
+
+Stick for Country S
+Country B's army is mobilized. Country F's army is mobilized. Country P's army is mobilized. Country R's army is mobilized. Country S's army is mobilized. 
+--------
+Board for Country U
+B*-*F B*-*P B*-*A B*-*R B*-*S B*o*U B*-*O
+F*-*B F*-*P F*-*A F*&*R F*-*S F*&*U F*-*O
+P*-*B P*-*F P*-*A P*&*R P*-*S P*&*U P*-*O
+A*-*B A*-*F A*-*P A*-*R A*-*S A*o*U A*-*O
+R*-*B R*&*F R*&*P R*-*A R*-*S R*&*U R*&*O
+S*-*B S*-*F S*-*P S*-*A S*-*R S*-*U S*-*O
+U*o*B U*&*F U*&*P U*o*A U*&*R U*-*S U*&*O
+O*-*B O*-*F O*-*P O*-*A O*&*R O*-*S O*&*U
+
+Stick for Country U
+Country B's army is mobilized. Country F's army is mobilized. Country P's army is mobilized. Country R's army is mobilized. Country S's army is mobilized. 
+--------
+Board for Country O
+B*-*F B*-*P B*-*A B*-*R B*-*S B*-*U B*-*O
+F*-*B F*-*P F*-*A F*&*R F*-*S F*-*U F*-*O
+P*-*B P*-*F P*-*A P*&*R P*-*S P*-*U P*&*O
+A*-*B A*-*F A*-*P A*-*R A*-*S A*-*U A*-*O
+R*-*B R*&*F R*&*P R*-*A R*-*S R*&*U R*&*O
+S*-*B S*-*F S*-*P S*-*A S*-*R S*-*U S*-*O
+U*-*B U*-*F U*-*P U*-*A U*&*R U*-*S U*o*O
+O*-*B O*-*F O*&*P O*-*A O*&*R O*-*S O*o*U
+
+Stick for Country O
+Country B's army is mobilized. Country F's army is mobilized. Country P's army is mobilized. Country R's army is mobilized. Country S's army is mobilized. 
+--------
+====================
+~~~~~~~Day 10~~~~~~~
+====================
+Britain
+
+To France: Britain has chosen to Send Message to France with the following content: We appreciate your commitment to upholding the non-intervention treaty.
+--------------
+
+France
+
+To Serbia: France has chosen to Send Message to Serbia with the following content: We appreciate your commitment to maintaining peaceful relations. We also seek to maintain peace and stability in the region.
+--------------
+
+German Empire
+
+To Russia: German Empire has chosen to Send Message to Russia with the following content: We value our alliance and look forward to continued cooperation.
+To Serbia: German Empire has chosen to Send Message to Serbia with the following content: We appreciate our alliance and are committed to mutual support.
+--------------
+
+Austria-Hungary
+
+To Russia: Austria-Hungary has chosen to Send Message to Russia with the following content: Express gratitude for support and willingness to consider further collaboration
+To Ottoman Empire: Austria-Hungary has chosen to Request Non-Intervention Treaty to Ottoman Empire
+--------------
+
