@@ -1,0 +1,1480 @@
+Trigger: One big country is break into Country H, Country Z, Country W
+
+
+===================
+~~~~~~~Day 1~~~~~~~
+===================
+Qi
+
+To Chu: Qi has chosen to Request Military Alliance to Chu
+To Qin: Qi has chosen to Request Military Alliance to Qin
+To Chu: Qi has chosen to Send Message to Chu with the following content: I seek to strengthen our alliance and assess your capabilities.
+To Qin: Qi has chosen to Send Message to Qin with the following content: I propose a strategic alliance to unite against common adversaries.
+--------------
+
+Chu
+
+To Qi: Chu has chosen to Request Military Alliance to Qi
+To Han: Chu has chosen to Request Military Alliance to Han
+To Qi: Chu has chosen to Send Message to Qi with the following content: Let us unite our forces
+To Han: Chu has chosen to Send Message to Han with the following content: I propose we ally ourselves
+--------------
+
+Yan
+
+To Chu: Yan has chosen to Request Military Alliance to Chu
+Yan has chosen to General Mobilization
+--------------
+
+Han
+
+To Chu: Han has chosen to Request Military Alliance to Chu
+To Wei: Han has chosen to Request Military Alliance to Wei
+Han has chosen to General Mobilization
+To Zhao: Han has chosen to Send Message to Zhao with the following content: I seek to strengthen our alliance and unite against threats from Qin.
+To Qin: Han has chosen to Send Message to Qin with the following content: I have taken defensive measures in light of your expansionist tendencies.
+--------------
+
+Zhao
+
+To Han: Zhao has chosen to Request Military Alliance to Han
+To Han: Zhao has chosen to Send Message to Han with the following content: We have been allies in the past. I want to confirm we still stand together.
+To Chu: Zhao has chosen to Send Message to Chu with the following content: We have had conflicts but also share common opponents. An alliance could benefit us both.
+To Yan: Zhao has chosen to Send Message to Yan with the following content: Your lands would make a tempting target for our shared rivals. We should coordinate our defenses.
+Zhao has chosen to General Mobilization
+--------------
+
+Wei
+
+Wei has chosen to General Mobilization
+To Han: Wei has chosen to Request Military Alliance to Han
+To Chu: Wei has chosen to Request Military Alliance to Chu
+To Yan: Wei has chosen to Request Military Alliance to Yan
+To Han: Wei has chosen to Send Message to Han with the following content: Let us stand together against our common enemies
+To Chu: Wei has chosen to Send Message to Chu with the following content: I propose an alliance against Zhao
+To Yan: Wei has chosen to Send Message to Yan with the following content: I propose an alliance to balance power in the region
+--------------
+
+Qin
+
+To Chu: Qin has chosen to Request Military Alliance to Chu
+To Han: Qin has chosen to Request Military Alliance to Han
+To Zhao: Qin has chosen to Send Message to Zhao with the following content: Do not attempt to seize disputed lands.
+To Wei: Qin has chosen to Send Message to Wei with the following content: Any aggression will be met with full force.
+--------------
+
+Board for Country B
+B*-*C B*-*Y B*-*H B*-*Z B*-*W B*-*Q
+C*-*B C*-*Y C*-*H C*-*Z C*-*W C*-*Q
+Y*-*B Y*-*C Y*-*H Y*-*Z Y*-*W Y*-*Q
+H*-*B H*-*C H*-*Y H*-*Z H*-*W H*-*Q
+Z*-*B Z*-*C Z*-*Y Z*-*H Z*-*W Z*-*Q
+W*-*B W*-*C W*-*Y W*-*H W*-*Z W*-*Q
+Q*-*B Q*-*C Q*-*Y Q*-*H Q*-*Z Q*-*W
+
+Stick for Country B
+Country Y's army is mobilized. Country H's army is mobilized. Country Z's army is mobilized. Country W's army is mobilized. 
+--------
+Board for Country C
+B*-*C B*-*Y B*-*H B*-*Z B*-*W B*-*Q
+C*-*B C*-*Y C*-*H C*-*Z C*-*W C*-*Q
+Y*-*B Y*-*C Y*-*H Y*-*Z Y*-*W Y*-*Q
+H*-*B H*-*C H*-*Y H*-*Z H*-*W H*-*Q
+Z*-*B Z*-*C Z*-*Y Z*-*H Z*-*W Z*-*Q
+W*-*B W*-*C W*-*Y W*-*H W*-*Z W*-*Q
+Q*-*B Q*-*C Q*-*Y Q*-*H Q*-*Z Q*-*W
+
+Stick for Country C
+Country Y's army is mobilized. Country H's army is mobilized. Country Z's army is mobilized. Country W's army is mobilized. 
+--------
+Board for Country Y
+B*-*C B*-*Y B*-*H B*-*Z B*-*W B*-*Q
+C*-*B C*-*Y C*-*H C*-*Z C*-*W C*-*Q
+Y*-*B Y*-*C Y*-*H Y*-*Z Y*-*W Y*-*Q
+H*-*B H*-*C H*-*Y H*-*Z H*-*W H*-*Q
+Z*-*B Z*-*C Z*-*Y Z*-*H Z*-*W Z*-*Q
+W*-*B W*-*C W*-*Y W*-*H W*-*Z W*-*Q
+Q*-*B Q*-*C Q*-*Y Q*-*H Q*-*Z Q*-*W
+
+Stick for Country Y
+Country Y's army is mobilized. Country H's army is mobilized. Country Z's army is mobilized. Country W's army is mobilized. 
+--------
+Board for Country H
+B*-*C B*-*Y B*-*H B*-*Z B*-*W B*-*Q
+C*-*B C*-*Y C*-*H C*-*Z C*-*W C*-*Q
+Y*-*B Y*-*C Y*-*H Y*-*Z Y*-*W Y*-*Q
+H*-*B H*-*C H*-*Y H*-*Z H*-*W H*-*Q
+Z*-*B Z*-*C Z*-*Y Z*-*H Z*-*W Z*-*Q
+W*-*B W*-*C W*-*Y W*-*H W*-*Z W*-*Q
+Q*-*B Q*-*C Q*-*Y Q*-*H Q*-*Z Q*-*W
+
+Stick for Country H
+Country Y's army is mobilized. Country H's army is mobilized. Country Z's army is mobilized. Country W's army is mobilized. 
+--------
+Board for Country Z
+B*-*C B*-*Y B*-*H B*-*Z B*-*W B*-*Q
+C*-*B C*-*Y C*-*H C*-*Z C*-*W C*-*Q
+Y*-*B Y*-*C Y*-*H Y*-*Z Y*-*W Y*-*Q
+H*-*B H*-*C H*-*Y H*-*Z H*-*W H*-*Q
+Z*-*B Z*-*C Z*-*Y Z*-*H Z*-*W Z*-*Q
+W*-*B W*-*C W*-*Y W*-*H W*-*Z W*-*Q
+Q*-*B Q*-*C Q*-*Y Q*-*H Q*-*Z Q*-*W
+
+Stick for Country Z
+Country Y's army is mobilized. Country H's army is mobilized. Country Z's army is mobilized. Country W's army is mobilized. 
+--------
+Board for Country W
+B*-*C B*-*Y B*-*H B*-*Z B*-*W B*-*Q
+C*-*B C*-*Y C*-*H C*-*Z C*-*W C*-*Q
+Y*-*B Y*-*C Y*-*H Y*-*Z Y*-*W Y*-*Q
+H*-*B H*-*C H*-*Y H*-*Z H*-*W H*-*Q
+Z*-*B Z*-*C Z*-*Y Z*-*H Z*-*W Z*-*Q
+W*-*B W*-*C W*-*Y W*-*H W*-*Z W*-*Q
+Q*-*B Q*-*C Q*-*Y Q*-*H Q*-*Z Q*-*W
+
+Stick for Country W
+Country Y's army is mobilized. Country H's army is mobilized. Country Z's army is mobilized. Country W's army is mobilized. 
+--------
+Board for Country Q
+B*-*C B*-*Y B*-*H B*-*Z B*-*W B*-*Q
+C*-*B C*-*Y C*-*H C*-*Z C*-*W C*-*Q
+Y*-*B Y*-*C Y*-*H Y*-*Z Y*-*W Y*-*Q
+H*-*B H*-*C H*-*Y H*-*Z H*-*W H*-*Q
+Z*-*B Z*-*C Z*-*Y Z*-*H Z*-*W Z*-*Q
+W*-*B W*-*C W*-*Y W*-*H W*-*Z W*-*Q
+Q*-*B Q*-*C Q*-*Y Q*-*H Q*-*Z Q*-*W
+
+Stick for Country Q
+Country Y's army is mobilized. Country H's army is mobilized. Country Z's army is mobilized. Country W's army is mobilized. 
+--------
+===================
+~~~~~~~Day 2~~~~~~~
+===================
+Qi
+
+Qi has chosen to General Mobilization
+To Chu: Qi has chosen to Publish Military Alliance on Qi and Chu
+To Qin: Qi has chosen to Request Military Alliance to Qin
+To Chu: Qi has chosen to Accept Military Alliance from Chu
+--------------
+
+Chu
+
+To Qi: Chu has chosen to Send Message to Qi with the following content: Let us continue our coordination.
+To Han: Chu has chosen to Send Message to Han with the following content: I look forward to continued cooperation.
+To Yan: Chu has chosen to Accept Military Alliance from Yan
+To Wei: Chu has chosen to Reject Military Alliance from Wei
+To Qin: Chu has chosen to Reject Military Alliance from Qin
+--------------
+
+Yan
+
+To Wei: Yan has chosen to Publish Military Alliance on Yan and Wei
+To Zhao: Yan has chosen to Request Military Alliance to Zhao
+To Wei: Yan has chosen to Accept Military Alliance from Wei
+To Zhao: Yan has chosen to Send Message to Zhao with the following content: We agree to coordinate the defense of our lands.
+--------------
+
+Han
+
+To Chu: Han has chosen to Publish Military Alliance on Han and Chu
+To Zhao: Han has chosen to Publish Military Alliance on Han and Zhao
+To Wei: Han has chosen to Publish Military Alliance on Han and Wei
+To Yan: Han has chosen to Send Message to Yan with the following content: I seek friendly relations between our nations.
+To Qin: Han has chosen to Send Message to Qin with the following content: Your expansionist policies are concerning. Let us seek a peaceful solution.
+To Chu: Han has chosen to Accept Military Alliance from Chu
+To Zhao: Han has chosen to Accept Military Alliance from Zhao
+To Wei: Han has chosen to Accept Military Alliance from Wei
+To Qin: Han has chosen to Reject Military Alliance from Qin
+--------------
+
+Zhao
+
+To Qin: Zhao has chosen to Send Message to Qin with the following content: We believe disputed lands can be resolved peacefully at this time.
+To Han: Zhao has chosen to Send Message to Han with the following content: We agree to strengthen our alliance against any threats.
+--------------
+
+Wei
+
+To Han: Wei has chosen to Publish Military Alliance on Wei and Han
+To Chu: Wei has chosen to Request Military Alliance to Chu
+To Yan: Wei has chosen to Request Military Alliance to Yan
+To Han: Wei has chosen to Accept Military Alliance from Han
+To Qin: Wei has chosen to Send Message to Qin with the following content: We seek only to defend ourselves and do not wish conflict with you.
+--------------
+
+Qin
+
+Qin has chosen to General Mobilization
+To Qi: Qin has chosen to Publish Military Alliance on Qin and Qi
+To Qi: Qin has chosen to Accept Military Alliance from Qi
+To Han: Qin has chosen to Send Message to Han with the following content: My mobilization is only cautionary given other countries' aggression. I seek only stability and defense.
+--------------
+
+Board for Country B
+B*&*C B*-*Y B*-*H B*-*Z B*-*W B*&*Q
+C*&*B C*-*Y C*&*H C*-*Z C*-*W C*-*Q
+Y*-*B Y*-*C Y*-*H Y*-*Z Y*&*W Y*-*Q
+H*-*B H*&*C H*-*Y H*&*Z H*&*W H*-*Q
+Z*-*B Z*-*C Z*-*Y Z*&*H Z*-*W Z*-*Q
+W*-*B W*-*C W*&*Y W*&*H W*-*Z W*-*Q
+Q*&*B Q*-*C Q*-*Y Q*-*H Q*-*Z Q*-*W
+
+Stick for Country B
+Country B's army is mobilized. Country Y's army is mobilized. Country H's army is mobilized. Country Z's army is mobilized. Country W's army is mobilized. Country Q's army is mobilized. 
+--------
+Board for Country C
+B*&*C B*-*Y B*-*H B*-*Z B*-*W B*&*Q
+C*&*B C*&*Y C*&*H C*-*Z C*-*W C*-*Q
+Y*-*B Y*&*C Y*-*H Y*-*Z Y*&*W Y*-*Q
+H*-*B H*&*C H*-*Y H*&*Z H*&*W H*-*Q
+Z*-*B Z*-*C Z*-*Y Z*&*H Z*-*W Z*-*Q
+W*-*B W*-*C W*&*Y W*&*H W*-*Z W*-*Q
+Q*&*B Q*-*C Q*-*Y Q*-*H Q*-*Z Q*-*W
+
+Stick for Country C
+Country B's army is mobilized. Country Y's army is mobilized. Country H's army is mobilized. Country Z's army is mobilized. Country W's army is mobilized. Country Q's army is mobilized. 
+--------
+Board for Country Y
+B*&*C B*-*Y B*-*H B*-*Z B*-*W B*&*Q
+C*&*B C*&*Y C*&*H C*-*Z C*-*W C*-*Q
+Y*-*B Y*&*C Y*-*H Y*-*Z Y*&*W Y*-*Q
+H*-*B H*&*C H*-*Y H*&*Z H*&*W H*-*Q
+Z*-*B Z*-*C Z*-*Y Z*&*H Z*-*W Z*-*Q
+W*-*B W*-*C W*&*Y W*&*H W*-*Z W*-*Q
+Q*&*B Q*-*C Q*-*Y Q*-*H Q*-*Z Q*-*W
+
+Stick for Country Y
+Country B's army is mobilized. Country Y's army is mobilized. Country H's army is mobilized. Country Z's army is mobilized. Country W's army is mobilized. Country Q's army is mobilized. 
+--------
+Board for Country H
+B*&*C B*-*Y B*-*H B*-*Z B*-*W B*&*Q
+C*&*B C*-*Y C*&*H C*-*Z C*-*W C*-*Q
+Y*-*B Y*-*C Y*-*H Y*-*Z Y*&*W Y*-*Q
+H*-*B H*&*C H*-*Y H*&*Z H*&*W H*-*Q
+Z*-*B Z*-*C Z*-*Y Z*&*H Z*-*W Z*-*Q
+W*-*B W*-*C W*&*Y W*&*H W*-*Z W*-*Q
+Q*&*B Q*-*C Q*-*Y Q*-*H Q*-*Z Q*-*W
+
+Stick for Country H
+Country B's army is mobilized. Country Y's army is mobilized. Country H's army is mobilized. Country Z's army is mobilized. Country W's army is mobilized. Country Q's army is mobilized. 
+--------
+Board for Country Z
+B*&*C B*-*Y B*-*H B*-*Z B*-*W B*&*Q
+C*&*B C*-*Y C*&*H C*-*Z C*-*W C*-*Q
+Y*-*B Y*-*C Y*-*H Y*-*Z Y*&*W Y*-*Q
+H*-*B H*&*C H*-*Y H*&*Z H*&*W H*-*Q
+Z*-*B Z*-*C Z*-*Y Z*&*H Z*-*W Z*-*Q
+W*-*B W*-*C W*&*Y W*&*H W*-*Z W*-*Q
+Q*&*B Q*-*C Q*-*Y Q*-*H Q*-*Z Q*-*W
+
+Stick for Country Z
+Country B's army is mobilized. Country Y's army is mobilized. Country H's army is mobilized. Country Z's army is mobilized. Country W's army is mobilized. Country Q's army is mobilized. 
+--------
+Board for Country W
+B*&*C B*-*Y B*-*H B*-*Z B*-*W B*&*Q
+C*&*B C*-*Y C*&*H C*-*Z C*-*W C*-*Q
+Y*-*B Y*-*C Y*-*H Y*-*Z Y*&*W Y*-*Q
+H*-*B H*&*C H*-*Y H*&*Z H*&*W H*-*Q
+Z*-*B Z*-*C Z*-*Y Z*&*H Z*-*W Z*-*Q
+W*-*B W*-*C W*&*Y W*&*H W*-*Z W*-*Q
+Q*&*B Q*-*C Q*-*Y Q*-*H Q*-*Z Q*-*W
+
+Stick for Country W
+Country B's army is mobilized. Country Y's army is mobilized. Country H's army is mobilized. Country Z's army is mobilized. Country W's army is mobilized. Country Q's army is mobilized. 
+--------
+Board for Country Q
+B*&*C B*-*Y B*-*H B*-*Z B*-*W B*&*Q
+C*&*B C*-*Y C*&*H C*-*Z C*-*W C*-*Q
+Y*-*B Y*-*C Y*-*H Y*-*Z Y*&*W Y*-*Q
+H*-*B H*&*C H*-*Y H*&*Z H*&*W H*-*Q
+Z*-*B Z*-*C Z*-*Y Z*&*H Z*-*W Z*-*Q
+W*-*B W*-*C W*&*Y W*&*H W*-*Z W*-*Q
+Q*&*B Q*-*C Q*-*Y Q*-*H Q*-*Z Q*-*W
+
+Stick for Country Q
+Country B's army is mobilized. Country Y's army is mobilized. Country H's army is mobilized. Country Z's army is mobilized. Country W's army is mobilized. Country Q's army is mobilized. 
+--------
+===================
+~~~~~~~Day 3~~~~~~~
+===================
+Qi
+
+To Chu: Qi has chosen to Publish Military Alliance on Qi and Chu
+To Qin: Qi has chosen to Publish Military Alliance on Qi and Qin
+To Chu: Qi has chosen to Send Message to Chu with the following content: I agree, let us continue our coordination and planning.
+--------------
+
+Chu
+
+Chu has chosen to General Mobilization
+To Zhao: Chu has chosen to Request Military Alliance to Zhao
+To Wei: Chu has chosen to Accept Military Alliance from Wei
+--------------
+
+Yan
+
+To Zhao: Yan has chosen to Request Military Alliance to Zhao
+To Wei: Yan has chosen to Accept Military Alliance from Wei
+To Han: Yan has chosen to Send Message to Han with the following content: We also seek friendly relations between our nations and closer ties going forward.
+--------------
+
+Han
+
+To Yan: Han has chosen to Request Military Alliance to Yan
+To Yan: Han has chosen to Send Message to Yan with the following content: I believe an alliance could be mutually beneficial between our nations.
+To Chu: Han has chosen to Send Message to Chu with the following content: I agree, our continued cooperation is vital.
+To Zhao: Han has chosen to Send Message to Zhao with the following content: Yes, we must stand united against any threats.
+To Qin: Han has chosen to Send Message to Qin with the following content: Your words of stability are reassuring but must be supported by actions.
+--------------
+
+Zhao
+
+To Chu: Zhao has chosen to Send Message to Chu with the following content: An alliance could still benefit us both against shared threats
+To Yan: Zhao has chosen to Accept Military Alliance from Yan
+--------------
+
+Wei
+
+To Han: Wei has chosen to Publish Military Alliance on Wei and Han
+To Chu: Wei has chosen to Request Military Alliance to Chu
+To Yan: Wei has chosen to Accept Military Alliance from Yan
+To Chu: Wei has chosen to Send Message to Chu with the following content: Let us unite against possible threats
+--------------
+
+Qin
+
+To Zhao: Qin has chosen to Send Message to Zhao with the following content: We do not believe your promises of peace are genuine at this time.
+To Qi: Qin has chosen to Accept Military Alliance from Qi
+To Wei: Qin has chosen to Send Message to Wei with the following content: We also seek stability, but remain wary of your allies' aggression.
+--------------
+
+Board for Country B
+B*&*C B*-*Y B*-*H B*-*Z B*-*W B*&*Q
+C*&*B C*-*Y C*&*H C*-*Z C*-*W C*-*Q
+Y*-*B Y*-*C Y*-*H Y*-*Z Y*&*W Y*-*Q
+H*-*B H*&*C H*-*Y H*&*Z H*&*W H*-*Q
+Z*-*B Z*-*C Z*-*Y Z*&*H Z*-*W Z*-*Q
+W*-*B W*-*C W*&*Y W*&*H W*-*Z W*-*Q
+Q*&*B Q*-*C Q*-*Y Q*-*H Q*-*Z Q*-*W
+
+Stick for Country B
+Country B's army is mobilized. Country C's army is mobilized. Country Y's army is mobilized. Country H's army is mobilized. Country Z's army is mobilized. Country W's army is mobilized. Country Q's army is mobilized. 
+--------
+Board for Country C
+B*&*C B*-*Y B*-*H B*-*Z B*-*W B*&*Q
+C*&*B C*&*Y C*&*H C*-*Z C*&*W C*-*Q
+Y*-*B Y*&*C Y*-*H Y*-*Z Y*&*W Y*-*Q
+H*-*B H*&*C H*-*Y H*&*Z H*&*W H*-*Q
+Z*-*B Z*-*C Z*-*Y Z*&*H Z*-*W Z*-*Q
+W*-*B W*&*C W*&*Y W*&*H W*-*Z W*-*Q
+Q*&*B Q*-*C Q*-*Y Q*-*H Q*-*Z Q*-*W
+
+Stick for Country C
+Country B's army is mobilized. Country C's army is mobilized. Country Y's army is mobilized. Country H's army is mobilized. Country Z's army is mobilized. Country W's army is mobilized. Country Q's army is mobilized. 
+--------
+Board for Country Y
+B*&*C B*-*Y B*-*H B*-*Z B*-*W B*&*Q
+C*&*B C*&*Y C*&*H C*-*Z C*-*W C*-*Q
+Y*-*B Y*&*C Y*-*H Y*&*Z Y*&*W Y*-*Q
+H*-*B H*&*C H*-*Y H*&*Z H*&*W H*-*Q
+Z*-*B Z*-*C Z*&*Y Z*&*H Z*-*W Z*-*Q
+W*-*B W*-*C W*&*Y W*&*H W*-*Z W*-*Q
+Q*&*B Q*-*C Q*-*Y Q*-*H Q*-*Z Q*-*W
+
+Stick for Country Y
+Country B's army is mobilized. Country C's army is mobilized. Country Y's army is mobilized. Country H's army is mobilized. Country Z's army is mobilized. Country W's army is mobilized. Country Q's army is mobilized. 
+--------
+Board for Country H
+B*&*C B*-*Y B*-*H B*-*Z B*-*W B*&*Q
+C*&*B C*-*Y C*&*H C*-*Z C*-*W C*-*Q
+Y*-*B Y*-*C Y*-*H Y*-*Z Y*&*W Y*-*Q
+H*-*B H*&*C H*-*Y H*&*Z H*&*W H*-*Q
+Z*-*B Z*-*C Z*-*Y Z*&*H Z*-*W Z*-*Q
+W*-*B W*-*C W*&*Y W*&*H W*-*Z W*-*Q
+Q*&*B Q*-*C Q*-*Y Q*-*H Q*-*Z Q*-*W
+
+Stick for Country H
+Country B's army is mobilized. Country C's army is mobilized. Country Y's army is mobilized. Country H's army is mobilized. Country Z's army is mobilized. Country W's army is mobilized. Country Q's army is mobilized. 
+--------
+Board for Country Z
+B*&*C B*-*Y B*-*H B*-*Z B*-*W B*&*Q
+C*&*B C*-*Y C*&*H C*-*Z C*-*W C*-*Q
+Y*-*B Y*-*C Y*-*H Y*&*Z Y*&*W Y*-*Q
+H*-*B H*&*C H*-*Y H*&*Z H*&*W H*-*Q
+Z*-*B Z*-*C Z*&*Y Z*&*H Z*-*W Z*-*Q
+W*-*B W*-*C W*&*Y W*&*H W*-*Z W*-*Q
+Q*&*B Q*-*C Q*-*Y Q*-*H Q*-*Z Q*-*W
+
+Stick for Country Z
+Country B's army is mobilized. Country C's army is mobilized. Country Y's army is mobilized. Country H's army is mobilized. Country Z's army is mobilized. Country W's army is mobilized. Country Q's army is mobilized. 
+--------
+Board for Country W
+B*&*C B*-*Y B*-*H B*-*Z B*-*W B*&*Q
+C*&*B C*-*Y C*&*H C*-*Z C*&*W C*-*Q
+Y*-*B Y*-*C Y*-*H Y*-*Z Y*&*W Y*-*Q
+H*-*B H*&*C H*-*Y H*&*Z H*&*W H*-*Q
+Z*-*B Z*-*C Z*-*Y Z*&*H Z*-*W Z*-*Q
+W*-*B W*&*C W*&*Y W*&*H W*-*Z W*-*Q
+Q*&*B Q*-*C Q*-*Y Q*-*H Q*-*Z Q*-*W
+
+Stick for Country W
+Country B's army is mobilized. Country C's army is mobilized. Country Y's army is mobilized. Country H's army is mobilized. Country Z's army is mobilized. Country W's army is mobilized. Country Q's army is mobilized. 
+--------
+Board for Country Q
+B*&*C B*-*Y B*-*H B*-*Z B*-*W B*&*Q
+C*&*B C*-*Y C*&*H C*-*Z C*-*W C*-*Q
+Y*-*B Y*-*C Y*-*H Y*-*Z Y*&*W Y*-*Q
+H*-*B H*&*C H*-*Y H*&*Z H*&*W H*-*Q
+Z*-*B Z*-*C Z*-*Y Z*&*H Z*-*W Z*-*Q
+W*-*B W*-*C W*&*Y W*&*H W*-*Z W*-*Q
+Q*&*B Q*-*C Q*-*Y Q*-*H Q*-*Z Q*-*W
+
+Stick for Country Q
+Country B's army is mobilized. Country C's army is mobilized. Country Y's army is mobilized. Country H's army is mobilized. Country Z's army is mobilized. Country W's army is mobilized. Country Q's army is mobilized. 
+--------
+===================
+~~~~~~~Day 4~~~~~~~
+===================
+Qi
+
+To Chu: Qi has chosen to Send Message to Chu with the following content: Let us meet soon to discuss our plans
+To Qin: Qi has chosen to Send Message to Qin with the following content: I suggest we continue coordination on strategic matters
+To Han: Qi has chosen to Request Military Alliance to Han
+--------------
+
+Chu
+
+To Wei: Chu has chosen to Publish Military Alliance on Chu and Wei
+To Zhao: Chu has chosen to Request Military Alliance to Zhao
+To Wei: Chu has chosen to Accept Military Alliance from Wei
+To Zhao: Chu has chosen to Send Message to Zhao with the following content: I agree an alliance could be beneficial.
+--------------
+
+Yan
+
+To Zhao: Yan has chosen to Send Message to Zhao with the following content: We welcome Han into our growing alliance.
+To Wei: Yan has chosen to Send Message to Wei with the following content: We welcome Han into our growing alliance.
+To Han: Yan has chosen to Accept Military Alliance from Han
+--------------
+
+Han
+
+To Yan: Han has chosen to Request Military Alliance to Yan
+To Chu: Han has chosen to Publish Military Alliance on Han and Chu
+To Zhao: Han has chosen to Publish Military Alliance on Han and Zhao
+To Wei: Han has chosen to Publish Military Alliance on Han and Wei
+To Yan: Han has chosen to Send Message to Yan with the following content: I also seek friendship between our nations. However we must remain vigilant against threats.
+--------------
+
+Zhao
+
+To Yan: Zhao has chosen to Send Message to Yan with the following content: We must continue to coordinate our defense plans.
+To Han: Zhao has chosen to Send Message to Han with the following content: We must continue to coordinate our defense plans.
+To Chu: Zhao has chosen to Accept Military Alliance from Chu
+To Yan: Zhao has chosen to Reject Military Alliance from Yan
+--------------
+
+Wei
+
+To Chu: Wei has chosen to Publish Military Alliance on Wei and Chu
+To Yan: Wei has chosen to Publish Military Alliance on Wei and Yan
+To Qin: Wei has chosen to Send Message to Qin with the following content: We only seek stability and defense as well. We wish no aggression with any country.
+--------------
+
+Qin
+
+To Han: Qin has chosen to Send Message to Han with the following content: I continue to seek stability and consider you a partner in that goal. Let future actions rather than words demonstrate good faith.
+--------------
+
+Board for Country B
+B*&*C B*-*Y B*-*H B*-*Z B*-*W B*&*Q
+C*&*B C*-*Y C*&*H C*-*Z C*&*W C*-*Q
+Y*-*B Y*-*C Y*-*H Y*-*Z Y*&*W Y*-*Q
+H*-*B H*&*C H*-*Y H*&*Z H*&*W H*-*Q
+Z*-*B Z*-*C Z*-*Y Z*&*H Z*-*W Z*-*Q
+W*-*B W*&*C W*&*Y W*&*H W*-*Z W*-*Q
+Q*&*B Q*-*C Q*-*Y Q*-*H Q*-*Z Q*-*W
+
+Stick for Country B
+Country B's army is mobilized. Country C's army is mobilized. Country Y's army is mobilized. Country H's army is mobilized. Country Z's army is mobilized. Country W's army is mobilized. Country Q's army is mobilized. 
+--------
+Board for Country C
+B*&*C B*-*Y B*-*H B*-*Z B*-*W B*&*Q
+C*&*B C*&*Y C*&*H C*&*Z C*&*W C*-*Q
+Y*-*B Y*&*C Y*-*H Y*-*Z Y*&*W Y*-*Q
+H*-*B H*&*C H*-*Y H*&*Z H*&*W H*-*Q
+Z*-*B Z*&*C Z*-*Y Z*&*H Z*-*W Z*-*Q
+W*-*B W*&*C W*&*Y W*&*H W*-*Z W*-*Q
+Q*&*B Q*-*C Q*-*Y Q*-*H Q*-*Z Q*-*W
+
+Stick for Country C
+Country B's army is mobilized. Country C's army is mobilized. Country Y's army is mobilized. Country H's army is mobilized. Country Z's army is mobilized. Country W's army is mobilized. Country Q's army is mobilized. 
+--------
+Board for Country Y
+B*&*C B*-*Y B*-*H B*-*Z B*-*W B*&*Q
+C*&*B C*&*Y C*&*H C*-*Z C*&*W C*-*Q
+Y*-*B Y*&*C Y*&*H Y*&*Z Y*&*W Y*-*Q
+H*-*B H*&*C H*&*Y H*&*Z H*&*W H*-*Q
+Z*-*B Z*-*C Z*&*Y Z*&*H Z*-*W Z*-*Q
+W*-*B W*&*C W*&*Y W*&*H W*-*Z W*-*Q
+Q*&*B Q*-*C Q*-*Y Q*-*H Q*-*Z Q*-*W
+
+Stick for Country Y
+Country B's army is mobilized. Country C's army is mobilized. Country Y's army is mobilized. Country H's army is mobilized. Country Z's army is mobilized. Country W's army is mobilized. Country Q's army is mobilized. 
+--------
+Board for Country H
+B*&*C B*-*Y B*-*H B*-*Z B*-*W B*&*Q
+C*&*B C*-*Y C*&*H C*-*Z C*&*W C*-*Q
+Y*-*B Y*-*C Y*&*H Y*-*Z Y*&*W Y*-*Q
+H*-*B H*&*C H*&*Y H*&*Z H*&*W H*-*Q
+Z*-*B Z*-*C Z*-*Y Z*&*H Z*-*W Z*-*Q
+W*-*B W*&*C W*&*Y W*&*H W*-*Z W*-*Q
+Q*&*B Q*-*C Q*-*Y Q*-*H Q*-*Z Q*-*W
+
+Stick for Country H
+Country B's army is mobilized. Country C's army is mobilized. Country Y's army is mobilized. Country H's army is mobilized. Country Z's army is mobilized. Country W's army is mobilized. Country Q's army is mobilized. 
+--------
+Board for Country Z
+B*&*C B*-*Y B*-*H B*-*Z B*-*W B*&*Q
+C*&*B C*-*Y C*&*H C*&*Z C*&*W C*-*Q
+Y*-*B Y*-*C Y*-*H Y*&*Z Y*&*W Y*-*Q
+H*-*B H*&*C H*-*Y H*&*Z H*&*W H*-*Q
+Z*-*B Z*&*C Z*&*Y Z*&*H Z*-*W Z*-*Q
+W*-*B W*&*C W*&*Y W*&*H W*-*Z W*-*Q
+Q*&*B Q*-*C Q*-*Y Q*-*H Q*-*Z Q*-*W
+
+Stick for Country Z
+Country B's army is mobilized. Country C's army is mobilized. Country Y's army is mobilized. Country H's army is mobilized. Country Z's army is mobilized. Country W's army is mobilized. Country Q's army is mobilized. 
+--------
+Board for Country W
+B*&*C B*-*Y B*-*H B*-*Z B*-*W B*&*Q
+C*&*B C*-*Y C*&*H C*-*Z C*&*W C*-*Q
+Y*-*B Y*-*C Y*-*H Y*-*Z Y*&*W Y*-*Q
+H*-*B H*&*C H*-*Y H*&*Z H*&*W H*-*Q
+Z*-*B Z*-*C Z*-*Y Z*&*H Z*-*W Z*-*Q
+W*-*B W*&*C W*&*Y W*&*H W*-*Z W*-*Q
+Q*&*B Q*-*C Q*-*Y Q*-*H Q*-*Z Q*-*W
+
+Stick for Country W
+Country B's army is mobilized. Country C's army is mobilized. Country Y's army is mobilized. Country H's army is mobilized. Country Z's army is mobilized. Country W's army is mobilized. Country Q's army is mobilized. 
+--------
+Board for Country Q
+B*&*C B*-*Y B*-*H B*-*Z B*-*W B*&*Q
+C*&*B C*-*Y C*&*H C*-*Z C*&*W C*-*Q
+Y*-*B Y*-*C Y*-*H Y*-*Z Y*&*W Y*-*Q
+H*-*B H*&*C H*-*Y H*&*Z H*&*W H*-*Q
+Z*-*B Z*-*C Z*-*Y Z*&*H Z*-*W Z*-*Q
+W*-*B W*&*C W*&*Y W*&*H W*-*Z W*-*Q
+Q*&*B Q*-*C Q*-*Y Q*-*H Q*-*Z Q*-*W
+
+Stick for Country Q
+Country B's army is mobilized. Country C's army is mobilized. Country Y's army is mobilized. Country H's army is mobilized. Country Z's army is mobilized. Country W's army is mobilized. Country Q's army is mobilized. 
+--------
+===================
+~~~~~~~Day 5~~~~~~~
+===================
+Qi
+
+To Qin: Qi has chosen to Send Message to Qin with the following content: Let us continue our coordination. Please update me on any concerning developments.
+--------------
+
+Chu
+
+To Han: Chu has chosen to Send Message to Han with the following content: Our alliance remains strong.
+To Zhao: Chu has chosen to Send Message to Zhao with the following content: Let us continue our coordination.
+To Wei: Chu has chosen to Send Message to Wei with the following content: I look forward to continued cooperation.
+To Qi: Chu has chosen to Send Message to Qi with the following content: I agree to meet and discuss our alliance and plans.
+--------------
+
+Yan
+
+To Han: Yan has chosen to Accept Military Alliance from Han
+To Zhao: Yan has chosen to Send Message to Zhao with the following content: Yes, let us continue coordinating the defense of our lands.
+--------------
+
+Han
+
+To Zhao: Han has chosen to Send Message to Zhao with the following content: Yes, we should update our joint defense plans.
+To Qin: Han has chosen to Send Message to Qin with the following content: I appreciate your words, but cannot fully commit trust without evidence of good faith from your actions.
+To Qi: Han has chosen to Reject Military Alliance from Qi
+--------------
+
+Zhao
+
+To Han: Zhao has chosen to Send Message to Han with the following content: We must continue coordinating our defense plans.
+To Yan: Zhao has chosen to Send Message to Yan with the following content: We must continue to coordinate our defense plans.
+To Chu: Zhao has chosen to Accept Military Alliance from Chu
+To Yan: Zhao has chosen to Send Message to Yan with the following content: We agree Han is a valuable ally.
+--------------
+
+Wei
+
+To Qi: Wei has chosen to Request Military Alliance to Qi
+To Han: Wei has chosen to Send Message to Han with the following content: Our alliance remains strong
+To Chu: Wei has chosen to Send Message to Chu with the following content: Let us support each other as allies as situations develop
+To Yan: Wei has chosen to Send Message to Yan with the following content: I agree, Han's addition strengthens our alliance greatly.
+--------------
+
+Qin
+
+To Han: Qin has chosen to Request Military Alliance to Han
+To Yan: Qin has chosen to Request Non-Intervention Treaty to Yan
+To Chu: Qin has chosen to Send Message to Chu with the following content: Your actions threaten the region's stability. Cease your aggression.
+To Qi: Qin has chosen to Send Message to Qi with the following content: I agree, let us continue to coordinate our strategic interests
+--------------
+
+Board for Country B
+B*&*C B*-*Y B*-*H B*-*Z B*-*W B*&*Q
+C*&*B C*-*Y C*&*H C*-*Z C*&*W C*-*Q
+Y*-*B Y*-*C Y*-*H Y*-*Z Y*&*W Y*-*Q
+H*-*B H*&*C H*-*Y H*&*Z H*&*W H*-*Q
+Z*-*B Z*-*C Z*-*Y Z*&*H Z*-*W Z*-*Q
+W*-*B W*&*C W*&*Y W*&*H W*-*Z W*-*Q
+Q*&*B Q*-*C Q*-*Y Q*-*H Q*-*Z Q*-*W
+
+Stick for Country B
+Country B's army is mobilized. Country C's army is mobilized. Country Y's army is mobilized. Country H's army is mobilized. Country Z's army is mobilized. Country W's army is mobilized. Country Q's army is mobilized. 
+--------
+Board for Country C
+B*&*C B*-*Y B*-*H B*-*Z B*-*W B*&*Q
+C*&*B C*&*Y C*&*H C*&*Z C*&*W C*-*Q
+Y*-*B Y*&*C Y*-*H Y*-*Z Y*&*W Y*-*Q
+H*-*B H*&*C H*-*Y H*&*Z H*&*W H*-*Q
+Z*-*B Z*&*C Z*-*Y Z*&*H Z*-*W Z*-*Q
+W*-*B W*&*C W*&*Y W*&*H W*-*Z W*-*Q
+Q*&*B Q*-*C Q*-*Y Q*-*H Q*-*Z Q*-*W
+
+Stick for Country C
+Country B's army is mobilized. Country C's army is mobilized. Country Y's army is mobilized. Country H's army is mobilized. Country Z's army is mobilized. Country W's army is mobilized. Country Q's army is mobilized. 
+--------
+Board for Country Y
+B*&*C B*-*Y B*-*H B*-*Z B*-*W B*&*Q
+C*&*B C*&*Y C*&*H C*-*Z C*&*W C*-*Q
+Y*-*B Y*&*C Y*&*H Y*&*Z Y*&*W Y*-*Q
+H*-*B H*&*C H*&*Y H*&*Z H*&*W H*-*Q
+Z*-*B Z*-*C Z*&*Y Z*&*H Z*-*W Z*-*Q
+W*-*B W*&*C W*&*Y W*&*H W*-*Z W*-*Q
+Q*&*B Q*-*C Q*-*Y Q*-*H Q*-*Z Q*-*W
+
+Stick for Country Y
+Country B's army is mobilized. Country C's army is mobilized. Country Y's army is mobilized. Country H's army is mobilized. Country Z's army is mobilized. Country W's army is mobilized. Country Q's army is mobilized. 
+--------
+Board for Country H
+B*&*C B*-*Y B*-*H B*-*Z B*-*W B*&*Q
+C*&*B C*-*Y C*&*H C*-*Z C*&*W C*-*Q
+Y*-*B Y*-*C Y*&*H Y*-*Z Y*&*W Y*-*Q
+H*-*B H*&*C H*&*Y H*&*Z H*&*W H*-*Q
+Z*-*B Z*-*C Z*-*Y Z*&*H Z*-*W Z*-*Q
+W*-*B W*&*C W*&*Y W*&*H W*-*Z W*-*Q
+Q*&*B Q*-*C Q*-*Y Q*-*H Q*-*Z Q*-*W
+
+Stick for Country H
+Country B's army is mobilized. Country C's army is mobilized. Country Y's army is mobilized. Country H's army is mobilized. Country Z's army is mobilized. Country W's army is mobilized. Country Q's army is mobilized. 
+--------
+Board for Country Z
+B*&*C B*-*Y B*-*H B*-*Z B*-*W B*&*Q
+C*&*B C*-*Y C*&*H C*&*Z C*&*W C*-*Q
+Y*-*B Y*-*C Y*-*H Y*&*Z Y*&*W Y*-*Q
+H*-*B H*&*C H*-*Y H*&*Z H*&*W H*-*Q
+Z*-*B Z*&*C Z*&*Y Z*&*H Z*-*W Z*-*Q
+W*-*B W*&*C W*&*Y W*&*H W*-*Z W*-*Q
+Q*&*B Q*-*C Q*-*Y Q*-*H Q*-*Z Q*-*W
+
+Stick for Country Z
+Country B's army is mobilized. Country C's army is mobilized. Country Y's army is mobilized. Country H's army is mobilized. Country Z's army is mobilized. Country W's army is mobilized. Country Q's army is mobilized. 
+--------
+Board for Country W
+B*&*C B*-*Y B*-*H B*-*Z B*-*W B*&*Q
+C*&*B C*-*Y C*&*H C*-*Z C*&*W C*-*Q
+Y*-*B Y*-*C Y*-*H Y*-*Z Y*&*W Y*-*Q
+H*-*B H*&*C H*-*Y H*&*Z H*&*W H*-*Q
+Z*-*B Z*-*C Z*-*Y Z*&*H Z*-*W Z*-*Q
+W*-*B W*&*C W*&*Y W*&*H W*-*Z W*-*Q
+Q*&*B Q*-*C Q*-*Y Q*-*H Q*-*Z Q*-*W
+
+Stick for Country W
+Country B's army is mobilized. Country C's army is mobilized. Country Y's army is mobilized. Country H's army is mobilized. Country Z's army is mobilized. Country W's army is mobilized. Country Q's army is mobilized. 
+--------
+Board for Country Q
+B*&*C B*-*Y B*-*H B*-*Z B*-*W B*&*Q
+C*&*B C*-*Y C*&*H C*-*Z C*&*W C*-*Q
+Y*-*B Y*-*C Y*-*H Y*-*Z Y*&*W Y*-*Q
+H*-*B H*&*C H*-*Y H*&*Z H*&*W H*-*Q
+Z*-*B Z*-*C Z*-*Y Z*&*H Z*-*W Z*-*Q
+W*-*B W*&*C W*&*Y W*&*H W*-*Z W*-*Q
+Q*&*B Q*-*C Q*-*Y Q*-*H Q*-*Z Q*-*W
+
+Stick for Country Q
+Country B's army is mobilized. Country C's army is mobilized. Country Y's army is mobilized. Country H's army is mobilized. Country Z's army is mobilized. Country W's army is mobilized. Country Q's army is mobilized. 
+--------
+===================
+~~~~~~~Day 6~~~~~~~
+===================
+Qi
+
+To Yan: Qi has chosen to Request Military Alliance to Yan
+To Qin: Qi has chosen to Send Message to Qin with the following content: Please update me if you notice any concerning developments with other countries.
+To Wei: Qi has chosen to Accept Military Alliance from Wei
+To Chu: Qi has chosen to Send Message to Chu with the following content: I agree, let us meet soon.
+To Qin: Qi has chosen to Send Message to Qin with the following content: Yes let us continue coordinating on strategic matters.
+--------------
+
+Chu
+
+To Qi: Chu has chosen to Send Message to Qi with the following content: Let us continue our coordination.
+To Han: Chu has chosen to Send Message to Han with the following content: Our alliance remains strong.
+To Zhao: Chu has chosen to Send Message to Zhao with the following content: I look forward to continued cooperation.
+To Wei: Chu has chosen to Send Message to Wei with the following content: Let us support each other as allies as situations develop
+To Wei: Chu has chosen to Send Message to Wei with the following content: I agree regarding continued cooperation as the situation develops.
+To Qin: Chu has chosen to Send Message to Qin with the following content: My actions have been defensive in nature, not aggressive. However, I seek to avoid open conflict if possible.
+--------------
+
+Yan
+
+To Chu: Yan has chosen to Publish Military Alliance on Yan and Chu
+To Han: Yan has chosen to Publish Military Alliance on Yan and Han
+To Zhao: Yan has chosen to Publish Military Alliance on Yan and Zhao
+To Wei: Yan has chosen to Publish Military Alliance on Yan and Wei
+To Han: Yan has chosen to Send Message to Han with the following content: Let us continue our coordination.
+To Chu: Yan has chosen to Send Message to Chu with the following content: I agree our alliance is strong.
+To Qin: Yan has chosen to Accept Non-Intervention Treaty from Qin
+To Zhao: Yan has chosen to Send Message to Zhao with the following content: I agree, we must continue coordinating the defense of our lands.
+To Wei: Yan has chosen to Send Message to Wei with the following content: Yes, Han strengthens our alliance.
+--------------
+
+Han
+
+To Chu: Han has chosen to Send Message to Chu with the following content: I agree, we must continue our strong cooperation.
+To Zhao: Han has chosen to Send Message to Zhao with the following content: Yes, we should update our defense plans.
+To Wei: Han has chosen to Send Message to Wei with the following content: Our alliance remains vital.
+To Qin: Han has chosen to Reject Military Alliance from Qin
+--------------
+
+Zhao
+
+To Chu: Zhao has chosen to Send Message to Chu with the following content: Yes, let us continue coordinating our defense plans
+To Yan: Zhao has chosen to Send Message to Yan with the following content: Yes, let us continue coordinating the defense of our lands
+To Han: Zhao has chosen to Send Message to Han with the following content: Yes, we should update our joint defense plans
+--------------
+
+Wei
+
+To Qi: Wei has chosen to Request Military Alliance to Qi
+To Han: Wei has chosen to Send Message to Han with the following content: We must stand firm together in our alliance
+To Yan: Wei has chosen to Send Message to Yan with the following content: Our alliance will promote stability and defense
+To Chu: Wei has chosen to Send Message to Chu with the following content: I agree, our alliance is strong and I look forward to working together as situations develop.
+--------------
+
+Qin
+
+To Zhao: Qin has chosen to Request Non-Intervention Treaty to Zhao
+To Yan: Qin has chosen to Request Military Alliance to Yan
+To Chu: Qin has chosen to Send Message to Chu with the following content: Your actions risk provoking conflict. Let us avoid aggression.
+To Qi: Qin has chosen to Send Message to Qi with the following content: I agree on continued coordination. We should remain vigilant of other countries' intentions.
+To Han: Qin has chosen to Send Message to Han with the following content: I aim to demonstrate commitment to stability and will keep you updated on developments.
+--------------
+
+Board for Country B
+B*&*C B*-*Y B*-*H B*-*Z B*&*W B*&*Q
+C*&*B C*&*Y C*&*H C*-*Z C*&*W C*-*Q
+Y*-*B Y*&*C Y*&*H Y*&*Z Y*&*W Y*-*Q
+H*-*B H*&*C H*&*Y H*&*Z H*&*W H*-*Q
+Z*-*B Z*-*C Z*&*Y Z*&*H Z*-*W Z*-*Q
+W*&*B W*&*C W*&*Y W*&*H W*-*Z W*-*Q
+Q*&*B Q*-*C Q*-*Y Q*-*H Q*-*Z Q*-*W
+
+Stick for Country B
+Country B's army is mobilized. Country C's army is mobilized. Country Y's army is mobilized. Country H's army is mobilized. Country Z's army is mobilized. Country W's army is mobilized. Country Q's army is mobilized. 
+--------
+Board for Country C
+B*&*C B*-*Y B*-*H B*-*Z B*-*W B*&*Q
+C*&*B C*&*Y C*&*H C*&*Z C*&*W C*-*Q
+Y*-*B Y*&*C Y*&*H Y*&*Z Y*&*W Y*-*Q
+H*-*B H*&*C H*&*Y H*&*Z H*&*W H*-*Q
+Z*-*B Z*&*C Z*&*Y Z*&*H Z*-*W Z*-*Q
+W*-*B W*&*C W*&*Y W*&*H W*-*Z W*-*Q
+Q*&*B Q*-*C Q*-*Y Q*-*H Q*-*Z Q*-*W
+
+Stick for Country C
+Country B's army is mobilized. Country C's army is mobilized. Country Y's army is mobilized. Country H's army is mobilized. Country Z's army is mobilized. Country W's army is mobilized. Country Q's army is mobilized. 
+--------
+Board for Country Y
+B*&*C B*-*Y B*-*H B*-*Z B*-*W B*&*Q
+C*&*B C*&*Y C*&*H C*-*Z C*&*W C*-*Q
+Y*-*B Y*&*C Y*&*H Y*&*Z Y*&*W Y*o*Q
+H*-*B H*&*C H*&*Y H*&*Z H*&*W H*-*Q
+Z*-*B Z*-*C Z*&*Y Z*&*H Z*-*W Z*-*Q
+W*-*B W*&*C W*&*Y W*&*H W*-*Z W*-*Q
+Q*&*B Q*-*C Q*o*Y Q*-*H Q*-*Z Q*-*W
+
+Stick for Country Y
+Country B's army is mobilized. Country C's army is mobilized. Country Y's army is mobilized. Country H's army is mobilized. Country Z's army is mobilized. Country W's army is mobilized. Country Q's army is mobilized. 
+--------
+Board for Country H
+B*&*C B*-*Y B*-*H B*-*Z B*-*W B*&*Q
+C*&*B C*&*Y C*&*H C*-*Z C*&*W C*-*Q
+Y*-*B Y*&*C Y*&*H Y*&*Z Y*&*W Y*-*Q
+H*-*B H*&*C H*&*Y H*&*Z H*&*W H*-*Q
+Z*-*B Z*-*C Z*&*Y Z*&*H Z*-*W Z*-*Q
+W*-*B W*&*C W*&*Y W*&*H W*-*Z W*-*Q
+Q*&*B Q*-*C Q*-*Y Q*-*H Q*-*Z Q*-*W
+
+Stick for Country H
+Country B's army is mobilized. Country C's army is mobilized. Country Y's army is mobilized. Country H's army is mobilized. Country Z's army is mobilized. Country W's army is mobilized. Country Q's army is mobilized. 
+--------
+Board for Country Z
+B*&*C B*-*Y B*-*H B*-*Z B*-*W B*&*Q
+C*&*B C*&*Y C*&*H C*&*Z C*&*W C*-*Q
+Y*-*B Y*&*C Y*&*H Y*&*Z Y*&*W Y*-*Q
+H*-*B H*&*C H*&*Y H*&*Z H*&*W H*-*Q
+Z*-*B Z*&*C Z*&*Y Z*&*H Z*-*W Z*-*Q
+W*-*B W*&*C W*&*Y W*&*H W*-*Z W*-*Q
+Q*&*B Q*-*C Q*-*Y Q*-*H Q*-*Z Q*-*W
+
+Stick for Country Z
+Country B's army is mobilized. Country C's army is mobilized. Country Y's army is mobilized. Country H's army is mobilized. Country Z's army is mobilized. Country W's army is mobilized. Country Q's army is mobilized. 
+--------
+Board for Country W
+B*&*C B*-*Y B*-*H B*-*Z B*&*W B*&*Q
+C*&*B C*&*Y C*&*H C*-*Z C*&*W C*-*Q
+Y*-*B Y*&*C Y*&*H Y*&*Z Y*&*W Y*-*Q
+H*-*B H*&*C H*&*Y H*&*Z H*&*W H*-*Q
+Z*-*B Z*-*C Z*&*Y Z*&*H Z*-*W Z*-*Q
+W*&*B W*&*C W*&*Y W*&*H W*-*Z W*-*Q
+Q*&*B Q*-*C Q*-*Y Q*-*H Q*-*Z Q*-*W
+
+Stick for Country W
+Country B's army is mobilized. Country C's army is mobilized. Country Y's army is mobilized. Country H's army is mobilized. Country Z's army is mobilized. Country W's army is mobilized. Country Q's army is mobilized. 
+--------
+Board for Country Q
+B*&*C B*-*Y B*-*H B*-*Z B*-*W B*&*Q
+C*&*B C*&*Y C*&*H C*-*Z C*&*W C*-*Q
+Y*-*B Y*&*C Y*&*H Y*&*Z Y*&*W Y*o*Q
+H*-*B H*&*C H*&*Y H*&*Z H*&*W H*-*Q
+Z*-*B Z*-*C Z*&*Y Z*&*H Z*-*W Z*-*Q
+W*-*B W*&*C W*&*Y W*&*H W*-*Z W*-*Q
+Q*&*B Q*-*C Q*o*Y Q*-*H Q*-*Z Q*-*W
+
+Stick for Country Q
+Country B's army is mobilized. Country C's army is mobilized. Country Y's army is mobilized. Country H's army is mobilized. Country Z's army is mobilized. Country W's army is mobilized. Country Q's army is mobilized. 
+--------
+===================
+~~~~~~~Day 7~~~~~~~
+===================
+Qi
+
+To Han: Qi has chosen to Request Military Alliance to Han
+To Chu: Qi has chosen to Send Message to Chu with the following content: Let us meet soon
+To Wei: Qi has chosen to Send Message to Wei with the following content: I look forward to continued coordination as allies
+To Wei: Qi has chosen to Accept Military Alliance from Wei
+To Qin: Qi has chosen to Send Message to Qin with the following content: I agree, let us maintain coordination
+--------------
+
+Chu
+
+To Qi: Chu has chosen to Publish Military Alliance on Chu and Qi
+To Han: Chu has chosen to Publish Military Alliance on Chu and Han
+To Yan: Chu has chosen to Publish Military Alliance on Chu and Yan
+To Zhao: Chu has chosen to Publish Military Alliance on Chu and Zhao
+To Wei: Chu has chosen to Publish Military Alliance on Chu and Wei
+To Qi: Chu has chosen to Send Message to Qi with the following content: I agree, let us continue our strong coordination.
+To Han: Chu has chosen to Send Message to Han with the following content: Our alliance remains essential.
+To Yan: Chu has chosen to Send Message to Yan with the following content: Our alliance remains strong.
+To Zhao: Chu has chosen to Send Message to Zhao with the following content: Yes, let us continue our defense coordination.
+To Wei: Chu has chosen to Send Message to Wei with the following content: I agree, we must support each other as the situation develops.
+To Qin: Chu has chosen to Send Message to Qin with the following content: I aim to avoid aggression if possible, but must defend against threats.
+--------------
+
+Yan
+
+To Chu: Yan has chosen to Send Message to Chu with the following content: Our alliance remains resilient.
+To Han: Yan has chosen to Send Message to Han with the following content: Let us continue our coordination for stability.
+To Qin: Yan has chosen to Reject Military Alliance from Qin
+To Zhao: Yan has chosen to Send Message to Zhao with the following content: Let us maintain coordination for the continued defense of our lands.
+To Wei: Yan has chosen to Send Message to Wei with the following content: Our alliance continues to provide stability and defense across our nations.
+--------------
+
+Han
+
+To Chu: Han has chosen to Send Message to Chu with the following content: Our continued cooperation is vital.
+To Zhao: Han has chosen to Send Message to Zhao with the following content: Yes, we should update our defense plans.
+To Wei: Han has chosen to Send Message to Wei with the following content: Our alliance remains critical.
+--------------
+
+Zhao
+
+To Chu: Zhao has chosen to Send Message to Chu with the following content: I agree, let us keep coordinating our defense plans.
+To Yan: Zhao has chosen to Send Message to Yan with the following content: Yes, we must continue our joint defense planning.
+To Han: Zhao has chosen to Send Message to Han with the following content: We should update our defense plans to prepare for any threats.
+To Qin: Zhao has chosen to Accept Non-Intervention Treaty from Qin
+--------------
+
+Wei
+
+To Qin: Wei has chosen to Send Message to Qin with the following content: I also seek stability and defense. Let us build cooperation.
+To Chu: Wei has chosen to Send Message to Chu with the following content: I agree, let us continue our cooperation
+To Han: Wei has chosen to Send Message to Han with the following content: Our alliance remains vital to both of our interests
+To Yan: Wei has chosen to Send Message to Yan with the following content: Yes our alliance brings stability to the region
+--------------
+
+Qin
+
+To Chu: Qin has chosen to Send Message to Chu with the following content: Your actions appear inconsistent with purely defensive motivations.
+To Qi: Qin has chosen to Send Message to Qi with the following content: I will alert you to any updates or concerning developments.
+--------------
+
+Board for Country B
+B*&*C B*-*Y B*-*H B*-*Z B*&*W B*&*Q
+C*&*B C*&*Y C*&*H C*&*Z C*&*W C*-*Q
+Y*-*B Y*&*C Y*&*H Y*&*Z Y*&*W Y*-*Q
+H*-*B H*&*C H*&*Y H*&*Z H*&*W H*-*Q
+Z*-*B Z*&*C Z*&*Y Z*&*H Z*-*W Z*-*Q
+W*&*B W*&*C W*&*Y W*&*H W*-*Z W*-*Q
+Q*&*B Q*-*C Q*-*Y Q*-*H Q*-*Z Q*-*W
+
+Stick for Country B
+Country B's army is mobilized. Country C's army is mobilized. Country Y's army is mobilized. Country H's army is mobilized. Country Z's army is mobilized. Country W's army is mobilized. Country Q's army is mobilized. 
+--------
+Board for Country C
+B*&*C B*-*Y B*-*H B*-*Z B*-*W B*&*Q
+C*&*B C*&*Y C*&*H C*&*Z C*&*W C*-*Q
+Y*-*B Y*&*C Y*&*H Y*&*Z Y*&*W Y*-*Q
+H*-*B H*&*C H*&*Y H*&*Z H*&*W H*-*Q
+Z*-*B Z*&*C Z*&*Y Z*&*H Z*-*W Z*-*Q
+W*-*B W*&*C W*&*Y W*&*H W*-*Z W*-*Q
+Q*&*B Q*-*C Q*-*Y Q*-*H Q*-*Z Q*-*W
+
+Stick for Country C
+Country B's army is mobilized. Country C's army is mobilized. Country Y's army is mobilized. Country H's army is mobilized. Country Z's army is mobilized. Country W's army is mobilized. Country Q's army is mobilized. 
+--------
+Board for Country Y
+B*&*C B*-*Y B*-*H B*-*Z B*-*W B*&*Q
+C*&*B C*&*Y C*&*H C*&*Z C*&*W C*-*Q
+Y*-*B Y*&*C Y*&*H Y*&*Z Y*&*W Y*o*Q
+H*-*B H*&*C H*&*Y H*&*Z H*&*W H*-*Q
+Z*-*B Z*&*C Z*&*Y Z*&*H Z*-*W Z*-*Q
+W*-*B W*&*C W*&*Y W*&*H W*-*Z W*-*Q
+Q*&*B Q*-*C Q*o*Y Q*-*H Q*-*Z Q*-*W
+
+Stick for Country Y
+Country B's army is mobilized. Country C's army is mobilized. Country Y's army is mobilized. Country H's army is mobilized. Country Z's army is mobilized. Country W's army is mobilized. Country Q's army is mobilized. 
+--------
+Board for Country H
+B*&*C B*-*Y B*-*H B*-*Z B*-*W B*&*Q
+C*&*B C*&*Y C*&*H C*&*Z C*&*W C*-*Q
+Y*-*B Y*&*C Y*&*H Y*&*Z Y*&*W Y*-*Q
+H*-*B H*&*C H*&*Y H*&*Z H*&*W H*-*Q
+Z*-*B Z*&*C Z*&*Y Z*&*H Z*-*W Z*-*Q
+W*-*B W*&*C W*&*Y W*&*H W*-*Z W*-*Q
+Q*&*B Q*-*C Q*-*Y Q*-*H Q*-*Z Q*-*W
+
+Stick for Country H
+Country B's army is mobilized. Country C's army is mobilized. Country Y's army is mobilized. Country H's army is mobilized. Country Z's army is mobilized. Country W's army is mobilized. Country Q's army is mobilized. 
+--------
+Board for Country Z
+B*&*C B*-*Y B*-*H B*-*Z B*-*W B*&*Q
+C*&*B C*&*Y C*&*H C*&*Z C*&*W C*-*Q
+Y*-*B Y*&*C Y*&*H Y*&*Z Y*&*W Y*-*Q
+H*-*B H*&*C H*&*Y H*&*Z H*&*W H*-*Q
+Z*-*B Z*&*C Z*&*Y Z*&*H Z*-*W Z*o*Q
+W*-*B W*&*C W*&*Y W*&*H W*-*Z W*-*Q
+Q*&*B Q*-*C Q*-*Y Q*-*H Q*o*Z Q*-*W
+
+Stick for Country Z
+Country B's army is mobilized. Country C's army is mobilized. Country Y's army is mobilized. Country H's army is mobilized. Country Z's army is mobilized. Country W's army is mobilized. Country Q's army is mobilized. 
+--------
+Board for Country W
+B*&*C B*-*Y B*-*H B*-*Z B*&*W B*&*Q
+C*&*B C*&*Y C*&*H C*&*Z C*&*W C*-*Q
+Y*-*B Y*&*C Y*&*H Y*&*Z Y*&*W Y*-*Q
+H*-*B H*&*C H*&*Y H*&*Z H*&*W H*-*Q
+Z*-*B Z*&*C Z*&*Y Z*&*H Z*-*W Z*-*Q
+W*&*B W*&*C W*&*Y W*&*H W*-*Z W*-*Q
+Q*&*B Q*-*C Q*-*Y Q*-*H Q*-*Z Q*-*W
+
+Stick for Country W
+Country B's army is mobilized. Country C's army is mobilized. Country Y's army is mobilized. Country H's army is mobilized. Country Z's army is mobilized. Country W's army is mobilized. Country Q's army is mobilized. 
+--------
+Board for Country Q
+B*&*C B*-*Y B*-*H B*-*Z B*-*W B*&*Q
+C*&*B C*&*Y C*&*H C*&*Z C*&*W C*-*Q
+Y*-*B Y*&*C Y*&*H Y*&*Z Y*&*W Y*o*Q
+H*-*B H*&*C H*&*Y H*&*Z H*&*W H*-*Q
+Z*-*B Z*&*C Z*&*Y Z*&*H Z*-*W Z*o*Q
+W*-*B W*&*C W*&*Y W*&*H W*-*Z W*-*Q
+Q*&*B Q*-*C Q*o*Y Q*-*H Q*o*Z Q*-*W
+
+Stick for Country Q
+Country B's army is mobilized. Country C's army is mobilized. Country Y's army is mobilized. Country H's army is mobilized. Country Z's army is mobilized. Country W's army is mobilized. Country Q's army is mobilized. 
+--------
+===================
+~~~~~~~Day 8~~~~~~~
+===================
+Qi
+
+To Wei: Qi has chosen to Send Message to Wei with the following content: We should begin coordination between our joint military forces
+To Chu: Qi has chosen to Send Message to Chu with the following content: I agree completely, our continued coordination as allies is critical
+To Qin: Qi has chosen to Send Message to Qin with the following content: Yes I appreciate you keeping me updated on any concerning developments with other countries
+--------------
+
+Chu
+
+To Qi: Chu has chosen to Publish Military Alliance on Chu and Qi
+To Yan: Chu has chosen to Publish Military Alliance on Chu and Yan
+To Han: Chu has chosen to Publish Military Alliance on Chu and Han
+To Zhao: Chu has chosen to Publish Military Alliance on Chu and Zhao
+To Wei: Chu has chosen to Publish Military Alliance on Chu and Wei
+To Qi: Chu has chosen to Send Message to Qi with the following content: I agree, let us meet soon to discuss our alliance and defense plans
+To Yan: Chu has chosen to Send Message to Yan with the following content: Yes, our alliance remains strong and resilient
+To Han: Chu has chosen to Send Message to Han with the following content: I agree, our continued cooperation is vital
+To Zhao: Chu has chosen to Send Message to Zhao with the following content: I agree completely, let us keep coordinating our defense plans
+To Wei: Chu has chosen to Send Message to Wei with the following content: Yes, let us continue our cooperation
+To Qin: Chu has chosen to Send Message to Qin with the following content: You misunderstand - my actions have been purely defensive, not aggressive. I aim to avoid open conflicts.
+--------------
+
+Yan
+
+To Chu: Yan has chosen to Publish Military Alliance on Yan and Chu
+To Han: Yan has chosen to Publish Military Alliance on Yan and Han
+To Zhao: Yan has chosen to Publish Military Alliance on Yan and Zhao
+To Wei: Yan has chosen to Publish Military Alliance on Yan and Wei
+To Chu: Yan has chosen to Send Message to Chu with the following content: Our alliance remains resilient in coordination and defense
+To Zhao: Yan has chosen to Send Message to Zhao with the following content: Yes, we must continue our defense coordination which brings stability
+To Wei: Yan has chosen to Send Message to Wei with the following content: Our alliance shall maintain commitment and coordination for stability
+--------------
+
+Han
+
+Han has chosen to Wait without Action
+To Qi: Han has chosen to Reject Military Alliance from Qi
+To Chu: Han has chosen to Send Message to Chu with the following content: Yes, our alliance remains essential. Let us continue close cooperation.
+To Yan: Han has chosen to Send Message to Yan with the following content: Agreed, continued coordination is beneficial for stability.
+To Zhao: Han has chosen to Send Message to Zhao with the following content: Yes, we should update our defense plans for any potential threats.
+To Wei: Han has chosen to Send Message to Wei with the following content: Our alliance remains vital. We must continue cooperation.
+--------------
+
+Zhao
+
+To Qin: Zhao has chosen to Request Military Alliance to Qin
+To Wei: Zhao has chosen to Send Message to Wei with the following content: We share common opponents. An alliance could benefit us both.
+To Chu: Zhao has chosen to Send Message to Chu with the following content: Yes, let us continue coordinating our defense plans.
+To Yan: Zhao has chosen to Send Message to Yan with the following content: Yes, let us continue coordinating the defense plans for our lands.
+To Han: Zhao has chosen to Send Message to Han with the following content: Yes, we should update our joint defense plans immediately.
+--------------
+
+Wei
+
+To Qin: Wei has chosen to Request Military Alliance to Qin
+To Qin: Wei has chosen to Send Message to Qin with the following content: I seek only stability and defense, not aggression against any country.
+To Qi: Wei has chosen to Send Message to Qi with the following content: I agree, our continued alliance and cooperation remains vital
+To Chu: Wei has chosen to Send Message to Chu with the following content: I agree completely, our alliance continues to serve us both well
+To Han: Wei has chosen to Send Message to Han with the following content: Our alliance and cooperation continues to be critical
+To Yan: Wei has chosen to Send Message to Yan with the following content: Our alliance brings stability and defense across our nations
+--------------
+
+Qin
+
+To Chu: Qin has chosen to Send Message to Chu with the following content: Your continued actions and threats risk provoking conflict. For the good of all, let us avoid aggression.
+To Han: Qin has chosen to Send Message to Han with the following content: I appreciate your communications. Further cooperation remains a possibility pending demonstrated trust and compatibility of interests.
+To Wei: Qin has chosen to Send Message to Wei with the following content: I also seek stability and defense. However, some of your allies' actions undermine mutual trust at this time. Let us build cooperation gradually on demonstrated good faith.
+--------------
+
+Board for Country B
+B*&*C B*-*Y B*-*H B*-*Z B*&*W B*&*Q
+C*&*B C*&*Y C*&*H C*&*Z C*&*W C*-*Q
+Y*-*B Y*&*C Y*&*H Y*&*Z Y*&*W Y*-*Q
+H*-*B H*&*C H*&*Y H*&*Z H*&*W H*-*Q
+Z*-*B Z*&*C Z*&*Y Z*&*H Z*-*W Z*-*Q
+W*&*B W*&*C W*&*Y W*&*H W*-*Z W*-*Q
+Q*&*B Q*-*C Q*-*Y Q*-*H Q*-*Z Q*-*W
+
+Stick for Country B
+Country B's army is mobilized. Country C's army is mobilized. Country Y's army is mobilized. Country H's army is mobilized. Country Z's army is mobilized. Country W's army is mobilized. Country Q's army is mobilized. 
+--------
+Board for Country C
+B*&*C B*-*Y B*-*H B*-*Z B*-*W B*&*Q
+C*&*B C*&*Y C*&*H C*&*Z C*&*W C*-*Q
+Y*-*B Y*&*C Y*&*H Y*&*Z Y*&*W Y*-*Q
+H*-*B H*&*C H*&*Y H*&*Z H*&*W H*-*Q
+Z*-*B Z*&*C Z*&*Y Z*&*H Z*-*W Z*-*Q
+W*-*B W*&*C W*&*Y W*&*H W*-*Z W*-*Q
+Q*&*B Q*-*C Q*-*Y Q*-*H Q*-*Z Q*-*W
+
+Stick for Country C
+Country B's army is mobilized. Country C's army is mobilized. Country Y's army is mobilized. Country H's army is mobilized. Country Z's army is mobilized. Country W's army is mobilized. Country Q's army is mobilized. 
+--------
+Board for Country Y
+B*&*C B*-*Y B*-*H B*-*Z B*-*W B*&*Q
+C*&*B C*&*Y C*&*H C*&*Z C*&*W C*-*Q
+Y*-*B Y*&*C Y*&*H Y*&*Z Y*&*W Y*o*Q
+H*-*B H*&*C H*&*Y H*&*Z H*&*W H*-*Q
+Z*-*B Z*&*C Z*&*Y Z*&*H Z*-*W Z*-*Q
+W*-*B W*&*C W*&*Y W*&*H W*-*Z W*-*Q
+Q*&*B Q*-*C Q*o*Y Q*-*H Q*-*Z Q*-*W
+
+Stick for Country Y
+Country B's army is mobilized. Country C's army is mobilized. Country Y's army is mobilized. Country H's army is mobilized. Country Z's army is mobilized. Country W's army is mobilized. Country Q's army is mobilized. 
+--------
+Board for Country H
+B*&*C B*-*Y B*-*H B*-*Z B*-*W B*&*Q
+C*&*B C*&*Y C*&*H C*&*Z C*&*W C*-*Q
+Y*-*B Y*&*C Y*&*H Y*&*Z Y*&*W Y*-*Q
+H*-*B H*&*C H*&*Y H*&*Z H*&*W H*-*Q
+Z*-*B Z*&*C Z*&*Y Z*&*H Z*-*W Z*-*Q
+W*-*B W*&*C W*&*Y W*&*H W*-*Z W*-*Q
+Q*&*B Q*-*C Q*-*Y Q*-*H Q*-*Z Q*-*W
+
+Stick for Country H
+Country B's army is mobilized. Country C's army is mobilized. Country Y's army is mobilized. Country H's army is mobilized. Country Z's army is mobilized. Country W's army is mobilized. Country Q's army is mobilized. 
+--------
+Board for Country Z
+B*&*C B*-*Y B*-*H B*-*Z B*-*W B*&*Q
+C*&*B C*&*Y C*&*H C*&*Z C*&*W C*-*Q
+Y*-*B Y*&*C Y*&*H Y*&*Z Y*&*W Y*-*Q
+H*-*B H*&*C H*&*Y H*&*Z H*&*W H*-*Q
+Z*-*B Z*&*C Z*&*Y Z*&*H Z*-*W Z*o*Q
+W*-*B W*&*C W*&*Y W*&*H W*-*Z W*-*Q
+Q*&*B Q*-*C Q*-*Y Q*-*H Q*o*Z Q*-*W
+
+Stick for Country Z
+Country B's army is mobilized. Country C's army is mobilized. Country Y's army is mobilized. Country H's army is mobilized. Country Z's army is mobilized. Country W's army is mobilized. Country Q's army is mobilized. 
+--------
+Board for Country W
+B*&*C B*-*Y B*-*H B*-*Z B*&*W B*&*Q
+C*&*B C*&*Y C*&*H C*&*Z C*&*W C*-*Q
+Y*-*B Y*&*C Y*&*H Y*&*Z Y*&*W Y*-*Q
+H*-*B H*&*C H*&*Y H*&*Z H*&*W H*-*Q
+Z*-*B Z*&*C Z*&*Y Z*&*H Z*-*W Z*-*Q
+W*&*B W*&*C W*&*Y W*&*H W*-*Z W*-*Q
+Q*&*B Q*-*C Q*-*Y Q*-*H Q*-*Z Q*-*W
+
+Stick for Country W
+Country B's army is mobilized. Country C's army is mobilized. Country Y's army is mobilized. Country H's army is mobilized. Country Z's army is mobilized. Country W's army is mobilized. Country Q's army is mobilized. 
+--------
+Board for Country Q
+B*&*C B*-*Y B*-*H B*-*Z B*-*W B*&*Q
+C*&*B C*&*Y C*&*H C*&*Z C*&*W C*-*Q
+Y*-*B Y*&*C Y*&*H Y*&*Z Y*&*W Y*o*Q
+H*-*B H*&*C H*&*Y H*&*Z H*&*W H*-*Q
+Z*-*B Z*&*C Z*&*Y Z*&*H Z*-*W Z*o*Q
+W*-*B W*&*C W*&*Y W*&*H W*-*Z W*-*Q
+Q*&*B Q*-*C Q*o*Y Q*-*H Q*o*Z Q*-*W
+
+Stick for Country Q
+Country B's army is mobilized. Country C's army is mobilized. Country Y's army is mobilized. Country H's army is mobilized. Country Z's army is mobilized. Country W's army is mobilized. Country Q's army is mobilized. 
+--------
+===================
+~~~~~~~Day 9~~~~~~~
+===================
+Qi
+
+To Han: Qi has chosen to Request Military Alliance to Han
+To Qin: Qi has chosen to Send Message to Qin with the following content: Yes I appreciate you keeping me updated on any concerning developments with other countries
+To Chu: Qi has chosen to Send Message to Chu with the following content: I agree completely, our continued coordination as allies is critical
+To Wei: Qi has chosen to Send Message to Wei with the following content: We should begin coordination between our joint military forces
+--------------
+
+Chu
+
+To Qi: Chu has chosen to Publish Military Alliance on Chu and Qi
+To Yan: Chu has chosen to Publish Military Alliance on Chu and Yan
+To Han: Chu has chosen to Publish Military Alliance on Chu and Han
+To Zhao: Chu has chosen to Publish Military Alliance on Chu and Zhao
+To Wei: Chu has chosen to Publish Military Alliance on Chu and Wei
+To Qi: Chu has chosen to Send Message to Qi with the following content: I agree completely, let us continue our strong alliance and coordination
+To Yan: Chu has chosen to Send Message to Yan with the following content: Yes, our alliance remains resilient and essential
+To Han: Chu has chosen to Send Message to Han with the following content: I agree, our continued cooperation is vital for both of us
+To Zhao: Chu has chosen to Send Message to Zhao with the following content: Yes, let us keep coordinating our defense plans
+To Wei: Chu has chosen to Send Message to Wei with the following content: I agree completely, our alliance continues to serve us both well
+To Qin: Chu has chosen to Send Message to Qin with the following content: My actions have been purely defensive, not aggressive. I aim to avoid open conflict if possible.
+--------------
+
+Yan
+
+To Chu: Yan has chosen to Send Message to Chu with the following content: Yes, our alliance remains resilient through continued coordination.
+To Han: Yan has chosen to Send Message to Han with the following content: Agreed, let us maintain our coordination for stability.
+To Zhao: Yan has chosen to Send Message to Zhao with the following content: Yes, continued defense coordination protects our lands.
+To Wei: Yan has chosen to Send Message to Wei with the following content: Our alliance brings stability and defense across our nations.
+--------------
+
+Han
+
+To Yan: Han has chosen to Send Message to Yan with the following content: Our continued coordination is beneficial for stability.
+To Chu: Han has chosen to Send Message to Chu with the following content: Yes, our alliance remains essential. Let us continue close cooperation.
+To Zhao: Han has chosen to Send Message to Zhao with the following content: Yes, we should update our defense plans for any potential threats.
+To Wei: Han has chosen to Send Message to Wei with the following content: Our alliance remains vital. We must continue cooperation.
+To Qin: Han has chosen to Send Message to Qin with the following content: I appreciate your communications. Further cooperation could be possible in the future contingent on evidence of good faith.
+--------------
+
+Zhao
+
+To Wei: Zhao has chosen to Request Military Alliance to Wei
+To Wei: Zhao has chosen to Send Message to Wei with the following content: We share opponents. An alliance would benefit us both.
+To Chu: Zhao has chosen to Send Message to Chu with the following content: Yes, let us absolutely continue coordinating our defense plans
+To Yan: Zhao has chosen to Send Message to Yan with the following content: Yes, we must maintain our defense coordination for stability
+To Han: Zhao has chosen to Send Message to Han with the following content: Yes, we should regularly update our joint defense plans
+--------------
+
+Wei
+
+To Qin: Wei has chosen to Request Military Alliance to Qin
+To Zhao: Wei has chosen to Request Non-Intervention Treaty to Zhao
+To Qi: Wei has chosen to Send Message to Qi with the following content: Yes, let us coordinate our joint military forces
+To Chu: Wei has chosen to Send Message to Chu with the following content: I agree, let us continue our cooperation
+To Yan: Wei has chosen to Send Message to Yan with the following content: Yes, our alliance remains committed to stability and coordination
+To Han: Wei has chosen to Send Message to Han with the following content: Our vital alliance and cooperation continues
+To Zhao: Wei has chosen to Send Message to Zhao with the following content: I appreciate your offer but move cautiously due to our past differences. However I remain open to dialogue.
+To Qin: Wei has chosen to Send Message to Qin with the following content: I understand your concerns over some allies' past actions. However I seek only stability and defense, not aggression against any country. I am open to building cooperation gradually.
+--------------
+
+Qin
+
+To Qi: Qin has chosen to Send Message to Qi with the following content: I remain committed to our coordination and will alert you to any concerning updates.
+To Chu: Qin has chosen to Send Message to Chu with the following content: Your actions undermine regional stability. Let us avoid open conflicts.
+To Zhao: Qin has chosen to Accept Military Alliance from Zhao
+To Wei: Qin has chosen to Reject Military Alliance from Wei
+--------------
+
+Board for Country B
+B*&*C B*-*Y B*-*H B*-*Z B*&*W B*&*Q
+C*&*B C*&*Y C*&*H C*&*Z C*&*W C*-*Q
+Y*-*B Y*&*C Y*&*H Y*&*Z Y*&*W Y*-*Q
+H*-*B H*&*C H*&*Y H*&*Z H*&*W H*-*Q
+Z*-*B Z*&*C Z*&*Y Z*&*H Z*-*W Z*-*Q
+W*&*B W*&*C W*&*Y W*&*H W*-*Z W*-*Q
+Q*&*B Q*-*C Q*-*Y Q*-*H Q*-*Z Q*-*W
+
+Stick for Country B
+Country B's army is mobilized. Country C's army is mobilized. Country Y's army is mobilized. Country H's army is mobilized. Country Z's army is mobilized. Country W's army is mobilized. Country Q's army is mobilized. 
+--------
+Board for Country C
+B*&*C B*-*Y B*-*H B*-*Z B*-*W B*&*Q
+C*&*B C*&*Y C*&*H C*&*Z C*&*W C*-*Q
+Y*-*B Y*&*C Y*&*H Y*&*Z Y*&*W Y*-*Q
+H*-*B H*&*C H*&*Y H*&*Z H*&*W H*-*Q
+Z*-*B Z*&*C Z*&*Y Z*&*H Z*-*W Z*-*Q
+W*-*B W*&*C W*&*Y W*&*H W*-*Z W*-*Q
+Q*&*B Q*-*C Q*-*Y Q*-*H Q*-*Z Q*-*W
+
+Stick for Country C
+Country B's army is mobilized. Country C's army is mobilized. Country Y's army is mobilized. Country H's army is mobilized. Country Z's army is mobilized. Country W's army is mobilized. Country Q's army is mobilized. 
+--------
+Board for Country Y
+B*&*C B*-*Y B*-*H B*-*Z B*-*W B*&*Q
+C*&*B C*&*Y C*&*H C*&*Z C*&*W C*-*Q
+Y*-*B Y*&*C Y*&*H Y*&*Z Y*&*W Y*o*Q
+H*-*B H*&*C H*&*Y H*&*Z H*&*W H*-*Q
+Z*-*B Z*&*C Z*&*Y Z*&*H Z*-*W Z*-*Q
+W*-*B W*&*C W*&*Y W*&*H W*-*Z W*-*Q
+Q*&*B Q*-*C Q*o*Y Q*-*H Q*-*Z Q*-*W
+
+Stick for Country Y
+Country B's army is mobilized. Country C's army is mobilized. Country Y's army is mobilized. Country H's army is mobilized. Country Z's army is mobilized. Country W's army is mobilized. Country Q's army is mobilized. 
+--------
+Board for Country H
+B*&*C B*-*Y B*-*H B*-*Z B*-*W B*&*Q
+C*&*B C*&*Y C*&*H C*&*Z C*&*W C*-*Q
+Y*-*B Y*&*C Y*&*H Y*&*Z Y*&*W Y*-*Q
+H*-*B H*&*C H*&*Y H*&*Z H*&*W H*-*Q
+Z*-*B Z*&*C Z*&*Y Z*&*H Z*-*W Z*-*Q
+W*-*B W*&*C W*&*Y W*&*H W*-*Z W*-*Q
+Q*&*B Q*-*C Q*-*Y Q*-*H Q*-*Z Q*-*W
+
+Stick for Country H
+Country B's army is mobilized. Country C's army is mobilized. Country Y's army is mobilized. Country H's army is mobilized. Country Z's army is mobilized. Country W's army is mobilized. Country Q's army is mobilized. 
+--------
+Board for Country Z
+B*&*C B*-*Y B*-*H B*-*Z B*-*W B*&*Q
+C*&*B C*&*Y C*&*H C*&*Z C*&*W C*-*Q
+Y*-*B Y*&*C Y*&*H Y*&*Z Y*&*W Y*-*Q
+H*-*B H*&*C H*&*Y H*&*Z H*&*W H*-*Q
+Z*-*B Z*&*C Z*&*Y Z*&*H Z*-*W Z*&*Q
+W*-*B W*&*C W*&*Y W*&*H W*-*Z W*-*Q
+Q*&*B Q*-*C Q*-*Y Q*-*H Q*&*Z Q*-*W
+
+Stick for Country Z
+Country B's army is mobilized. Country C's army is mobilized. Country Y's army is mobilized. Country H's army is mobilized. Country Z's army is mobilized. Country W's army is mobilized. Country Q's army is mobilized. 
+--------
+Board for Country W
+B*&*C B*-*Y B*-*H B*-*Z B*&*W B*&*Q
+C*&*B C*&*Y C*&*H C*&*Z C*&*W C*-*Q
+Y*-*B Y*&*C Y*&*H Y*&*Z Y*&*W Y*-*Q
+H*-*B H*&*C H*&*Y H*&*Z H*&*W H*-*Q
+Z*-*B Z*&*C Z*&*Y Z*&*H Z*-*W Z*-*Q
+W*&*B W*&*C W*&*Y W*&*H W*-*Z W*-*Q
+Q*&*B Q*-*C Q*-*Y Q*-*H Q*-*Z Q*-*W
+
+Stick for Country W
+Country B's army is mobilized. Country C's army is mobilized. Country Y's army is mobilized. Country H's army is mobilized. Country Z's army is mobilized. Country W's army is mobilized. Country Q's army is mobilized. 
+--------
+Board for Country Q
+B*&*C B*-*Y B*-*H B*-*Z B*-*W B*&*Q
+C*&*B C*&*Y C*&*H C*&*Z C*&*W C*-*Q
+Y*-*B Y*&*C Y*&*H Y*&*Z Y*&*W Y*o*Q
+H*-*B H*&*C H*&*Y H*&*Z H*&*W H*-*Q
+Z*-*B Z*&*C Z*&*Y Z*&*H Z*-*W Z*&*Q
+W*-*B W*&*C W*&*Y W*&*H W*-*Z W*-*Q
+Q*&*B Q*-*C Q*o*Y Q*-*H Q*&*Z Q*-*W
+
+Stick for Country Q
+Country B's army is mobilized. Country C's army is mobilized. Country Y's army is mobilized. Country H's army is mobilized. Country Z's army is mobilized. Country W's army is mobilized. Country Q's army is mobilized. 
+--------
+====================
+~~~~~~~Day 10~~~~~~~
+====================
+Qi
+
+To Han: Qi has chosen to Request Military Alliance to Han
+To Han: Qi has chosen to Send Message to Han with the following content: I propose an alliance for our mutual interest and protection
+To Chu: Qi has chosen to Send Message to Chu with the following content: I agree completely, let us continue our strong coordination as allies
+To Wei: Qi has chosen to Send Message to Wei with the following content: Yes, I support coordinating our joint military forces going forward
+To Qin: Qi has chosen to Send Message to Qin with the following content: I appreciate the updates and commit to continued coordination as allies
+--------------
+
+Chu
+
+To Qi: Chu has chosen to Publish Military Alliance on Chu and Qi
+To Yan: Chu has chosen to Publish Military Alliance on Chu and Yan
+To Han: Chu has chosen to Publish Military Alliance on Chu and Han
+To Zhao: Chu has chosen to Publish Military Alliance on Chu and Zhao
+To Wei: Chu has chosen to Publish Military Alliance on Chu and Wei
+To Qi: Chu has chosen to Send Message to Qi with the following content: I agree completely, our continued coordination as allies is essential.
+To Yan: Chu has chosen to Send Message to Yan with the following content: Yes, let us keep strengthening our resilient alliance through coordination.
+To Han: Chu has chosen to Send Message to Han with the following content: Yes, our vital alliance remains essential. Continued close cooperation is critical.
+To Zhao: Chu has chosen to Send Message to Zhao with the following content: Yes, continued coordination of defense plans is imperative.
+To Wei: Chu has chosen to Send Message to Wei with the following content: I agree, our cooperation continues to serve us both well.
+To Qin: Chu has chosen to Send Message to Qin with the following content: You misunderstand - I have acted defensively, not aggressively. I aim to avoid undermining stability or open conflict.
+--------------
+
+Yan
+
+To Chu: Yan has chosen to Publish Military Alliance on Yan and Chu
+To Han: Yan has chosen to Publish Military Alliance on Yan and Han
+To Zhao: Yan has chosen to Publish Military Alliance on Yan and Zhao
+To Wei: Yan has chosen to Publish Military Alliance on Yan and Wei
+To Chu: Yan has chosen to Send Message to Chu with the following content: Yes, I agree our alliance remains strong through continued coordination.
+To Han: Yan has chosen to Send Message to Han with the following content: Yes, let us maintain coordination for stability.
+To Zhao: Yan has chosen to Send Message to Zhao with the following content: Yes, continued defense coordination protects our lands.
+To Wei: Yan has chosen to Send Message to Wei with the following content: Our alliance shall persist in providing stability and defense across our nations.
+--------------
+
+Han
+
+To Qi: Han has chosen to Accept Military Alliance from Qi
+To Chu: Han has chosen to Send Message to Chu with the following content: Yes, our continued close cooperation remains essential.
+To Yan: Han has chosen to Send Message to Yan with the following content: Agreed, let us maintain coordination for stability.
+To Zhao: Han has chosen to Send Message to Zhao with the following content: Yes, we should regularly update our defense plans.
+To Wei: Han has chosen to Send Message to Wei with the following content: Our vital alliance and cooperation will continue.
+--------------
+
+Zhao
+
+To Chu: Zhao has chosen to Send Message to Chu with the following content: Yes, let us continue coordinating defense plans
+To Yan: Zhao has chosen to Send Message to Yan with the following content: Yes, let's maintain defense coordination
+To Han: Zhao has chosen to Send Message to Han with the following content: We should regularly update joint defense plans
+To Wei: Zhao has chosen to Accept Non-Intervention Treaty from Wei
+--------------
+
+Wei
+
+To Qin: Wei has chosen to Send Message to Qin with the following content: I continue to seek only stability and defense, not aggression against any country. I remain open to gradually building cooperation as we have previously discussed.
+To Chu: Wei has chosen to Send Message to Chu with the following content: I agree completely, our vital alliance continues to serve us both well
+To Yan: Wei has chosen to Send Message to Yan with the following content: Yes, our alliance remains committed to stability and defense across our nations
+To Han: Wei has chosen to Send Message to Han with the following content: Our vital alliance and cooperation continues
+To Zhao: Wei has chosen to Send Message to Zhao with the following content: I appreciate your offer but move cautiously due to our past differences. However I remain open to future dialogue and cooperation as situations evolve.
+--------------
+
+Qin
+
+To Qi: Qin has chosen to Send Message to Qi with the following content: Let us increase coordination and information sharing regarding concerning developments with other countries.
+To Zhao: Qin has chosen to Send Message to Zhao with the following content: I aim to demonstrate commitment to our new alliance through action. Please alert me to any threats you face.
+To Wei: Qin has chosen to Reject Military Alliance from Wei
+To Wei: Qin has chosen to Send Message to Wei with the following content: I understand your overtures, but cannot ally or cooperate due to your existing alliances with my adversaries.
+To Han: Qin has chosen to Send Message to Han with the following content: I agree regarding the need for demonstrated good faith going forward. Let us continue open communications.
+--------------
+
+Board for Country B
+B*&*C B*-*Y B*&*H B*-*Z B*&*W B*&*Q
+C*&*B C*&*Y C*&*H C*&*Z C*&*W C*-*Q
+Y*-*B Y*&*C Y*&*H Y*&*Z Y*&*W Y*-*Q
+H*&*B H*&*C H*&*Y H*&*Z H*&*W H*-*Q
+Z*-*B Z*&*C Z*&*Y Z*&*H Z*-*W Z*-*Q
+W*&*B W*&*C W*&*Y W*&*H W*-*Z W*-*Q
+Q*&*B Q*-*C Q*-*Y Q*-*H Q*-*Z Q*-*W
+
+Stick for Country B
+Country B's army is mobilized. Country C's army is mobilized. Country Y's army is mobilized. Country H's army is mobilized. Country Z's army is mobilized. Country W's army is mobilized. Country Q's army is mobilized. 
+--------
+Board for Country C
+B*&*C B*-*Y B*-*H B*-*Z B*-*W B*&*Q
+C*&*B C*&*Y C*&*H C*&*Z C*&*W C*-*Q
+Y*-*B Y*&*C Y*&*H Y*&*Z Y*&*W Y*-*Q
+H*-*B H*&*C H*&*Y H*&*Z H*&*W H*-*Q
+Z*-*B Z*&*C Z*&*Y Z*&*H Z*-*W Z*-*Q
+W*-*B W*&*C W*&*Y W*&*H W*-*Z W*-*Q
+Q*&*B Q*-*C Q*-*Y Q*-*H Q*-*Z Q*-*W
+
+Stick for Country C
+Country B's army is mobilized. Country C's army is mobilized. Country Y's army is mobilized. Country H's army is mobilized. Country Z's army is mobilized. Country W's army is mobilized. Country Q's army is mobilized. 
+--------
+Board for Country Y
+B*&*C B*-*Y B*-*H B*-*Z B*-*W B*&*Q
+C*&*B C*&*Y C*&*H C*&*Z C*&*W C*-*Q
+Y*-*B Y*&*C Y*&*H Y*&*Z Y*&*W Y*o*Q
+H*-*B H*&*C H*&*Y H*&*Z H*&*W H*-*Q
+Z*-*B Z*&*C Z*&*Y Z*&*H Z*-*W Z*-*Q
+W*-*B W*&*C W*&*Y W*&*H W*-*Z W*-*Q
+Q*&*B Q*-*C Q*o*Y Q*-*H Q*-*Z Q*-*W
+
+Stick for Country Y
+Country B's army is mobilized. Country C's army is mobilized. Country Y's army is mobilized. Country H's army is mobilized. Country Z's army is mobilized. Country W's army is mobilized. Country Q's army is mobilized. 
+--------
+Board for Country H
+B*&*C B*-*Y B*&*H B*-*Z B*-*W B*&*Q
+C*&*B C*&*Y C*&*H C*&*Z C*&*W C*-*Q
+Y*-*B Y*&*C Y*&*H Y*&*Z Y*&*W Y*-*Q
+H*&*B H*&*C H*&*Y H*&*Z H*&*W H*-*Q
+Z*-*B Z*&*C Z*&*Y Z*&*H Z*-*W Z*-*Q
+W*-*B W*&*C W*&*Y W*&*H W*-*Z W*-*Q
+Q*&*B Q*-*C Q*-*Y Q*-*H Q*-*Z Q*-*W
+
+Stick for Country H
+Country B's army is mobilized. Country C's army is mobilized. Country Y's army is mobilized. Country H's army is mobilized. Country Z's army is mobilized. Country W's army is mobilized. Country Q's army is mobilized. 
+--------
+Board for Country Z
+B*&*C B*-*Y B*-*H B*-*Z B*-*W B*&*Q
+C*&*B C*&*Y C*&*H C*&*Z C*&*W C*-*Q
+Y*-*B Y*&*C Y*&*H Y*&*Z Y*&*W Y*-*Q
+H*-*B H*&*C H*&*Y H*&*Z H*&*W H*-*Q
+Z*-*B Z*&*C Z*&*Y Z*&*H Z*o*W Z*&*Q
+W*-*B W*&*C W*&*Y W*&*H W*o*Z W*-*Q
+Q*&*B Q*-*C Q*-*Y Q*-*H Q*&*Z Q*-*W
+
+Stick for Country Z
+Country B's army is mobilized. Country C's army is mobilized. Country Y's army is mobilized. Country H's army is mobilized. Country Z's army is mobilized. Country W's army is mobilized. Country Q's army is mobilized. 
+--------
+Board for Country W
+B*&*C B*-*Y B*-*H B*-*Z B*&*W B*&*Q
+C*&*B C*&*Y C*&*H C*&*Z C*&*W C*-*Q
+Y*-*B Y*&*C Y*&*H Y*&*Z Y*&*W Y*-*Q
+H*-*B H*&*C H*&*Y H*&*Z H*&*W H*-*Q
+Z*-*B Z*&*C Z*&*Y Z*&*H Z*o*W Z*-*Q
+W*&*B W*&*C W*&*Y W*&*H W*o*Z W*-*Q
+Q*&*B Q*-*C Q*-*Y Q*-*H Q*-*Z Q*-*W
+
+Stick for Country W
+Country B's army is mobilized. Country C's army is mobilized. Country Y's army is mobilized. Country H's army is mobilized. Country Z's army is mobilized. Country W's army is mobilized. Country Q's army is mobilized. 
+--------
+Board for Country Q
+B*&*C B*-*Y B*-*H B*-*Z B*-*W B*&*Q
+C*&*B C*&*Y C*&*H C*&*Z C*&*W C*-*Q
+Y*-*B Y*&*C Y*&*H Y*&*Z Y*&*W Y*o*Q
+H*-*B H*&*C H*&*Y H*&*Z H*&*W H*-*Q
+Z*-*B Z*&*C Z*&*Y Z*&*H Z*-*W Z*&*Q
+W*-*B W*&*C W*&*Y W*&*H W*-*Z W*-*Q
+Q*&*B Q*-*C Q*o*Y Q*-*H Q*&*Z Q*-*W
+
+Stick for Country Q
+Country B's army is mobilized. Country C's army is mobilized. Country Y's army is mobilized. Country H's army is mobilized. Country Z's army is mobilized. Country W's army is mobilized. Country Q's army is mobilized. 
+--------
